@@ -1,4 +1,4 @@
-# gradientdiscipline
+# diario de bordo
 
 01/01/23 -> pesquisa sobre programacao
 
