@@ -33,3 +33,5 @@
 13/10/23 -> Basics of devops (Nana course deadline - 13/11) (tb comecei a escrever esse diario e por no github)
 
 15/10/23 -> Adquiri na Udemy um curso mais atualizado e com certificação, porem o motivo maior foi o fato desse curso focar bastante no uso de LINUX E AWS, 53 total hours do Imran Teli
+
+17/10/23 -> curso muito bom do Imran, muitos problemas com vagrant mas finalmente estou sentindo os primeiro passos em devops, as coisas comecam a fazer sentido.
