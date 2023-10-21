@@ -35,3 +35,5 @@
 15/10/23 -> Adquiri na Udemy um curso mais atualizado e com certificação, porem o motivo maior foi o fato desse curso focar bastante no uso de LINUX E AWS, 53 total hours do Imran Teli
 
 17/10/23 -> curso muito bom do Imran, muitos problemas com vagrant mas finalmente estou sentindo os primeiro passos em devops, as coisas comecam a fazer sentido.
+
+21/10/23 -> finished the first part of the Devops course, lot of improvement and understanding of linux, bash and even automation. I guess a lot of the technical stuff wont be used though the knowledge of the flow and sense of whats going on will be very helpfull in the next steps when the knowledge will be built onto all ths stuff Imran taught me
