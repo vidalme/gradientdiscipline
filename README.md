@@ -30,10 +30,11 @@
 
 12/10/23 -> cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.
 
-13/10/23 -> Basics of devops (Nana course deadline - 13/11) (tb comecei a escrever esse diario e por no github)
+####################### Beginning of the journal #######################
+13/10/23 -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
 
-15/10/23 -> Adquiri na Udemy um curso mais atualizado e com certificação, porem o motivo maior foi o fato desse curso focar bastante no uso de LINUX E AWS, 53 total hours do Imran Teli
+15/10/23 -> Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]
 
-17/10/23 -> curso muito bom do Imran, muitos problemas com vagrant mas finalmente estou sentindo os primeiro passos em devops, as coisas comecam a fazer sentido.
+17/10/23 -> So many bugs with vagrant (local virtualization), though I begin to feel the first signs of understanding Devops culture and automation.
 
 21/10/23 -> finished the first part of the Devops course, lots of traditional virtualization, linux, bash.
