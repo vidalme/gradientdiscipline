@@ -38,3 +38,5 @@
 17/10/23 -> So many bugs with vagrant (local virtualization), though I begin to feel the first signs of understanding Devops culture and automation.
 
 21/10/23 -> finished the first part of the Devops course, lots of traditional virtualization, linux, bash.
+
+22/10/23 -> Started mixing AWS, replacing on-premise tools and a lot more. Great feeling to be reaching this point to put everything together.
