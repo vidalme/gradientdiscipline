@@ -16,29 +16,35 @@
 
 // O retorno
 
-23/08/23 -> pesquisa sobre devops, cloud, certificados...
+23/08/23 -> pesquisa sobre devops, cloud, certificados... (yt)
 
-26/08/23 -> brief intro linux/bash
+26/08/23 -> brief intro linux/bash (yt)
 
-29/08/23 -> brief intro network
+29/08/23 -> brief intro network (yt)
 
-01/09/23 -> brief intro cloud/aws
+01/09/23 -> brief intro cloud/aws (yt)
 
-07/09/23 -> brief intro devops (automation, docker, kubernetes)
+07/09/23 -> brief intro devops (automation, docker, kubernetes) (yt)
 
-13/09/23 -> foco no certificado SAA aws (deadline 13/12/23)
+13/09/23 -> foco no certificado SAA aws (deadline 13/12/23) (skillbuilder, aws whitepapers, yt and a bit of udemy)
 
 12/10/23 -> cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.
 
-####################### Beginning of the journal #######################
+####################### Beginning of the journal 13rd of Octorber 2023 #######################
+
 13/10/23 -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
 
 15/10/23 -> Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]
 
-17/10/23 -> So many bugs with vagrant (local virtualization), though I begin to feel the first signs of understanding Devops culture and automation.
+17/10/23 -> So many bugs with vagrant (local virtualization), though Im starting to feel the very first signs of understanding Devops culture and automation, quite subtle though.
 
-21/10/23 -> finished the first part of the Devops course, lots of traditional virtualization, linux, bash.
+21/10/23 -> finished the first part of the Devops course, it was about the basis of the workload, lots of traditional virtualization, linux, bash (missed on more networking but I already done a small youtube course on it, 20 or so hours on it).
 
-22/10/23 -> Started mixing AWS, replacing on-premise tools and a lot more. Great feeling to be reaching this point to put everything together.
+22/10/23 -> Learning how to include AWS into the mix, replacing on-premise "servers" and even other services with cloud power. Great feeling to be reaching this point to finally make the connection between the cloud and devops practices. (Before this course I was studying only cloud without any real understanding of operations/linux/network)
 
-24/10/23 -> 2 days of intense CI/CD studies, it was actually my first formal contact with the concept(heard of it, but never actually put my hand on it), the tool Imran chose is Jenkins ( I am aware there are many other options available ). I am still half way through the CI/CD section and I did face a bit of a learning curve, a few new concepts are being difficult to fully understand, but the little I could grasp was very exciting and motivating.
+23/10/23 -> Starting the Jenkins section of the course, it is the longes section of the whole course (6h), Imran does not fuck around, he is a straigh shooter and those 6 hours are of pure content and knowledge, this will be specially a wild ride since I was really looking forward to learn Jenkins cause there is something I like about automation and it looks like Jenkins would be the first actual taste of it.
+
+24/10/23 -> 2 days of intense CI/CD studies, it was actually my first formal contact with the concept(I had heard of it, but never actually had my hands on it), the tool Imran chooses is Jenkins ( I am aware there are many other options available ).
+I am still half way through the CI/CD section and I did face a bit of a learning curve in order to get the bigger picture, a few particular new concepts were quite challenging to fully comprehend, but the little I could grasp was very exciting and motivating.
+
+25/10/23 -> Done with first half of the studying section, and with taht finished
