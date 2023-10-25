@@ -40,3 +40,5 @@
 21/10/23 -> finished the first part of the Devops course, lots of traditional virtualization, linux, bash.
 
 22/10/23 -> Started mixing AWS, replacing on-premise tools and a lot more. Great feeling to be reaching this point to put everything together.
+
+24/10/23 -> 2 days of intense CI/CD studies, it was actually my first formal contact with the concept(heard of it, but never actually put my hand on it), the tool Imran chose is Jenkins ( I am aware there are many other options available ). I am still half way through the CI/CD section and I did face a bit of a learning curve, a few new concepts are being difficult to fully understand, but the little I could grasp was very exciting and motivating.
