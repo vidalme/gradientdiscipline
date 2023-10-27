@@ -53,6 +53,11 @@ I am still half way through the CI/CD section and I did face a bit of a learning
 
 27/10/23
 
+Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.
+Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estudado no dia seguinte!
+
+28/10/23
+
 Objetives:
 
 1. Do a revision of the jenkins section
