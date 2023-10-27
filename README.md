@@ -47,4 +47,6 @@
 24/10/23 -> 2 days of intense CI/CD studies, it was actually my first formal contact with the concept(I had heard of it, but never actually had my hands on it), the tool Imran chooses is Jenkins ( I am aware there are many other options available ).
 I am still half way through the CI/CD section and I did face a bit of a learning curve in order to get the bigger picture, a few particular new concepts were quite challenging to fully comprehend, but the little I could grasp was very exciting and motivating.
 
-25/10/23 -> Done with first half of the studying section, and with taht finished
+25/10/23 -> Done with first half of the studying section (Jenkins), and with taht finished
+
+26/10/23 -> Due to some burnout from the Jenkins section, I ended up spending the day halfassing, I had the material out but ended up just trying to solve some bugs I had with jenkins+ECS (aws) and a generalized SSH issue. It was basically a day off. no focus and no discipline.
