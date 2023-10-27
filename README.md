@@ -50,3 +50,11 @@ I am still half way through the CI/CD section and I did face a bit of a learning
 25/10/23 -> Done with first half of the studying section (Jenkins), and with taht finished
 
 26/10/23 -> Due to some burnout from the Jenkins section, I ended up spending the day halfassing, I had the material out but ended up just trying to solve some bugs I had with jenkins+ECS (aws) and a generalized SSH issue. It was basically a day off. no focus and no discipline.
+
+27/10/23
+
+Objetives:
+
+1. Do a revision of the jenkins section
+2. Fix bug that prevented the ECS/jenkins work
+3. finish Jenkins section
