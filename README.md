@@ -51,9 +51,7 @@ I am still half way through the CI/CD section and I did face a bit of a learning
 
 26/10/23 -> Due to some burnout from the Jenkins section, I ended up spending the day halfassing, I had the material out but ended up just trying to solve some bugs I had with jenkins+ECS (aws) and a generalized SSH issue. It was basically a day off. no focus and no discipline.
 
-27/10/23
-
-Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.
+27/10/23 -> Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.
 Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estudado no dia seguinte!
 
 28/10/23
@@ -63,3 +61,8 @@ Objetives:
 1. Do a revision of the jenkins section
 2. Fix bug that prevented the ECS/jenkins work
 3. finish Jenkins section
+
+I could get a lot of study in, but a bit unfocused, it was guided at a high level by the Jenkins material but ended up going everywhere around the subject.
+
+29/10/23
+Planning: Finish revision (Docker part specially)
