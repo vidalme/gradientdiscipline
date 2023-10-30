@@ -66,3 +66,5 @@ I could get a lot of study in, but a bit unfocused, it was guided at a high leve
 
 29/10/23
 Planning: Finish revision (Docker part specially)
+Execution: Done! And even better, could fix the bug with ECS/Jenkins as well!
+The revision overall was very beneficial, I went over the jenkins section too quickly and now Im glad I got so many bugs in the section project, that forced me to go back and redo most of the section and I actually expanded the research a lil bit.
