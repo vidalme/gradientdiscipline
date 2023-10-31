@@ -1,6 +1,6 @@
 # diario de bordo
 
-**[[  01/01/23  ]]**-> pesquisa sobre programacao
+**[[  01/01/23  ]]** -> pesquisa sobre programacao
 
 07/01/23 -> python
 
@@ -64,13 +64,13 @@ Objetives:
 
 I could get a lot of study in, but a bit unfocused, it was guided at a high level by the Jenkins material but ended up going everywhere around the subject.
 
-[[29/10/23]]
+**[[  29/10/23  ]]**
 
 Planning: Finish revision (Docker part specially)
 Execution: Done! And even better, could fix the bug with ECS/Jenkins as well!
 The revision overall was very beneficial, I went over the jenkins section too quickly and now Im glad I got so many bugs in the section project, that forced me to go back and redo most of the section and I actually expanded the research a lil bit.
 
-[[30/10/23]]
+**[[  30/10/23  ]]**
 
 Planning: Finish Jenkins section.
 Execution: took me a while to go over Jenkins using master and slave concepts, but once I did understand it was very revealing, the power of jenkins is really impressive.
@@ -78,5 +78,5 @@ Also there was one very good section on security with Jenkins, many good options
 
 This ends Jenkins area, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
 
-[[31/10/23]]
+**[[  31/10/23  ]]**
 Planning: Finish Jenkins section.
