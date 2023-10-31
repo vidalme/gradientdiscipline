@@ -54,7 +54,7 @@ I am still half way through the CI/CD section and I did face a bit of a learning
 27/10/23 -> Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.
 Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estudado no dia seguinte!
 
-28/10/23
+[[28/10/23]]
 
 Objetives:
 
@@ -72,4 +72,11 @@ The revision overall was very beneficial, I went over the jenkins section too qu
 
 [[30/10/23]]
 
+Planning: Finish Jenkins section.
+Execution: took me a while to go over Jenkins using master and slave concepts, but once I did understand it was very revealing, the power of jenkins is really impressive.
+Also there was one very good section on security with Jenkins, many good options but I liked role based permissions for overall utilization.
+
+This ends Jenkins area, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
+
+[[31/10/23]]
 Planning: Finish Jenkins section.
