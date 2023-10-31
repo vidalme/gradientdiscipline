@@ -1,6 +1,6 @@
 # diario de bordo
 
-### [[  01/01/23  ]] ###-> pesquisa sobre programacao
+**[[  01/01/23  ]]**-> pesquisa sobre programacao
 
 07/01/23 -> python
 
