@@ -84,7 +84,7 @@ Execution: I did some the research but it was quick, and I ended up following th
 
 ## November 
 
-<img src="../imgs/november_studyplan.png" alt="november's studyplan" />
+<img src="./imgs/november_studyplan.png" alt="november's studyplan" />
 
 
 **[[01/11/23]]**<br>
