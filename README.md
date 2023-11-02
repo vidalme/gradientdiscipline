@@ -84,4 +84,12 @@ Execution: I did some the research but it was quick, and I ended up following th
 
 **[[01/11/23]]**<br>
 Planning: Finish videos from Python section, maybe write some practice code (related to devops/automation) <br>
-Execution: <br><br>
+Execution: I ended up finishing the python section but didnt really practice it, it was quite a quick intro to python and I will be seeing it again in the future. So what I really spent my day on was Ansible, boy am I sold on it. I did watch some lectures but I was leaned more on free research, jsut to get an overall grasp of the tool and what it solves.
+
+<br><br>
+
+**[[02/11/23]]**<br>
+Planning: hard Ansible <br>
+Execution:
+
+<br><br>
