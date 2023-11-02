@@ -82,6 +82,11 @@ This ends Jenkins area, hell of a ride, now I do feel like I got a decent unders
 Planning: Research about Ansible, get my feet wet. <br>
 Execution: I did some the research but it was quick, and I ended up following the course pre-estabilished order and I will be doing the Python part (I was a bot reclunctant on spending the time on it at this point). Very simple language and alreayd went through half of it.<br><br>
 
+## November 
+
+<img src="./imgs/november_studyplan.png" alt="november's studyplan" />
+
+
 **[[01/11/23]]**<br>
 Planning: Finish videos from Python section, maybe write some practice code (related to devops/automation) <br>
 Execution: I ended up finishing the python section but didnt really practice it, it was quite a quick intro to python and I will be seeing it again in the future. So what I really spent my day on was Ansible, boy am I sold on it. I did watch some lectures but I was leaned more on free research, jsut to get an overall grasp of the tool and what it solves.
