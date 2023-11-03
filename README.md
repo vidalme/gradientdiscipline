@@ -76,25 +76,35 @@ Planning: Finish Jenkins section.
 Execution: took me a while to go over Jenkins using master and slave concepts, but once I did understand it was very revealing, the power of jenkins is really impressive.
 Also there was one very good section on security with Jenkins, many good options but I liked role based permissions for overall utilization.
 
-This ends Jenkins area, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
+This ends the Jenkins area, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
 
 **[[31/10/23]]**<br>
 Planning: Research about Ansible, get my feet wet. <br>
 Execution: I did some the research but it was quick, and I ended up following the course pre-estabilished order and I will be doing the Python part (I was a bot reclunctant on spending the time on it at this point). Very simple language and alreayd went through half of it.<br><br>
 
-## November 
+## November
 
 <img src="./imgs/november_studyplan.png" alt="november's studyplan" />
 
-
 **[[01/11/23]]**<br>
 Planning: Finish videos from Python section, maybe write some practice code (related to devops/automation) <br>
-Execution: I ended up finishing the python section but didnt really practice it, it was quite a quick intro to python and I will be seeing it again in the future. So what I really spent my day on was Ansible, boy am I sold on it. I did watch some lectures but I was leaned more on free research, jsut to get an overall grasp of the tool and what it solves.
+Execution:
+
+Comments
+I ended up finishing the python section but didnt really practice it, it was quite a quick intro to python and I will be seeing it again in the future. So what I really spent my day on was Ansible, boy am I sold on it. I did watch some lectures but I was leaned more on free research, jsut to get an overall grasp of the tool and what it solves.
 
 <br><br>
 
 **[[02/11/23]]**<br>
-Planning: hard Ansible <br>
-Execution:
+Planning: Go hard at Ansible <br>
+Execution: oh boy I did, very much so!
 
+Comments
+Followed a lot of video lectures and some decent ammount of documentation reading, not a lot of practice though. I am a bit tired and got a bit ahead of myself, so I guess before finishing the last hour of the ansible section I will take some time off to watch a few "related" videos. I am feeling like following someones project and maybe trying to get a very small project myself would be very beneficial at this point. I am ahead of schedule and do have the available time for it, I just need to make sure this side quest includes Ansible.
+
+<br><br>
+
+**[[03/11/23]]**<br>
+Planning: Take it easy and check some related material/projects with ansible <br>
+Execution:
 <br><br>
