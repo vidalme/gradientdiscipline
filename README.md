@@ -106,5 +106,11 @@ Followed a lot of video lectures and some decent ammount of documentation readin
 
 **[[03/11/23]]**<br>
 Planning: Take it easy and check some related material/projects with ansible <br>
-Execution:
+Execution: Wander a lot around the devops world then smashed ansible section.
+
+Comments
+A bit of checking devops videos, more related to concepts and culturem this was fun but not really practical, I guess it does help with getting confortable with some tech terms.
+Then I tried to watch a few "projects tutorials" but I had a difficult time from the get got, since they all did something with Docker / Terraform within the first 5 minutes. Techs I havent really understood fully.
+After feeling like I waste a lot of time I went back to the course and finished the rest of Ansible section, even though it was for only 2 days, I actually took a lot of new concepts even a quick glace (20 mins class) at IaC in the cloud using aws, seems like Terraform is the actual current tool for provisioning infra in the cloud, Ansible is still good tho for configuring all the infra, so I should see a lot of Ansible in my future.
+
 <br><br>
