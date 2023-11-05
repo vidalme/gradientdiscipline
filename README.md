@@ -114,3 +114,19 @@ Then I tried to watch a few "projects tutorials" but I had a difficult time from
 After feeling like I waste a lot of time I went back to the course and finished the rest of Ansible section, even though it was for only 2 days, I actually took a lot of new concepts even a quick glace (20 mins class) at IaC in the cloud using aws, seems like Terraform is the actual current tool for provisioning infra in the cloud, Ansible is still good tho for configuring all the infra, so I should see a lot of Ansible in my future.
 
 <br><br>
+
+**[[04/11/23]]**<br>
+Planning: AWS networking concepts <br>
+Execution: I could get a lot done, focused on the actual aws networking concepts, missed the last class that will be done next day
+
+Comments: I could focus but I had a famili commitment in te evening, so my studies ended abruptly at around 16:00. I was actually really tired for not being able to sleep well the past feew days so I guess this break will be fruitfull, I already feel better today (sunday).
+The study was difficult but a bit frustrating since it was all unexpectadly review of AWS material, for some reason I expected to be something more integrated with devops fuctionality, but I guess the next section will be aws and pipeline using aws services I havent touched yet, but it is a short section.
+
+<br><br>
+
+**[[05/11/23]]**<br>
+Planning: Finish AWS networking review, finish as well next section, which goes over a AWS pipelining services <br>
+Execution:
+Comments:
+
+<br><br>
