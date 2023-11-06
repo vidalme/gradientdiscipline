@@ -125,7 +125,24 @@ The study was difficult but a bit frustrating since it was all unexpectadly revi
 <br><br>
 
 **[[05/11/23]]**<br>
-Planning: Finish AWS networking review, finish as well next section, which goes over a AWS pipelining services <br>
+Planning: Finish AWS networking review, finish as well next section, which goes over a AWS CI/CD services <br>
+
+Execution: I didnt really focus tahta much, but I got at least 3 good ours in.
+
+Comments: I could not finish teh left overs of the ci/cd aws section, bit cause I am very tired of the subject (dying to go into docker next) and a bit of the quality of the course, it really fell a lot. Lots of mistakes by Imran during the lectures but I also just didnt feel like doing it, so I basically quit halfway through second last lecture of the section, I may actually try different tutors/tutorials for this subject which will def be necessary for devops carreer (although I guess docker will be so much more relevant)
+
+Im 75% into Imrans course so far and now I feel like I can take a break of his lectures a bit, I will keep on the same path and will take a equivalent Docker course on youtube. It's a very recent tutorial and it seems by the comments that people liked it, its 5 hours long which is basically as long as imrans one.
+
+<br><br>
+
+**[[06/11/23]]**<br>
+Planning: I will try a new tutor for docker, english without an accent for a bit and he seems to tell a lot of the whys before the hows approach.
+I plan on finishing it in about 3 days at the longest.
+
+[[Complete Docker Course - From BEGINNER to PRO! (Learn Containers)]] -> 4h45m
+https://www.youtube.com/watch?v=RqTEHSBrYFw&list=PLPY6GoqknHPATw0wV48__JFa8I-fzESKK&index=2&t=250s
+<br>
+
 Execution:
 Comments:
 
