@@ -143,6 +143,18 @@ I plan on finishing it in about 3 days at the longest.
 https://www.youtube.com/watch?v=RqTEHSBrYFw&list=PLPY6GoqknHPATw0wV48__JFa8I-fzESKK&index=2&t=250s
 <br>
 
+Execution: I went 1 hour into the yt video, did not like it, then went back to Imran's and took it really slow
+
+Comments: Slowly I am feeling a need of learning more about linux and network, the gap of knowledge really slows me down on the learning path.
+So today after re starting doing Imrans Docker section, i felt that Imrans course is quite outdated in the last few sections, specially Docker, even teaching stuff that people jsut dont use it anymore.
+I tried to expand my studies into linux stuff (specifically awk command), I guess I should take a bit more of a holistic path and try to be less tunnel vision cause devops really isnt about a single tech, so I need those strong basis.
+
+<br><br>
+
+**[[07/11/23]]**<br>
+Planning: Get busy with docker, follow a few lectures of Imrans course but I should keep reaching into different sources (include linux and network, thats all good)
+<br>
+
 Execution:
 Comments:
 
