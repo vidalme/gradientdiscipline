@@ -152,7 +152,7 @@ I tried to expand my studies into linux stuff (specifically awk command), I gues
 <br><br>
 
 **[[07/11/23]]**<br>
-Planning: Get busy with docker, follow a few lectures of Imrans course but I should keep reaching into different sources (include linux and network, thats all good)
+Planning: Focus on linux, I will try to close some gaps at least in linux (following the recommended minimal from roadmap.sh)
 <br>
 
 Execution:
