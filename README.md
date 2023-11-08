@@ -155,6 +155,16 @@ I tried to expand my studies into linux stuff (specifically awk command), I gues
 Planning: Focus on linux, I will try to close some gaps at least in linux (following the recommended minimal from roadmap.sh)
 <br>
 
+Execution: Done very well, followed the EDx ICPA I course, with focus on processes, filesystem and a bit of shell scripting.
+
+Comments: Edx was a bit boring but I got better understanding of process and file system, trained a bit of scripting as well. I was really tired today due to not skeeping last night but I could get stuff done and put the timein. I do feel like I absorbed a lot even tired (sign that my brain is just gettin more fortitude) of the important underlying cooncepts of linux. I really need to get good at this, it will reflect on most of my career as a IT solver.
+
+<br><br>
+
+**[[08/11/23]]**<br>
+Planning: More linux, I could def spend a whole day studying networking (if there is time do a few shell script tutorials or go for other linux concepts)
+<br>
+
 Execution:
 Comments:
 
