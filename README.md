@@ -76,7 +76,7 @@ Planning: Finish Jenkins section.
 Execution: took me a while to go over Jenkins using master and slave concepts, but once I did understand it was very revealing, the power of jenkins is really impressive.
 Also there was one very good section on security with Jenkins, many good options but I liked role based permissions for overall utilization.
 
-This ends the Jenkins area, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
+This ends the Jenkins section, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
 
 **[[31/10/23]]**<br>
 Planning: Research about Ansible, get my feet wet. <br>
@@ -165,7 +165,18 @@ Comments: Edx was a bit boring but I got better understanding of process and fil
 Planning: More linux, I could def spend a whole day studying networking (if there is time do a few shell script tutorials or go for other linux concepts)
 <br>
 
+Execution: I went for networking early, switched to linux a lil of bash script and then commands for text/search maniulation linux.
+
+Comments: It was really hard to go over networking, super duper boring, most of it I already knew so I jsut glaced over it, I did a bit of research into security as well, but very very brielfy, I guess I should get back to network and do some work on it, I think it really happened was that I didnt find a goot tutorial with a nice lil project to get mmy hands on it (conceptually im still confused on networking). What I really did was study linux commands.
+
+<br><br>
+
+**[[09/11/23]]**<br>
+Planning: I think I could spend a bit more time playing with linux, really a lot to learn to even think of becoming employable, I really need to focus on learning real sysadmin skills, I am sure they will be helpfull. (maybe a bit of regEx), another good thing is that I am actually excited about learning linux, so let's just do this for a few days then make sure to finish Imrans course, next few days I could actually may go back and forth between focused linux sstudies along with Imrans course or some other topic I might be interested (as long as it is related to devsecops), try to mix up studying with different topics sessions.
+<br>
+
 Execution:
+
 Comments:
 
 <br><br>
