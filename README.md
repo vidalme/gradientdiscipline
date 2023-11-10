@@ -1,4 +1,9 @@
+##############################################################################################
+############################ O RE-retorno ########################################
+
 # diario de bordo
+
+Apos quase 20 anos, volto para tech.
 
 **[[01/01/23]]** -> pesquisa sobre programacao
 
@@ -14,7 +19,16 @@
 
 05/05/23 -> ultimo commit git, dei um tempo...
 
-// O retorno
+##############################################################################################
+############################ O RE-retorno ########################################
+
+Apos quase 4 meses afastado do retorno, aqui vem o re-retorno, em nova modalidade, ouvi falar
+dessa tal de cloud e devops.
+FIquei curioso e vou começar a pesquisar do que se trata pois nem sei realmente o que faz direito.
+Passar uns dias tentando entender esse novo universo.
+
+##############################################################################################
+##############################################################################################
 
 23/08/23 -> pesquisa sobre devops, cloud, certificados... (yt)
 
@@ -30,7 +44,14 @@
 
 12/10/23 -> cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.
 
+##############################################################################################
+##############################################################################################
+##############################################################################################
+####################### ONE YEAR TO GET JOB READY ON THE CLOUD #######################
 ####################### Beginning of the journal 13rd of Octorber 2023 #######################
+##############################################################################################
+##############################################################################################
+##############################################################################################
 
 13/10/23 -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
 
@@ -175,8 +196,20 @@ Comments: It was really hard to go over networking, super duper boring, most of 
 Planning: I think I could spend a bit more time playing with linux, really a lot to learn to even think of becoming employable, I really need to focus on learning real sysadmin skills, I am sure they will be helpfull. (maybe a bit of regEx), another good thing is that I am actually excited about learning linux, so let's just do this for a few days then make sure to finish Imrans course, next few days I could actually may go back and forth between focused linux sstudies along with Imrans course or some other topic I might be interested (as long as it is related to devsecops), try to mix up studying with different topics sessions.
 <br>
 
-Execution:
+Execution: Started the day trying to find a different way of learning Docker, I ended up focusing on Imrans second Docker section. I do feel a decent improvemtn in my docker knowledge.
 
+Comments:
+There is just so much of linux to learn, so I ended up taking the day to get a bit of docker in me, like I said I really think Ill be mixing things up, mostly focusing on the "ROAD" already estabilished and few interesting side quests to make things interesting (it helps alot to keep myself motivated in the short run although I regret a bit when I delay the official road too much)
+Oficial road is still gettin that cloud/devsecops job IT job in a year.
+up to this moment has changed but I am indeed in the middle sub-sub-mission (my shortest goal was AWS SAA in 3 months but then I had to pause a bit so I could get more overall knowledge, going over a big shallow devops course )
+
+<br><br>
+
+**[[10/11/23]]**<br>
+Planning: Move to kubernetes, focus on Imrans course.
+<br>
+
+Execution:
 Comments:
 
 <br><br>
