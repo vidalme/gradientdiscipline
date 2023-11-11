@@ -173,11 +173,11 @@ Execution: Could actually do a lot of the course, it was clarifyin and I feel so
 **[[10/11/23]]**<br>
 Planning: kubernetes
 <br>
-Execution:
+Execution: did nothing, HUGE L in the day, woke up real late and just couldnt study at all. Just a very tiny bit of Docker revision.
 <br><br>
 
 **[[11/11/23]]**<br>
-Planning:
+Planning: Docker
 <br>
 Execution:
 <br><br>
