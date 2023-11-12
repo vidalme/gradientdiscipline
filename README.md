@@ -179,16 +179,46 @@ Execution: did nothing, HUGE L in the day, woke up real late and just couldnt st
 **[[11/11/23]]**<br>
 Planning: Docker
 <br>
-Execution:
+Execution: I got a lot done, full docker focus, read a lot of docs as well (did the whoel gettin started from the official docs). I still feel like I need more practice on docker, I really want to get this down so it smooths out the kubernetes transition.
 <br><br>
 
 **[[12/11/23]]**<br>
-Planning:
+Planning: Docker (maybe kubernetes)
 <br>
 Execution:
 <br><br>
 
 **[[13/11/23]]**<br>
+Planning:
+<br>
+Execution:
+<br><br>
+
+**[[14/11/23]]**<br>
+Planning:
+<br>
+Execution:
+<br><br>
+
+**[[15/11/23]]**<br>
+Planning:
+<br>
+Execution:
+<br><br>
+
+**[[16/11/23]]**<br>
+Planning:
+<br>
+Execution:
+<br><br>
+
+**[[17/11/23]]**<br>
+Planning:
+<br>
+Execution:
+<br><br>
+
+**[[18/11/23]]**<br>
 Planning:
 <br>
 Execution:
