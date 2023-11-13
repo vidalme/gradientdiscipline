@@ -185,11 +185,11 @@ Execution: I got a lot done, full docker focus, read a lot of docs as well (did 
 **[[12/11/23]]**<br>
 Planning: Docker (maybe kubernetes)
 <br>
-Execution:
+Execution: Got a bit of Docker in, not much tho, enough to complete the 60 weekly hour goal for the first time.
 <br><br>
 
 **[[13/11/23]]**<br>
-Planning:
+Planning: Docker (maybe swarm/k8s) or focus on kodekloud new platform (cause its free for now, so I really should enjoy for now)
 <br>
 Execution:
 <br><br>
