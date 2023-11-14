@@ -197,7 +197,7 @@ Execution: Turns out the platform wasn't free, so I just dug my head into kubern
 **[[14/11/23]]**<br>
 Planning: Kubernetes (kodekloud)
 <br>
-Execution:
+Execution: went hard on kubernetes, trying to build a good base, not taking any shortcuts on it, Ill study trying to build stuff along with every new concept, will need a lot of practice in the beginning to make at least the base super clearly understood.
 <br><br>
 
 **[[15/11/23]]**<br>
