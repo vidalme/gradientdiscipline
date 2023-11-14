@@ -191,11 +191,11 @@ Execution: Got a bit of Docker in, not much tho, enough to complete the 60 weekl
 **[[13/11/23]]**<br>
 Planning: Docker (maybe swarm/k8s) or focus on kodekloud new platform (cause its free for now, so I really should enjoy for now)
 <br>
-Execution:
+Execution: Turns out the platform wasn't free, so I just dug my head into kubernetes really, Imrans course bugged out so I started following kodeklouds youtube free kubernetes course/labs.
 <br><br>
 
 **[[14/11/23]]**<br>
-Planning:
+Planning: Kubernetes (kodekloud)
 <br>
 Execution:
 <br><br>
