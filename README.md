@@ -201,7 +201,7 @@ Execution: went hard on kubernetes, trying to build a good base, not taking any 
 <br><br>
 
 **[[15/11/23]]**<br>
-Planning:
+Planning: kubernetes (chill a bit), try different sources and a high level understanding.
 <br>
 Execution:
 <br><br>
