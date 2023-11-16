@@ -203,7 +203,7 @@ Execution: went hard on kubernetes, trying to build a good base, not taking any 
 **[[15/11/23]]**<br>
 Planning: kubernetes (chill a bit), try different sources and a high level understanding.
 <br>
-Execution:
+Execution: Checked a few channles ended up gettin back to Imrans course, I MUST FINISH IT!!(after finishing I already have 10 following plans, but just focus on the course, the gola was just to have a better understanding of devops, not getting good at it right now) I also got a few issues re-installing kOps to create k8s clusters, I need to work on my patience when facing bugs. Anyways, went back later solved it and could get few good hours in.
 <br><br>
 
 **[[16/11/23]]**<br>
