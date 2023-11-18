@@ -215,11 +215,12 @@ Execution: Not very effient honestly, facing a lot of bugs with kops for creatin
 **[[17/11/23]]**<br>
 Planning:kubernetes, focus on getting some lectures in.
 <br>
-Execution:
+Execution: Docker and kubernetes!
+Well, changed completelly the day, but I think it was fruitfull. I did a long review on Docker, even dockerized an old react app of mine. I really feel like I needed that to help me with kubernetes, even though I was doing some low level Docker stuff the help comes as a better high level of the whole cycle with docker and kubernetes. So it was good practice and it may be the beggining of a full project that I need to do by the end of Imrans course, I will need to get this app react repo with a ci/cd with infra from terraform and ansible, then dockerizing it and throwing into a kubernetes cluster.
 <br><br>
 
 **[[18/11/23]]**<br>
-Planning:
+Planning: Kubernetes (Imrans course)
 <br>
 Execution:
 <br><br>
