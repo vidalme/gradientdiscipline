@@ -228,11 +228,11 @@ Execution: I completed a few more lectures of kubernetes, but I keep coming back
 **[[19/11/23]]**<br>
 Planning: Kubernetes (Imrans course + hands on)
 <br>
-Execution:
+Execution: Kept on trying to make k8s services run after midnigth. During the day I spent with family, I was only one hour from my weekly objecive and at night I completed the hour with some research on k8s network.
 <br><br>
 
 **[[20/11/23]]**<br>
-Planning:
+Planning: Kubernetes (Imrans course + hands on) - doing what i missed from yesterday.
 <br>
 Execution:
 <br><br>
