@@ -234,7 +234,7 @@ Execution: Kept on trying to make k8s services run after midnigth. During the da
 **[[20/11/23]]**<br>
 Planning: Kubernetes (Imrans course + hands on) - doing what i missed from yesterday.
 <br>
-Execution:
+Execution: not muuch
 <br><br>
 
 **[[21/11/23]]**<br>
