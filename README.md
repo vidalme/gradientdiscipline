@@ -234,17 +234,17 @@ Execution: Kept on trying to make k8s services run after midnigth. During the da
 **[[20/11/23]]**<br>
 Planning: Kubernetes (Imrans course + hands on) - doing what i missed from yesterday.
 <br>
-Execution: not muuch
+Execution: didnt put that much time in and I am still lcoked up trying to run my app in kubernetes, so I went back into docker to fix the image, so right now Im basically getting practice with docker and kubernetes, actual hands on.
 <br><br>
 
 **[[21/11/23]]**<br>
-Planning:
+Planning: docker + kubernetes hands on practice.
 <br>
-Execution:
+Execution: Completed a week on k8s so I sprinted a bit to complete it. Got deep into k8s but not with complete understanding, I went a bit through the motions on the k8s project, i just dont feel like I have enough k8s knowledge yet. This def must be reviewed for at least another week. K8s is done and I already initiated 2 new sections, terraform and gitops.
 <br><br>
 
 **[[22/11/23]]**<br>
-Planning:
+Planning: Terraform (prefereabl finish it in 2 days, I onyl need a overview for now)
 <br>
 Execution:
 <br><br>
