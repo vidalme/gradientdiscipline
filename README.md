@@ -244,13 +244,13 @@ Execution: Completed a week on k8s so I sprinted a bit to complete it. Got deep 
 <br><br>
 
 **[[22/11/23]]**<br>
-Planning: Terraform (prefereabl finish it in 2 days, I onyl need a overview for now)
+Planning: Terraform (prefereably finish it in 2 days, I only need a overview for now)
 <br>
-Execution:
+Execution: Well I finished it in a single day, terraform is not as simple, there is a lot of "coding" in it. I could understand most of it, almost 95% and thats why I could go through it real fast, I just think to actually get good at it I will need to put a lot of practice time in it. Although I did enjoy it and I wanted to spend more time on it right now I wont, I have to remind myself constantly that it is only a ovewview for now.
 <br><br>
 
 **[[23/11/23]]**<br>
-Planning:
+Planning: Finish Gitops section or at least 2 sections at most.
 <br>
 Execution:
 <br><br>
