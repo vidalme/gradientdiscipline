@@ -255,7 +255,12 @@ Planning: Finish Gitops section or at least 2 sections at most.
 Execution: Finished gitops section and the other last two section of the course. The last 2 sections were kinda old using Jenkins (which I do not think Ill focus any energy on) and the other very last section was on aws cloudformation (IAC which people do not use directly), so I went over it real fast and I may return (specially to the GitOps section becuase it used an architecture very interesting) with terraform, kubernetes, git actions.
 Finished Imrans course, I do feel I learn a lot but at the same tim I feel like I was introduced to a lot of new contents and ideas, now I need to sif through it and pick a few to get good at it.
 Now there is only a month left in the year, I will organize it to try and get as much as I can in, but the content will for sure be focused on my basic tech gaps; network, linux, servers, protocols... so next year I can focus on deep diving specific techs. (k8s, cloud, terraform, helm, shell scripting/python)
+
+I also spent a bit drawing a skill map so I can figure the areas I am lacking
+
 <br><br>
+
+<img src="./imgs/skills-11-23-2338.png" alt="skills" />
 
 **[[24/11/23]]**<br>
 Planning: Nginx Mastery youtube -> 7 hours ( https://www.youtube.com/watch?v=GlCloo47p_E&list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1&index=3 )
