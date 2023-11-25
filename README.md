@@ -265,11 +265,11 @@ I also spent a bit drawing a skill map so I can figure the areas I am lacking
 **[[24/11/23]]**<br>
 Planning: Nginx Mastery youtube -> 7 hours ( https://www.youtube.com/watch?v=GlCloo47p_E&list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1&index=3 )
 <br>
-Execution:
+Execution: I did some decent ammount of nginx study, the tutorial I picked up to follow ended up being a lot of nginx running on docker, which grabbed a lot of my attention, so I ended up leaning towards doing docker stuff. I liked it and I think this si the way to go forward, but right now I really should focus more on more basic stuff, basics aer very important for me, I really need to be good at linux most of all
 <br><br>
 
 **[[25/11/23]]**<br>
-Planning:
+Planning: Moms bday, prob won't study at all
 <br>
 Execution:
 <br><br>
