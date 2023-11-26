@@ -277,7 +277,7 @@ Execution: well yep, exaclty that, didn touch the computer at all... it will com
 **[[26/11/23]]**<br>
 Planning: Plan out the last few days of november and start having a skecth of what dcember will look like
 <br>
-Execution:
+Execution: why aint counting?
 <br><br>
 
 **[[27/11/23]]**<br>
