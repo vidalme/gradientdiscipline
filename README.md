@@ -271,7 +271,7 @@ Execution: I did some decent ammount of nginx study, the tutorial I picked up to
 **[[25/11/23]]**<br>
 Planning: Moms bday, prob won't study at all
 <br>
-Execution:
+Execution: well yep, exaclty that, didn touch the computer at all... it will complete 48h without no studying, so I guess I really should go tonite...
 <br><br>
 
 **[[26/11/23]]**<br>
