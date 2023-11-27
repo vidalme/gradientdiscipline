@@ -283,7 +283,12 @@ Execution: I ended up just spending the whole weekend with family, it was great 
 **[[27/11/23]]**<br>
 Planning:Focus on organizing what I will actually study and make sure it is a chanlenging goal for the week.
 <br>
-First step is to set up the plan.
+**A list of a few deeper gaps at this moment.**<br>
+-> databases - I know the whats, whys, hows... but I need more techinical skill, like the ability to spin up DB servers (VMs and containers) and connecting them to other services (VMs and containers). At the very least 1 DB hands on set up, but 2 would be very nice (3 is the ideal, this knowledge/experience is just that important)<br>
+suggestion: MySQL, PostgreSQL, Redis.<br>
+-> SSL / TLS - don't even know exactly what it is, something to do with security, get a grasp on the higher level concepts.<br>
+-> DNS - I knwo a bit and can pass by, but Im in nee of more direct contato with it (lil of psychological bareer), I just need a few videos to feel a bit more inside.<br>
+-> Linux - even though I could clearly use a lot more knowledge about the whole Linux universe, I firtly should focus on the scripting part. Especially automation, here I could use a couple of actual projects as well.
 <br>
 Execution:
 <br><br>
