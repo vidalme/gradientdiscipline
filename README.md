@@ -277,11 +277,14 @@ Execution: well yep, exaclty that, didn touch the computer at all... it will com
 **[[26/11/23]]**<br>
 Planning: Plan out the last few days of november and start having a skecth of what dcember will look like
 <br>
-Execution: why aint counting?
+Execution: I ended up just spending the whole weekend with family, it was great but now I will need to make up for it. Next week will be 60 hours week (with focus and discipline)!
 <br><br>
 
 **[[27/11/23]]**<br>
-Planning:<br>
+Planning:Focus on organizing what I will actually study and make sure it is a chanlenging goal for the week.
+<br>
+First step is to set up the plan.
+<br>
 Execution:
 <br><br>
 
