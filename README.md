@@ -275,7 +275,7 @@ Execution: I ended up just spending the whole weekend with family, it was great 
 
 #### [ [ 27 / 11 / 2023 ] ]<br>
 
-#### Planning:Focus on organizing what I will actually study and make sure it is a chanlenging goal for the week.
+#### Planning ---> Focus on organizing what I will actually study and make sure it is a chanlenging goal for the week.
 
 **A list of a few deeper gaps at this moment.**<br>
 -> databases - I know the whats, whys, hows... but I need more techinical skill, like the ability to spin up DB servers (VMs and containers) and connecting them to other services (VMs and containers). At the very least 1 DB hands on set up, but 2 would be very nice (3 is the ideal, this knowledge/experience is just that important)<br>
@@ -284,23 +284,22 @@ suggestion: MySQL, PostgreSQL, Redis.
 -> DNS - I knwo a bit and can pass by, but Im in nee of more direct contato with it (lil of psychological bareer), I just need a few videos to feel a bit more inside.<br>
 -> Linux - even though I could clearly use a lot more knowledge about the whole Linux universe, I firtly should focus on the scripting part. Especially automation, here I could use a couple of actual projects as well.
 
-#### Execution: I got a very brief quick review of Databases but I dropped it, I know I need the basis knowledge but I will focus on the employable skills, people need to nkow linux and shell script, its just a MUST, its basically the number one skill for jobs in SRE/Devops world. So i bought a shell script udemy course, -> Linux Shell Scripting: A Project-Based Approach to Learning Now I now I can finish a difcult course, I will try to build on it. I will do it and practice it as much as I think I should. Try to have fun with this.
+#### Execution ---> I got a very brief quick review of Databases but I dropped it, I know I need the basis knowledge but I will focus on the employable skills, people need to nkow linux and shell script, its just a MUST, its basically the number one skill for jobs in SRE/Devops world. So i bought a shell script udemy course, -> Linux Shell Scripting: A Project-Based Approach to Learning Now I now I can finish a difcult course, I will try to build on it. I will do it and practice it as much as I think I should. Try to have fun with this.
 
 #### [ [ 28 / 11 / 2023 ] ]
 
-#### Planning: Work on shell script cousrse<br><br>
+#### Planning ---> Work on shell script cousrse
 
-#### Execution:
+#### Execution --->
 
-<br><br>
+#### [ [ 29 / 11 / 2023 ] ]
 
-**[[29/11/23]]**<br>
-Planning:<br><br>
-Execution:
-<br><br>
+#### Planning ---> Work on shell script cousrse
 
-### [[30/11/23]]
+#### Execution --->
 
-Planning:<br><br>
-Execution:
-<br><br>
+#### [ [ 30 / 11 / 2023 ] ]
+
+#### Planning ---> Work on shell script cousrse
+
+#### Execution --->
