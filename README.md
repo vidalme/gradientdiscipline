@@ -6,29 +6,17 @@
 
 #### 01/01/23 -> pesquisa sobre programacao
 
-### 07/01/23
+#### 07/01/23 -> python
 
--> python
+#### 14/01/23 -> comecei a focar em frontend, html+css+js
 
-### 14/01/23
+#### 01/02/23 -> total foco em JS, intermediary to advanced
 
--> comecei a focar em frontend, html+css+js
+#### 20/02/23 -> react and other frontend stuff (tailwind, git, libs)
 
-### 01/02/23
+#### 15/04/23 -> typescript
 
--> total foco em JS, intermediary to advanced
-
-### 20/02/23
-
--> react and other frontend stuff (tailwind, git, libs)
-
-### 15/04/23
-
--> typescript
-
-### 05/05/23
-
--> ultimo commit git, dei um tempo...
+#### 05/05/23 -> ultimo commit git, dei um tempo...
 
 ## The Re-Return
 
