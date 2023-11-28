@@ -289,7 +289,7 @@ suggestion: MySQL, PostgreSQL, Redis.<br>
 -> SSL / TLS - don't even know exactly what it is, something to do with security, get a grasp on the higher level concepts.<br>
 -> DNS - I knwo a bit and can pass by, but Im in nee of more direct contato with it (lil of psychological bareer), I just need a few videos to feel a bit more inside.<br>
 -> Linux - even though I could clearly use a lot more knowledge about the whole Linux universe, I firtly should focus on the scripting part. Especially automation, here I could use a couple of actual projects as well.
-<br>
+<br><br>
 Execution: I got a very brief quick review of Databases but I dropped it, I know I need the basis knowledge but I will focus on the employable skills, people need to nkow linux and shell script, its just a MUST, its basically the number one skill for jobs in SRE/Devops world. <br>
 So i bought a shell script udemy course, -> Linux Shell Scripting: A Project-Based Approach to Learning
 Now I now I can finish a difcult course, I will try to build on it.
@@ -297,16 +297,16 @@ I will do it and practice it as much as I think I should. Try to have fun with t
 <br><br>
 
 **[[28/11/23]]**<br>
-Planning: Work on shell script cousrse<br>
+Planning: Work on shell script cousrse<br><br>
 Execution:
 <br><br>
 
 **[[29/11/23]]**<br>
-Planning:<br>
+Planning:<br><br>
 Execution:
 <br><br>
 
-**[[30/11/23]]**<br>
-Planning:<br>
+#[[30/11/23]]
+Planning:<br><br>
 Execution:
 <br><br>
