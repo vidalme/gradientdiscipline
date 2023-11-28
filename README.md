@@ -1,33 +1,44 @@
-##############################################################################################
-############################ O RE-retorno ########################################
-
 # diario de bordo
 
-Apos quase 20 anos, volto para tech.
+## The Return
 
-**[[01/01/23]]** -> pesquisa sobre programacao
+### 45 year old making his way back into tech after a 15 year hiatus.
 
-07/01/23 -> python
+### 01/01/23
 
-14/01/23 -> comecei a focar em frontend, html+css+js
+pesquisa sobre programacao
 
-01/02/23 -> total foco em JS, intermediary to advanced
+### 07/01/23
 
-20/02/23 -> react and other frontend stuff (tailwind, git, libs)
+-> python
 
-15/04/23 -> typescript
+### 14/01/23
 
-05/05/23 -> ultimo commit git, dei um tempo...
+-> comecei a focar em frontend, html+css+js
+
+### 01/02/23
+
+-> total foco em JS, intermediary to advanced
+
+### 20/02/23
+
+-> react and other frontend stuff (tailwind, git, libs)
+
+### 15/04/23
+
+-> typescript
+
+### 05/05/23
+
+-> ultimo commit git, dei um tempo...
+
+## The Re-Return
 
 ##############################################################################################
-############################ O RE-retorno ########################################
-
 Apos quase 4 meses afastado do retorno, aqui vem o re-retorno, em nova modalidade, ouvi falar
 dessa tal de cloud e devops.
 FIquei curioso e vou começar a pesquisar do que se trata pois nem sei realmente o que faz direito.
 Passar uns dias tentando entender esse novo universo.
-
-##############################################################################################
 ##############################################################################################
 
 23/08/23 -> pesquisa sobre devops, cloud, certificados... (yt)
@@ -306,7 +317,7 @@ Planning:<br><br>
 Execution:
 <br><br>
 
-# [[30/11/23]]
+### [[30/11/23]]
 
 Planning:<br><br>
 Execution:
