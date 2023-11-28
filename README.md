@@ -45,7 +45,7 @@ Passar uns dias tentando entender esse novo universo.
 
 ### Beginning of the journal 13rd of Octorber 2023
 
-#### [[--13-10-2023--]] -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
+#### [ [ 13 / 10 / 2023 ] ] -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
 
 #### 15/10/23 -> Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]
 
