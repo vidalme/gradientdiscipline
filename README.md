@@ -20,12 +20,12 @@
 
 ## The Re-Return
 
-#############################################################################<br>
+<br>
 Apos quase 4 meses afastado do retorno, aqui vem o re-retorno, em nova modalidade, ouvi falar
 dessa tal de cloud e devops.
 FIquei curioso e vou começar a pesquisar do que se trata pois nem sei realmente o que faz direito.
 Passar uns dias tentando entender esse novo universo.
-#############################################################################<br>
+<br><br>
 
 #### 23/08/23 -> pesquisa sobre devops, cloud, certificados... (yt)
 
@@ -39,13 +39,13 @@ Passar uns dias tentando entender esse novo universo.
 
 #### 13/09/23 -> foco no certificado SAA aws (deadline 13/12/23) (skillbuilder, aws whitepapers, yt and a bit of udemy)
 
-#### 12/10/23 -> cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.
+#### 12/10/23 -> cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.<br>
 
 ## ONE YEAR TO GET JOB READY ON THE CLOUD
 
 ### Beginning of the journal 13rd of Octorber 2023
 
-#### 13/10/23 -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
+#### [[13/10/23]] -> Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
 
 #### 15/10/23 -> Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]
 
