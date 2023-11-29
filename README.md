@@ -294,12 +294,12 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### [ [ 29 / 11 / 2023 ] ]
 
-#### Planning ---> finish sections 3, 4 and 5 of shell script course
+#### Planning ---> finish sections 4, 5 and 6 of shell script course
 
 #### Execution --->
 
 #### [ [ 30 / 11 / 2023 ] ]
 
-#### Planning ---> finish sections 6, 7 and 8 (9,10,11 are just complementary) of shell script course
+#### Planning ---> finish sections 7 and 8 (9,10,11 are just complementary) of shell script course
 
 #### Execution --->
