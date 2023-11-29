@@ -290,16 +290,16 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> Work on shell script cousrse
 
-#### Execution --->
+#### Execution ---> I am so tired...from surf really. When there is a swell it gets very hard to put as many hours in. But I did get a good ammount, I like the subject, I am learning script but also a lot about linux administration at the same time, I actually have been feeling like I need to go deeper into linux sysadmin stuff, but I dont think it shold be focused. Also I will estabilish a crazy dead line for the rest of this course. I need to finish it quickly and maybe get a quick project of my authorship in.
 
 #### [ [ 29 / 11 / 2023 ] ]
 
-#### Planning ---> Work on shell script cousrse
+#### Planning ---> finish sections 3, 4 and 5 of shell script course
 
 #### Execution --->
 
 #### [ [ 30 / 11 / 2023 ] ]
 
-#### Planning ---> Work on shell script cousrse
+#### Planning ---> finish sections 6, 7 and 8 (9,10,11 are just complementary) of shell script course
 
 #### Execution --->
