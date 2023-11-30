@@ -290,21 +290,30 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> Work on shell script cousrse
 
-#### Execution ---> I am so tired...from surf really. When there is a swell it gets very hard to put as many hours in. But I did get a good ammount, I like the subject, I am learning script but also a lot about linux administration at the same time, I actually have been feeling like I need to go deeper into linux sysadmin stuff, but I dont think it shold be focused. Also I will estabilish a crazy dead line for the rest of this course. I need to finish it quickly and maybe get a quick project of my authorship in. 
+#### Execution ---> I am so tired...from surf really. When there is a swell it gets very hard to put as many hours in. But I did get a good ammount, I like the subject, I am learning script but also a lot about linux administration at the same time, I actually have been feeling like I need to go deeper into linux sysadmin stuff, but I dont think it shold be focused. Also I will estabilish a crazy dead line for the rest of this course. I need to finish it quickly and maybe get a quick project of my authorship in.
 
-#### [ [ 29 / 11 / 2023 ] ]
+<br>
+
+#### [ [ 29/11/2023 ] ]
 
 #### Planning ---> finish sections 4, 5 of shell script course
 
+#### Execution ---> Unfortunately I could not find myself today, just did a bad job overall, no focus and I did not follow the actual guide, tried to come up with my own rules for the final exercise of section 4. Got stuck and basically couldn't put any more value time in.
+
+<br>
+
+#### [ [ 30/11/2023 ] ]
+
+#### Planning ---> finish section 6
+
 #### Execution --->
 
-#### [ [ 30 / 11 / 2023 ] ]
+<br>
 
-#### Planning ---> finish section 6 
+#### [ [ 01/12/2023 ] ]
+
+#### Planning ---> finish section 7 and 8
+
 #### Execution --->
 
-
-#### [ [ 01 / 12 / 2023 ] ]
-
-#### Planning ---> finish section 7 and 8 
-#### Execution --->
+<br>
