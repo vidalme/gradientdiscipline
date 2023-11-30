@@ -296,7 +296,7 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### [ [ 29/11/2023 ] ]
 
-#### Planning ---> finish sections 4, 5 of shell script course
+#### Planning ---> Shell script udemy -> finish sections 4, 5 of shell script course
 
 #### Execution ---> Unfortunately I could not find myself today, just did a bad job overall, no focus and I did not follow the actual guide, tried to come up with my own rules for the final exercise of section 4. Got stuck and basically couldn't put any more value time in.
 
@@ -304,7 +304,7 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### [ [ 30/11/2023 ] ]
 
-#### Planning ---> finish section 6
+#### Planning ---> Finish section 4 and start on section 5.. Total focus and energy on doing the exercise of 5, that is the most important part of the lesson.
 
 #### Execution --->
 
@@ -312,7 +312,7 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### [ [ 01/12/2023 ] ]
 
-#### Planning ---> finish section 7 and 8
+#### Planning --->
 
 #### Execution --->
 
