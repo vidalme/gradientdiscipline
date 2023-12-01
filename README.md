@@ -306,13 +306,29 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> Finish section 4 and start on section 5.. Total focus and energy on doing the exercise of 5, that is the most important part of the lesson.
 
-#### Execution --->
+#### Execution ---> Finished both sections and even started on section 6. Today was a great day, could get a lot of time in, stayed with my daughter a good ammoutn of time as well and the time I spent studying was actually very effective.
 
 <br>
 
 #### [ [ 01/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Draw the plan for december and finish section 6 of the shell script course.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 02/12/2023 ] ]
+
+#### Planning ---> Do sections 7 and 8 of shellscript course.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 03/12/2023 ] ]
+
+#### Planning ---> Finish Shell scrip course frmo Udemy.
 
 #### Execution --->
 
