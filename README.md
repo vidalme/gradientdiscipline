@@ -314,13 +314,13 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> Draw the plan for december and finish section 6 of the shell script course.
 
-#### Execution --->
+#### Execution ---> The plan is done but open to major modifications, I also could get a bit done for section 6 of the shellscript couse (there was a bug in the cloud that delayed me). DId not do the last exercise so it will be done tomorrow, I had already forseen this possibility.
 
 <br>
 
 #### [ [ 02/12/2023 ] ]
 
-#### Planning ---> Do sections 7 and 8 of shellscript course.
+#### Planning ---> Do section 6 exercise shellscript. (timeleft can be used to begin next sections or work o decembers plan/research)
 
 #### Execution --->
 
