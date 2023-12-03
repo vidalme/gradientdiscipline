@@ -322,13 +322,45 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> Do section 6 exercise shellscript. (timeleft can be used to begin next sections or work o decembers plan/research)
 
-#### Execution --->
+#### Execution ---> I did put a lot of work and could finish the exercise, it was over 100 lines script and Im really happy with the result even though it took me a couple of days to finish. Many hours spent on it, did revisions on the stuff also, I feel some real improvement.
 
 <br>
 
 #### [ [ 03/12/2023 ] ]
 
-#### Planning ---> Finish Shell scrip course frmo Udemy.
+#### Planning ---> Shell sctip course.Quick review of section 6 and on to at the very least finish section 7.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 04/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 05/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 06/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 07/12/2023 ] ]
+
+#### Planning --->
 
 #### Execution --->
 
