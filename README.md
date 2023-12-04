@@ -328,23 +328,25 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### [ [ 03/12/2023 ] ]
 
-#### Planning ---> Shell sctip course.Quick review of section 6 and on to at the very least finish section 7.
+#### Planning ---> Shell sctip course. Quick review of section 6 and on to at the very least finish section 7.
 
-#### Execution --->
+#### Execution ---> Kind a took the day off really, it is a sunday and my daughter is sick, kinda spet most of the time with her.
 
 <br>
 
 #### [ [ 04/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> same objective of yesterday.
 
-#### Execution --->
+#### Execution ---> Another day without studies, I wore the dad helmet all day long. I could get a few bits and pieces in but it was spread thin along the day. Still is something tho and I do love spending the day with my baby. Tomorrow I must finish the shell course, it is delayed already.
 
 <br>
 
 #### [ [ 05/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Finish shellscript course. Start a 2 week linux self bootcamp, planning on follow linuxjourney.com with auxiliary videos from a devops dude focused on linux sysadmin.
+
+https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Execution --->
 
