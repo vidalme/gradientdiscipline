@@ -338,7 +338,7 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 #### Planning ---> same objective of yesterday.
 
-#### Execution ---> Another day without studies, I wore the dad helmet all day long. I could get a few bits and pieces in but it was spread thin along the day. Still is something tho and I do love spending the day with my baby. Tomorrow I must finish the shell course, it is delayed already.
+#### Execution ---> Another day with short studying sessions, I wore the dad helmet all day long. I could get a few bits and pieces in but it was spread very thin along the day. Still is something tho and I do love spending the day with my baby. Tomorrow I must finish the shell course, it is delayed already.
 
 <br>
 
