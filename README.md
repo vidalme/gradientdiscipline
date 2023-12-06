@@ -255,23 +255,29 @@ I also spent a bit drawing a skill map so I can figure the areas I am lacking
 
 <img src="./imgs/skills-11-23-2338.png" alt="skills" />
 
-**[[24/11/23]]**<br>
-Planning: Nginx Mastery youtube -> 7 hours ( https://www.youtube.com/watch?v=GlCloo47p_E&list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1&index=3 )
-<br>
-Execution: I did some decent ammount of nginx study, the tutorial I picked up to follow ended up being a lot of nginx running on docker, which grabbed a lot of my attention, so I ended up leaning towards doing docker stuff. I liked it and I think this si the way to go forward, but right now I really should focus more on more basic stuff, basics aer very important for me, I really need to be good at linux most of all
-<br><br>
+#### [ [ 24/11/2023 ] ]
 
-**[[25/11/23]]**<br>
-Planning: Moms bday, prob won't study at all
-<br>
-Execution: well yep, exaclty that, didn touch the computer at all... it will complete 48h without no studying, so I guess I really should go tonite...
-<br><br>
+#### Planning ---> Nginx Mastery youtube -> 7 hours ( https://www.youtube.com/watch?v=GlCloo47p_E&list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1&index=3 )
 
-**[[26/11/23]]**<br>
-Planning: Plan out the last few days of november and start having a skecth of what dcember will look like
+#### Execution ---> I did some decent ammount of nginx study, the tutorial I picked up to follow ended up being a lot of nginx running on docker, which grabbed a lot of my attention, so I ended up leaning towards doing docker stuff. I liked it and I think this si the way to go forward, but right now I really should focus more on more basic stuff, basics aer very important for me, I really need to be good at linux most of all
+
 <br>
-Execution: I ended up just spending the whole weekend with family, it was great but now I will need to make up for it. Next week will be 60 hours week (with focus and discipline)!
-<br><br>
+
+#### [ [ 25/11/2023 ] ]
+
+#### Planning ---> Moms bday, prob won't study at all
+
+#### Execution ---> well yep, exaclty that, didn touch the computer at all... it will complete 48h without no studying, so I guess I really should go tonite...
+
+<br>
+
+#### [ [ 26/11/2023 ] ]
+
+#### Planning ---> Plan out the last few days of november and start having a skecth of what dcember will look like
+
+#### Execution ---> I ended up just spending the whole weekend with family, it was great but now I will need to make up for it. Next week will be 60 hours week (with focus and discipline)!
+
+<br>
 
 #### [ [ 27 / 11 / 2023 ] ]<br>
 
@@ -348,11 +354,19 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
-#### Execution --->
+#### Execution ---> I finished the shellscript course (again finishing bad, skimming over the very last section), starting something is so easy... finishing it is the real challenge, I am glad I could finish the last 2 ones, I must be serious about this whole thing. I realy enjoy it, particularly how different and diversified the knowledge is. I did not study that much, but it was effective.
 
 <br>
 
 #### [ [ 06/12/2023 ] ]
+
+#### Planning ---> Focus on Linux admin, the plan is to keep working on linuxjourney website. I could of course make use of side research (docs or even youtube videos)
+
+#### Execution --->
+
+<br>
+
+#### [ [ 07/12/2023 ] ]
 
 #### Planning --->
 
@@ -360,7 +374,39 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 <br>
 
-#### [ [ 07/12/2023 ] ]
+#### [ [ 08/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 09/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 10/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 11/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 12/12/2023 ] ]
 
 #### Planning --->
 
