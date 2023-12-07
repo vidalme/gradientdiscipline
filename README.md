@@ -251,7 +251,9 @@ Now there is only a month left in the year, I will organize it to try and get as
 
 I also spent a bit drawing a skill map so I can figure the areas I am lacking
 
-<br><br>
+<br>
+
+## December
 
 <img src="./imgs/skills-11-23-2338.png" alt="skills" />
 
@@ -316,6 +318,8 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 <br>
 
+<img src="./imgs/devember_studyplan.png" alt="november's studyplan" />
+
 #### [ [ 01/12/2023 ] ]
 
 #### Planning ---> Draw the plan for december and finish section 6 of the shell script course.
@@ -362,13 +366,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Focus on Linux admin, the plan is to keep working on linuxjourney website. I could of course make use of side research (docs or even youtube videos)
 
-#### Execution --->
+#### Execution ---> I done pretty much what I was supposed to, not too amazing tho...in my book not goot enough, its gots to bes uhhhmazinh!
 
 <br>
 
 #### [ [ 07/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on focusing on linux, I do need a lot more work, at this point I need to incorpporate some networking, even tho those are 2 different fields (linux and network) they both can be worked together.
 
 #### Execution --->
 
