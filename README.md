@@ -318,7 +318,7 @@ suggestion: MySQL, PostgreSQL, Redis.
 
 <br>
 
-<img src="./imgs/devember_studyplan.png" alt="november's studyplan" />
+<img src="./imgs/december_studyplan.png" alt="november's studyplan" />
 
 #### [ [ 01/12/2023 ] ]
 
