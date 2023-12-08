@@ -376,13 +376,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Keep on focusing on linux, I do need a lot more work, at this point I need to incorpporate some networking, even tho those are 2 different fields (linux and network) they both can be worked together.
 
-#### Execution --->
+#### Execution ---> Finished the linuxjourney.com content and quickly extended the research and went over some DNS study (it was the last section of the linuxjourney)... I have been planning on going way deeped into DNS, in reality all I knew about it was from side quests, I never actually took the time to read into it. One and halg session later I alreadu feel like a lot of progression was made, at least at the highest level I feel like I can talkj about the subject
 
 <br>
 
 #### [ [ 08/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Dig into DNS and then learn more about linux networking (if there is time)
 
 #### Execution --->
 
