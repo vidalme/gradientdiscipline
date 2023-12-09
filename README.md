@@ -384,13 +384,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Dig into DNS and then learn more about linux networking (if there is time)
 
-#### Execution --->
+#### Execution ---> I got a couple of decent sessions, found out about DNSSec which i didnt know about it, it was a very complicated subject that spilled over into some securtiy/network aspects (authorization, hash, digital certificates...) so i just went down the rabbit hole. Although I wasnt as dedicated as I should be I still learned new stuff.
 
 <br>
 
 #### [ [ 09/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Today there will be a lot of social life activities, probably wont get much done, but the time I do get in I should dedicate it to Linux. (I feel like Im leanin towards some project doing, I actually may be not just ready for this but it could be in my best interest at this point)
 
 #### Execution --->
 
