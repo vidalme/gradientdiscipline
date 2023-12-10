@@ -392,13 +392,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Today there will be a lot of social life activities, probably wont get much done, but the time I do get in I should dedicate it to Linux. (I feel like Im leanin towards some project doing, I actually may be not just ready for this but it could be in my best interest at this point)
 
-#### Execution --->
+#### Execution ---> As I though, did not get any real technical work, I just spent the day with family and friends, attended 3 different events in the same day. There is no reason to despair tho, just keep on trucking, no need to worry about making up for it, need to live with a balance between work and family.
 
 <br>
 
 #### [ [ 10/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> The monthly plan tells me to go for linux studies, but I do think I could use a project or 2, I may just do that honestly. Since its sunday illl be a lil more lenient.
 
 #### Execution --->
 
