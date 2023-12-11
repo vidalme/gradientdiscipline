@@ -419,3 +419,147 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution --->
 
 <br>
+
+#### [ [ 13/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 14/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 15/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 16/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 17/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 18/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 19/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 20/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 21/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 22/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 23/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 24/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 25/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 26/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 27/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 28/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 29/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 30/12/2023 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
