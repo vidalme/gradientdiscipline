@@ -398,15 +398,15 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 10/12/2023 ] ]
 
-#### Planning ---> The monthly plan tells me to go for linux studies, but I do think I could use a project or 2, I may just do that honestly. Since its sunday illl be a lil more lenient.
+#### Planning ---> The monthly plan tells me to go for linux studies, but I do think I could use a project or 2, I may just do that honestly. Since its sunday ill be a lil more lenient.
 
-#### Execution --->
+#### Execution ---> I couldnt get a lot done, actually almost nothing done, at most 1 hour of refreshing memory of jenkins.
 
 <br>
 
 #### [ [ 11/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Practice what I already studied. (aws, jenkins...)
 
 #### Execution --->
 
