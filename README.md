@@ -408,13 +408,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Practice what I already studied. (aws, jenkins...)
 
-#### Execution --->
+#### Execution ---> I got a bit of actual exercise, it is a reality check, we may be able to follow very complex instructions but once wwe are left to our own that whole picture changes dramatically. Its good tho, I had to get to this crossroad someday, the sooner the better, lets get it done!
 
 <br>
 
 #### [ [ 12/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> More exercising, objective today is to get at least a simple react app up and running on a ec2 running nginx. (by myself), from there we will slowly turn up the exercise dificulty (ex: next one could be a 2 tier setup with nginx and mysql)
 
 #### Execution --->
 
