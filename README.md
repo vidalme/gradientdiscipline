@@ -416,13 +416,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> More exercising, objective today is to get at least a simple react app up and running on a ec2 running nginx. (by myself), from there we will slowly turn up the exercise dificulty (ex: next one could be a 2 tier setup with nginx and mysql)
 
-#### Execution --->
+#### Execution ---> Amazing day, got a lot of experience and hands on job. The evolution is very slow but i can see how getting stuck can teach us a lot, I am still doing the basics of devops but I am walking with my own feet. I got a react app running on nginx installed on a EC2 virtual machine.
 
 <br>
 
 #### [ [ 13/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Investigate how i could automate the project with nginx and react.
 
 #### Execution --->
 
