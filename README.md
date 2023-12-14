@@ -424,13 +424,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Investigate how i could automate the project with nginx and react.
 
-#### Execution --->
+#### Execution ---> I didnt do much, I just couldnt focus, I ended up just chilling with family.
 
 <br>
 
 #### [ [ 14/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Do the jenkins course of Nana
 
 #### Execution --->
 
