@@ -438,7 +438,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 15/12/2023 ] ]
 
-#### Planning ---> Nana course (jenkins), no need to go too deep, but this is spaced repetition strategy, ive studied jenkins a month or so ago, now time to get some recolection.
+#### Planning ---> Nana course (jenkins), no need to go too deep, but this is spaced repetition strategy, i've studied jenkins a month or so ago, now time to get some recolection and at the same time build more repos on git to show off some 'projects'
 
 #### Execution --->
 
