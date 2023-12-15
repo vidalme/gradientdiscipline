@@ -432,13 +432,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Do the jenkins course of Nana
 
-#### Execution --->
+#### Execution ---> I could get a bit done, but need way more, its diffcult to admit but I have been slacking, this is not a good thing, I must keep focus, I am now getting close to be employable, the certification will come, be patient and stay 100% focused.
 
 <br>
 
 #### [ [ 15/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Nana course (jenkins), no need to go too deep, but this is spaced repetition strategy, ive studied jenkins a month or so ago, now time to get some recolection.
 
 #### Execution --->
 
