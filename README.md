@@ -440,13 +440,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Nana course (jenkins), no need to go too deep, but this is spaced repetition strategy, i've studied jenkins a month or so ago, now time to get some recolection and at the same time build more repos on git to show off some 'projects'
 
-#### Execution --->
+#### Execution ---> very productive day, feel like a learned a bunch, I focused and even tho it wasnt a crazy number of hours studying those hours were efficient. Great review of jenkins, it is totally necessary.
 
 <br>
 
 #### [ [ 16/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Jenkins from nanas, time to crank it up.
 
 #### Execution --->
 
