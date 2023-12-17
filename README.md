@@ -448,13 +448,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Jenkins from nanas, time to crank it up.
 
-#### Execution --->
+#### Execution ---> I did put my time, but got tangled up in some installation and dockerizing stuff, ended up not watching much from the course, but this is good, I feel like untangling shit is one of the core principles of devops therefore all practice is welcomed.
 
 <br>
 
 #### [ [ 17/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on doing the same, wathc nanas when you can but focus on actual hands on stuff. Just put the 10k hours in. It is invalueable.
 
 #### Execution --->
 
