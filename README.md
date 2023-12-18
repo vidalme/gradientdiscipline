@@ -454,15 +454,15 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 17/12/2023 ] ]
 
-#### Planning ---> Keep on doing the same, wathc nanas when you can but focus on actual hands on stuff. Just put the 10k hours in. It is invalueable.
+#### Planning ---> Keep on doing the same, watch nanas when you can but focus on actual hands on stuff. Just put the 10k hours in. It is invalueable.
 
-#### Execution --->
+#### Execution ---> I spent the day with my daughter, its near the end of the year and I think it's hitting me a bit, I feel the feels... So I didnt do much, Ill make it up during the week(hopefully).
 
 <br>
 
 #### [ [ 18/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> work on some projects with docker and jenkins, then watch a bit more of nanas course
 
 #### Execution --->
 
