@@ -464,13 +464,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> work on some projects with docker and jenkins, then watch a bit more of nanas course
 
-#### Execution --->
+#### Execution ---> BREAKING NEWS, another unexpected obstacle, a big ass remodeling in the apartament directly underneath us, this whole week will be used for removing the whole apartaments floor, so I just cant tank the noise, it is prettu loud. I went to my moms and there it was a whole another shit... fact is I did not study at all... again.
 
 <br>
 
 #### [ [ 19/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Well, now im almost a week late in my half month schedule, so I will still try to actually do my jenkins review with nanas course
 
 #### Execution --->
 
