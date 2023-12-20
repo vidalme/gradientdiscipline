@@ -472,13 +472,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Well, now im almost a week late in my half month schedule, so I will still try to actually do my jenkins review with nanas course
 
-#### Execution --->
+#### Execution ---> Still going through the reform downstairs, so I couldnt stay home, but I did get some study during early hours, finished jenkins stuff. Now Ill be going for a different review or even a project.
 
 <br>
 
 #### [ [ 20/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> k8s
 
 #### Execution --->
 
