@@ -478,15 +478,15 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 20/12/2023 ] ]
 
-#### Planning ---> k8s
+#### Planning ---> It was supposed to be k8s, but I went for docker, I still need better fundamentals with docker to really get going with k8s
 
-#### Execution --->
+#### Execution ---> I did spent a decent ammount of time on docker but I got stuck in a few bugs with node + docker, I found out that apparently node shuts down its container because of a bug within pid1 in linux, must investigate further.
 
 <br>
 
 #### [ [ 21/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Docker, no guilt trip.
 
 #### Execution --->
 
