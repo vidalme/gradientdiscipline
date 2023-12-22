@@ -486,15 +486,15 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 21/12/2023 ] ]
 
-#### Planning ---> Docker, no guilt trip.
+#### Planning ---> Docker, no guilt trip. Helsinki University docker course (on my own time)
 
-#### Execution --->
+#### Execution ---> I guess that being a lil easier on myself paid dividends, got a lot of knowledge and even some new stuff about docker, this course is really great and I am enjoying, I really think the best type of course is well ellaborated and up to date writte text book style lessons.
 
 <br>
 
 #### [ [ 22/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> More docker. Helsinki University (docker basics)
 
 #### Execution --->
 
