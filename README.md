@@ -496,7 +496,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> More docker. Helsinki University (docker basics)
 
-#### Execution --->
+#### Execution ---> I think I forgot one day, so I will jkts upload this quickly
 
 <br>
 
