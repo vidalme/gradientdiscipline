@@ -496,13 +496,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> More docker. Helsinki University (docker basics)
 
-#### Execution ---> I think I forgot one day, so I will jkts upload this quickly
+#### Execution ---> Today was a good day, got some quality time and streamed everythong, I also did the last optional exercise, and otmorrow ill be working on the mandatory ones which are supposed to be more challenging
 
 <br>
 
 #### [ [ 23/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> More docker. Helsinki University (mandatory exercises)
 
 #### Execution --->
 
