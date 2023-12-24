@@ -504,13 +504,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> More docker. Helsinki University (mandatory exercises)
 
-#### Execution --->
+#### Execution ---> I did not put any time in it today, I had to think about it to understand what happened, I just wasted lots of time on trying to make the stream work, so I really should take that into account frmo now on.
 
 <br>
 
 #### [ [ 24/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> I must finish the exercises from Docker Helsinkis university.
 
 #### Execution --->
 
