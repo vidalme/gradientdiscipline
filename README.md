@@ -512,13 +512,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> I must finish the exercises from Docker Helsinkis university.
 
-#### Execution --->
+#### Execution ---> Success, I finished the first mandatory question, fully understood everything involved in it as well. GOod sessions and I am happy with the results.
 
 <br>
 
 #### [ [ 25/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Spend the day mostly with family, although get a couple of hours in if you can, show some extra focus and consistency could make wonders for my self confidence.
 
 #### Execution --->
 
