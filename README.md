@@ -520,13 +520,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Spend the day mostly with family, although get a couple of hours in if you can, show some extra focus and consistency could make wonders for my self confidence.
 
-#### Execution --->
+#### Execution ---> Surprisingly enough I got some juice out of the end of the day, quite tired and half assing but I did some studying and ended up finishing a exercise. Now I only one more so we can go for the next docker section.
 
 <br>
 
 #### [ [ 26/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> More docker, helsinkis university!
 
 #### Execution --->
 
