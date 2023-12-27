@@ -528,13 +528,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> More docker, helsinkis university!
 
-#### Execution --->
+#### Execution ---> Finished the first part, fianlly, kinda got stuff on the last exercise but finally finished it. I got 2 good sessions in the day and I do feel like I upgrade my docker skills specially creating images which can be quite complicated.
 
 <br>
 
 #### [ [ 27/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Start the second part of the hellsinki university.
 
 #### Execution --->
 
