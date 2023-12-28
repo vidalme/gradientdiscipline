@@ -536,13 +536,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Start the second part of the hellsinki university.
 
-#### Execution --->
+#### Execution ---> Great study session, did get a lot of learning in and also took some more direct beginner steps towards finding a job. Lots opf hours and good pick uo form an atypical low hours daily ration month. December has been slow in the actual study end, but I am already about to complete 4 months and still very motivated and feeling like I will be ready to get started on studying for certifications.
 
 <br>
 
 #### [ [ 28/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on doing the docker helsinkis course, best case scenario get to at least the last section of the second part (docker compose / network)
 
 #### Execution --->
 
