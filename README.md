@@ -544,13 +544,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Keep on doing the docker helsinkis course, best case scenario get to at least the last section of the second part (docker compose / network)
 
-#### Execution --->
+#### Execution ---> Mission accomplished (kinda), I did get to the last exercises but I did zero progress in them, I also got very little studying time. I also went surfing with no swell, I should not, specially after a good swell over the weekend. 
 
 <br>
 
 #### [ [ 29/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Keep working on docker helsinki, but remember I can mix things up whenever I get too stuck on something (be from borendom or inability to do some exercise)
 
 #### Execution --->
 
