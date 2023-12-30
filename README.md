@@ -552,13 +552,21 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Keep working on docker helsinki, but remember I can mix things up whenever I get too stuck on something (be from borendom or inability to do some exercise)
 
-#### Execution --->
+#### Execution ---> I invested a lot of hours, but with very little progress, these exercises are no joke, it took me half the day to solve one. I do feel like I am gettin close to real experience tho, just learning about it docker was not really cutting it.
 
 <br>
 
 #### [ [ 30/12/2023 ] ]
 
-#### Planning --->
+#### Planning ---> Helsinki docker, today I MUST finish the second part, no excuses.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 31/12/2023 ] ]
+
+#### Planning ---> 
 
 #### Execution --->
 
