@@ -560,13 +560,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Helsinki docker, today I MUST finish the second part, no excuses.
 
-#### Execution --->
+#### Execution ---> Few hours in but not much progress, still stuck in the 2.9 exercise. The reality is that I did not focus as much as I could and should.
 
 <br>
 
 #### [ [ 31/12/2023 ] ]
 
-#### Planning ---> 
+#### Planning ---> Try and get at least one exercise finished. Thats all I can ask for right now, the very last day of the year.
 
 #### Execution --->
 
