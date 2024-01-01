@@ -568,6 +568,14 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Try and get at least one exercise finished. Thats all I can ask for right now, the very last day of the year.
 
-#### Execution --->
+#### Execution ---> I was able to get some lil bit of study, but not very efficient to be honest, this whole month of december was a bit weak, but 2024 will be the year ill become at least good at devops.
+
+<br>
+
+#### [ [ 01/01/2024 ] ]
+
+#### Planning ---> I will take the first day of the year ot reassess and organize, plan a bit of the year and a little more detailed plan for january and even more details for this week.
+
+#### Execution ---> 
 
 <br>
