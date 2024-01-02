@@ -576,6 +576,53 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> I will take the first day of the year ot reassess and organize, plan a bit of the year and a little more detailed plan for january and even more details for this week.
 
-#### Execution ---> 
+#### Execution ---> Not enough hours, but I did get some of my planning drawn, I decided to dedicate 2024 to my professional life, that is the main focus but I will also have to sidehustle with uber, it is decided, and my family will have to take the impact of my absence, but I must remind myself of the endgoal here and also not forget who I am doing this for.
+
+<br>
+
+#### [ [ 02/01/2024 ] ]
+
+#### Planning ---> Some complementary planning for the week schedule and hands on devops reviews with AWS reassembly.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 03/01/2024 ] ]
+
+#### Planning ---> 
+
+#### Execution --->
+
+<br>
+
+#### [ [ 04/01/2024 ] ]
+
+#### Planning ---> 
+
+#### Execution --->
+
+<br>
+
+#### [ [ 05/01/2024 ] ]
+
+#### Planning ---> 
+
+#### Execution --->
+
+<br>
+
+#### [ [ 06/01/2024 ] ]
+
+#### Planning ---> 
+
+#### Execution --->
+
+<br>
+#### [ [ 07/01/2024 ] ]
+
+#### Planning ---> 
+
+#### Execution --->
 
 <br>
