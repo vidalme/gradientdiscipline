@@ -598,7 +598,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 04/01/2024 ] ]
 
-#### Planning ---> AWS (well architect and s3 ) and the complementary time should be used for a job interview
+#### Planning ---> AWS (well architect and strat on s3 ) / the secondary task is for job interview and hunt
 
 #### Execution --->
 
