@@ -584,21 +584,21 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Some complementary planning for the week schedule and hands on devops reviews with AWS reassembly.
 
-#### Execution --->
+#### Execution ---> Almost the whole day spent on just docker really, I love docker and I think it's important to get good at it, its almost like one of those base techs that serves as building step for a lot more advanced stuff. Its clearly very powerfull by itself but being good at it for surte it will help me a lot undesratanding more complex tools and techs. 
 
 <br>
 
 #### [ [ 03/01/2024 ] ]
 
-#### Planning ---> 
+#### Planning ---> AWS (studying root53 right now with stephane) and some other complementary tech (could be kubernetes)
 
-#### Execution --->
+#### Execution ---> Most of the day was on aws but the aws study was compromised by my anxiety since I actually got a job interview, so that made it difficult to focus on aws studies, I also spent some time preparing for the interview but I could still get a bit of aws in.
 
 <br>
 
 #### [ [ 04/01/2024 ] ]
 
-#### Planning ---> 
+#### Planning ---> AWS (well architect and s3 ) and the complementary time should be used for a job interview
 
 #### Execution --->
 
