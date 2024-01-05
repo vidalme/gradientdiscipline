@@ -614,7 +614,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 06/01/2024 ] ]
 
-#### Planning ---> 
+#### Planning ---> 10 am kuberenet with linux tips / AWS during the rest of the day
 
 #### Execution --->
 
