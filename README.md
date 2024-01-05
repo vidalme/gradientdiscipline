@@ -600,13 +600,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> AWS (well architect and strat on s3 ) / the secondary task is for job interview and hunt
 
-#### Execution --->
+#### Execution ---> Good day, got a lot of time studying no top of a half decent interview (lots of practice needed here), I am working on some skillbuilder stuff just to warm um my way backj into aws stuff, me like it!
 
 <br>
 
 #### [ [ 05/01/2024 ] ]
 
-#### Planning ---> 
+#### Planning ---> Work on the game development with AWS badge / extra time can be used for linkeding networking
 
 #### Execution --->
 
