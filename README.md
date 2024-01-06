@@ -608,7 +608,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Work on the game development with AWS badge / extra time can be used for linkeding networking
 
-#### Execution --->
+#### Execution ---> tenho que por esses dias qe eu esqueci
 
 <br>
 
