@@ -608,7 +608,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Work on the game development with AWS badge / extra time can be used for linkeding networking
 
-#### Execution ---> tenho que por esses dias qe eu esqueci
+#### Execution ---> This is an awesome day, got a ton of content in, and really re sparckle my aws love, actually now I feel like I can not only understand everything wayyyy easier, I also am able to apreciate the actual good and innovation aws and cloud tech offer the industry, its just marvelous.
 
 <br>
 
