@@ -619,9 +619,71 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> Well, the week was going great and today I messed up, and yeah, it was 100% my fault, I know I cant play games for only a couple of hours... so I basically spent my whole 'computer' time playing a silly game... I did watch the k8s class, but I really didnt learn jack.
 
 <br>
+
 #### [ [ 07/01/2024 ] ]
 
 #### Planning ---> Finish game development with AWS badge
 
-#### Execution ---> 
+#### Execution ---> I could finish the section but I just didnt feel like I could do the test, just didnt learn deep enough the content. From now on I will jsut focus on my test really.
+
 <br>
+
+#### [ [ 08/01/2024 ] ]
+
+#### Planning ---> Sections 12 to 15. This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.  
+
+#### Execution ---> 
+
+<br>
+
+
+#### [ [ 09/01/2024 ] ]
+
+#### Planning ---> Sections 16 to 18.
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 10/01/2024 ] ]
+
+#### Planning ---> Sections 19 to 23.
+
+#### Execution ---> 
+
+<br>
+
+
+#### [ [ 11/01/2024 ] ]
+
+#### Planning ---> Sections 24 to 26.
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 12/01/2024 ] ]
+
+#### Planning ---> Sections 27 to 28.
+
+#### Execution ---> 
+
+<br>
+#### [ [ 13/01/2024 ] ]
+
+#### Planning ---> day off
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 14/01/2024 ] ]
+
+#### Planning ---> Sections 29 to 33.
+
+#### Execution ---> 
+
+<br>
+
+
+
