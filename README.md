@@ -616,13 +616,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> 10 am kuberenet with linux tips / AWS during the rest of the day
 
-#### Execution --->
+#### Execution ---> Well, the week was going great and today I messed up, and yeah, it was 100% my fault, I know I cant play games for only a couple of hours... so I basically spent my whole 'computer' time playing a silly game... I did watch the k8s class, but I really didnt learn jack.
 
 <br>
 #### [ [ 07/01/2024 ] ]
 
-#### Planning ---> 
+#### Planning ---> Finish game development with AWS badge
 
-#### Execution --->
-
+#### Execution ---> 
 <br>
