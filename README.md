@@ -632,7 +632,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Sections 12 to 15. This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.  
 
-#### Execution ---> 
+#### Execution ---> Done, every single section done with only half the available time dedicated to it, I kind watched everything real quick, now the focus is to cover the whole content quickly so I can get to the test and then be able to review my weakest subjects and study particular questions taht I felt like I had to.
 
 <br>
 
