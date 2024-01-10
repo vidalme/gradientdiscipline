@@ -647,7 +647,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 10/01/2024 ] ]
 
-#### Planning ---> Sections 19 to 23. This is very challenging day, long hours of these sections plus surf day.
+#### Planning ---> Sections 19 to 23. This is a very challenging day, long hours of these sections plus surf day.
 
 #### Execution ---> 
 
