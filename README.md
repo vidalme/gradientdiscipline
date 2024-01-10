@@ -630,7 +630,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 08/01/2024 ] ]
 
-#### Planning ---> Sections 12 to 15. This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.  
+#### Planning ---> Sections 12 to 15 (2h 40m). This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.  
 
 #### Execution ---> Done, every single section done with only half the available time dedicated to it, I kind watched everything real quick, now the focus is to cover the whole content quickly so I can get to the test and then be able to review my weakest subjects and study particular questions taht I felt like I had to.
 
@@ -639,7 +639,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 09/01/2024 ] ]
 
-#### Planning ---> Sections 16 to 18.
+#### Planning ---> Sections 16 to 18 (3h 14m).
 
 #### Execution ---> Another objetcive completed. What makes the day special is that I actually got my secondary quest done as well, finished the security intro course from fortinet, its very basic but its a good introduction to cyber security and it offers a free certification (still need to finish 2 more courses to get the cert, I guess ill be doing a module a week as secoindary quests for the week. The main quest of course is AWS SSA certi) 
 
@@ -647,7 +647,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 10/01/2024 ] ]
 
-#### Planning ---> Sections 19 to 23. This is a very challenging day, long hours of these sections plus surf day.
+#### Planning ---> Sections 19 to 23 (3h 16m). This is a very challenging day, long hours of these sections on a surf day.
 
 #### Execution ---> 
 
@@ -656,7 +656,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 11/01/2024 ] ]
 
-#### Planning ---> Sections 24 to 26.
+#### Planning ---> Sections 24 to 26 (3h 36m).
 
 #### Execution ---> 
 
@@ -664,7 +664,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 12/01/2024 ] ]
 
-#### Planning ---> Sections 27 to 28.
+#### Planning ---> Sections 27 to 28 (3h 19m).
 
 #### Execution ---> 
 
@@ -679,7 +679,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 14/01/2024 ] ]
 
-#### Planning ---> Sections 29 to 33.
+#### Planning ---> Sections 29 to 33 (1h 43m).
 
 #### Execution ---> 
 
