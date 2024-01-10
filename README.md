@@ -641,13 +641,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Sections 16 to 18.
 
-#### Execution ---> 
+#### Execution ---> Another objetcive completed. What makes the day special is that I actually got my secondary quest done as well, finished the security intro course from fortinet, its very basic but its a good introduction to cyber security and it offers a free certification (still need to finish 2 more courses to get the cert, I guess ill be doing a module a week as secoindary quests for the week. The main quest of course is AWS SSA certi) 
 
 <br>
 
 #### [ [ 10/01/2024 ] ]
 
-#### Planning ---> Sections 19 to 23.
+#### Planning ---> Sections 19 to 23. This is very challenging day, long hours of these sections plus surf day.
 
 #### Execution ---> 
 
