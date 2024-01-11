@@ -572,6 +572,65 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 <br>
 
+##2024 
+-> employed in IT
+-> I should be able to build a complete project using: GitOps style IaC in a kubernetes cluster in the cloud, all within a CI/CD pipeline.
+-> I should be able to connect everything with an observable and monitorable.
+-> A portfolio with at least 2 big projects
+-> 3 certifications (4 if everything goes right)
+	- aws ssa
+	- cka
+	- aws sysops
+	- terraform
+	
+
+###JANUARY 
+-> 2 practice tests done with complete revision of all questions
+-> complete the kubernetes course from linuxtips
+
+week 01 
+01 a 07 de Janeiro
+✓ before remodeling, not much info right now but I should come back to this and write something more meaningful
+
+week 02
+08 a 14 de Janeiro
+finish watching all videos from ssa aws marrek
+do some extended research but try to not waste time
+✓ finish the cyber security training (intro)
+
+week 03
+15 a 21 de Janeiro
+rewatch sections from maareks course that I had the most difficulty with
+take a practice test and review questions with extended research
+get up to date on linuxtips k8s course (as fast as I can, no more than 10 hours on it tho, chop chop)
+work on a cloud devops project with documentation (for at least 10 hours)
+
+week 04
+22 a 28 de Janeiro
+rewatch sections that I had the lowest score on the practice test
+take a practice test and review questions with extended research
+work on a cloud devops project with documentation (for at least 10 hours)
+
+
+week 05
+29 de janeiro a 04 de Fevereiro
+rewatch sections that I had the lowest score on the practice test
+take a practice test and review questions with extended research
+work on a cloud devops project with documentation (for at least 10 hours)
+
+
+FEBRUARY
+-> 2 practice tests done with complete revision of all questions
+-> 1 complete project from top to bottom, documented as well.
+	- cloud
+	- IaC (terraform)
+	- ci/cd (jenkins maybe)
+
+
+
+
+
+
 #### [ [ 01/01/2024 ] ]
 
 #### Planning ---> I will take the first day of the year ot reassess and organize, plan a bit of the year and a little more detailed plan for january and even more details for this week.
@@ -684,6 +743,4 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> 
 
 <br>
-
-
 
