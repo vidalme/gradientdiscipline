@@ -572,65 +572,6 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 <br>
 
-# 2024 Objectives 
--> employed in IT<br>
--> I should be able to build a complete project using: GitOps style IaC in a kubernetes cluster in the cloud, all within a CI/CD pipeline.<br>
--> I should be able to connect everything with an observable and monitorable.<br>
--> A portfolio with at least 2 big projects<br>
--> 3 certifications (4 if everything goes right)<br>
-	-----> aws ssa<br>
-	-----> cka<br>
-	-----> aws sysops<br>
-	-----> terraform<br>
-	
-
-## JANUARY 
--> 2 practice tests done with complete revision of all questions
--> complete the kubernetes course from linuxtips
-
-### week 01 
-01 a 07 de Janeiro<br>
-✓ before remodeling, not much info right now but I should come back to this and write something more meaningful<br><br>
-
-### week 02
-08 a 14 de Janeiro<br>
-- finish watching all videos from ssa aws marrek<br>
-- do some extended research but try to not waste time<br>
-✓ finish the cyber security training (intro)<br><br>
-
-### week 03
-15 a 21 de Janeiro<br>
-- rewatch sections from maareks course that I had the most difficulty with<br>
-- take a practice test and review questions with extended research<br>
-- get up to date on linuxtips k8s course (as fast as I can, no more than 10 hours on it tho, chop chop)<br>
-- work on a cloud devops project with documentation (for at least 10 hours)<br><br>
-
-### week 04
-22 a 28 de Janeiro<br>
-rewatch sections that I had the lowest score on the practice test<br>
-take a practice test and review questions with extended research<br>
-work on a cloud devops project with documentation (for at least 10 hours)<br><br>
-
-
-### week 05
-29 de janeiro a 04 de Fevereiro<br>
-rewatch sections that I had the lowest score on the practice test<br>
-take a practice test and review questions with extended research<br>
-work on a cloud devops project with documentation (for at least 10 hours)<br><br>
-
-
-## FEBRUARY
--> 2 practice tests done with complete revision of all questions<br>
--> 1 complete project from top to bottom, documented as well.<br>
-	- cloud<br>
-	- IaC (terraform)<br>
-	- ci/cd (jenkins maybe)<br>
-
-
-
-
-
-
 #### [ [ 01/01/2024 ] ]
 
 #### Planning ---> I will take the first day of the year ot reassess and organize, plan a bit of the year and a little more detailed plan for january and even more details for this week.
@@ -708,7 +649,7 @@ work on a cloud devops project with documentation (for at least 10 hours)<br><br
 
 #### Planning ---> Sections 19 to 23 (3h 16m). This is a very challenging day, long hours of these sections on a surf day.
 
-#### Execution ---> 
+#### Execution ---> Done, it was well enough, lot of concepts and lots of tools, mostly I had heard of it before but some new info about each of them, def will need a review on some, specially the data analysis areas wich are kind of a foreign concept to me, def my weakest aspect are related stuff to big data and data bases. Overall a good day Id say.
 
 <br>
 
