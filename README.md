@@ -573,13 +573,11 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 <br>
 
 # 2024 Objectives 
--> employed in IT
-
+-> employed in IT<br>
 -> I should be able to build a complete project using: GitOps style IaC in a kubernetes cluster in the cloud, all within a CI/CD pipeline.<br>
 -> I should be able to connect everything with an observable and monitorable.<br>
--> A portfolio with at least 2 big projects
-
--> 3 certifications (4 if everything goes right)
+-> A portfolio with at least 2 big projects<br>
+-> 3 certifications (4 if everything goes right)<br>
 	- aws ssa
 	- cka
 	- aws sysops
