@@ -578,10 +578,10 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 -> I should be able to connect everything with an observable and monitorable.<br>
 -> A portfolio with at least 2 big projects<br>
 -> 3 certifications (4 if everything goes right)<br>
-	- aws ssa
-	- cka
-	- aws sysops
-	- terraform
+	-----> aws ssa<br>
+	-----> cka<br>
+	-----> aws sysops<br>
+	-----> terraform<br>
 	
 
 ## JANUARY 
