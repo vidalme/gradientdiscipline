@@ -658,7 +658,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Sections 24 to 26 (3h 36m).
 
-#### Execution ---> 
+#### Execution ---> fail today, I just couldnt take in any longer, my sleeping schedule is making so much more difficult to understand the concepts... surfing also made me very tired and maybe maybe maybe that may help me take control of my sleeping schedule. So right now I am late on the course, today I may even take a quikc surfing trip, that might leave me even further behind... gotta pay attention to that... just take it back man. tomorrow is a day off... so I really got to do this.. just do my best!!
 
 <br>
 
