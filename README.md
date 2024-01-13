@@ -666,12 +666,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Sections 27 to 28 (3h 19m).
 
-#### Execution ---> 
+#### Execution ---> I just couldnt finish it, very tired for 2 reasons, lack of sleep and too much surfing (there is an epic swell right now at my spot, I cant miss it, as long as I do my work stuff tho). So I couldnt finish what I had to do unfortunatelly, I did most of it but not all of it, now I will have to work in my day off, which would it tomorrow. no bueno.
 
 <br>
 ## [ [ 13/01/2024 ] ]
 
-#### Planning ---> day off
+#### Planning ---> day off // no more day off, now I will try to get my side quest done (k8s study for class tomorrow morning) and a few more lecture from maareks ssa course, so that way there is time left sunday for a practice test (only with this result I can organize nexts week study schedule)
 
 #### Execution ---> 
 
