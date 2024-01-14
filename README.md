@@ -673,13 +673,92 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> day off // no more day off, now I will try to get my side quest done (k8s study for class tomorrow morning) and a few more lecture from maareks ssa course, so that way there is time left sunday for a practice test (only with this result I can organize nexts week study schedule)
 
-#### Execution ---> 
+#### Execution --->  super special day, dont even care that I didnt study hahahaha, i wont leave mention in this diary why today is special, but I didnt study at all (i watched the k8s class but very lightly )I spent the day with my family
 
 <br>
 
 #### [ [ 14/01/2024 ] ]
 
 #### Planning ---> Sections 29 to 33 (1h 43m).
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 15/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 16/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 17/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 18/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 19/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 20/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 21/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 22/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 23/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 24/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 25/01/2024 ] ]
+
+#### Planning --->
 
 #### Execution ---> 
 
