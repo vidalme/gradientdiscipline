@@ -687,7 +687,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 15/01/2024 ] ]
 
-#### Planning ---> Plan the whole week out and get hands dirty immediatly.
+#### Planning ---> Plan the whole week out and get hands dirty immediatly // mid day update: after accessing the results of the practice test, i decided to review every single question (correct and incorrect ones) and on top of reading the tests feedback I will be doing some extended research, just letting my curiosity guide a little bit here, so I will be doing at least 13 questions a day, so I can be done AT MOST by friday.
 
 #### Execution ---> 
 
