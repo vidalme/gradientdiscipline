@@ -681,13 +681,13 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Sections 29 to 33 (1h 43m).
 
-#### Execution ---> 
+#### Execution ---> Done! finito! amzing work if i say so myself! Well, finish as well the test so now I can focus nexts week studys, so good man, I am def pumped. (although the result of this practice test was a 57)
 
 <br>
 
 #### [ [ 15/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Plan the whole week out and get hands dirty immediatly.
 
 #### Execution ---> 
 
