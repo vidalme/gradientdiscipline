@@ -689,15 +689,15 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Plan the whole week out and get hands dirty immediatly // mid day update: after accessing the results of the practice test, i decided to review every single question (correct and incorrect ones) and on top of reading the tests feedback I will be doing some extended research, just letting my curiosity guide a little bit here, so I will be doing at least 13 questions a day, so I can be done AT MOST by friday.
 
-#### Execution ---> 
+#### Execution ---> Well, I studied and review a few first questions, I went a bit too deep in some of the subjects and may have wasted too much time, but then I had an unexpected thing to get done and had to drop the studyings way earlier. I WILL have to make up for this time or wont be able to accomplish my goals.
 
 <br>
 
 #### [ [ 16/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Go hard on my questions review. thats it!
 
-#### Execution ---> 
+####  Execution ---> 
 
 <br>
 #### [ [ 17/01/2024 ] ]
