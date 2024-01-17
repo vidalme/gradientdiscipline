@@ -1,4 +1,4 @@
-# diario de bordo
+![image](https://github.com/vidalme/gradientdiscipline/assets/121238740/3e9050b2-9d65-46f1-83fa-2b4e713a4241)# diario de bordo
 
 ## The Return
 
@@ -687,7 +687,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 15/01/2024 ] ]
 
-#### Planning ---> Plan the whole week out and get hands dirty immediatly // mid day update: after accessing the results of the practice test, i decided to review every single question (correct and incorrect ones) and on top of reading the tests feedback I will be doing some extended research, just letting my curiosity guide a little bit here, so I will be doing at least 13 questions a day, so I can be done AT MOST by friday.
+#### Planning ---> ( 13 questions ) Plan the whole week out and get hands dirty immediatly // mid day update: after accessing the results of the practice test, i decided to review every single question (correct and incorrect ones) and on top of reading the tests feedback I will be doing some extended research, just letting my curiosity guide a little bit here, so I will be doing at least 13 questions a day, so I can be done AT MOST by friday.
 
 #### Execution ---> Well, I studied and review a few first questions, I went a bit too deep in some of the subjects and may have wasted too much time, but then I had an unexpected thing to get done and had to drop the studyings way earlier. I WILL have to make up for this time or wont be able to accomplish my goals, finally I only completed 8 out of minimum of 13 I should finish.
 
@@ -695,28 +695,28 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 16/01/2024 ] ]
 
-#### Planning ---> Go hard on my questions review. thats it!
+#### Planning ---> ( 26 questions ) Go hard on my questions review. thats it!
 
 ####  Execution ---> I did it, congrats to me, 30 questions reviewed out of the 26  I should have, mission accomplished even better than thought it would. Many hours of study all based on the test questions, got actually quite a few questions ahead of schedule. I feel good.
 
 <br>
 #### [ [ 17/01/2024 ] ]
 
-#### Planning ---> Keep it moving, do not lose focus now that we are ahead of schedule, goal for the day is 39 questions revised at the very least! I am enjoying reviewing questions a lot, it's a very good mix of subjects which it helps me avoiding boredom.
+#### Planning ---> ( 39 questions ) Keep it moving, do not lose focus now that we are ahead of schedule, goal for the day is 39 questions revised at the very least! I am enjoying reviewing questions a lot, it's a very good mix of subjects which it helps me avoiding boredom.
 
 #### Execution ---> 
 
 <br>
 #### [ [ 18/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> ( 52 questions ) goal for the day is 42
 
 #### Execution ---> 
 
 <br>
 #### [ [ 19/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> ( 65 questions )  
 
 #### Execution ---> 
 
