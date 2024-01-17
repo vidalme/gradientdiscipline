@@ -697,12 +697,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Go hard on my questions review. thats it!
 
-####  Execution ---> 
+####  Execution ---> I did it, mission accomplished even better than thought it would. Many hours of study all based on the test questions, got actually quite a few questions ahead of schedule. I feel good.
 
 <br>
 #### [ [ 17/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Keep it moving, I am enjoying this method a lot, it's a very good mix of subjects which it helps me avoiding boredom.
 
 #### Execution ---> 
 
