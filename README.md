@@ -1,4 +1,4 @@
-![image](https://github.com/vidalme/gradientdiscipline/assets/121238740/3e9050b2-9d65-46f1-83fa-2b4e713a4241)# diario de bordo
+# diario de bordo
 
 ## The Return
 
