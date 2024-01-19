@@ -711,12 +711,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> ( 52 questions goal ) The object is almost reached already, so I might actually work a bit on another test (not planned), or just work a secondary quest.
 
-#### Execution ---> 
+#### Execution ---> Very good job, a bit rushy by the final 10 questions or so, but I did finish them all and already did another test... decent result, better grade than the last one, got it up to 61%, great news. So now I can move to some of secondary quests before going for reviewing question ( one thing tho, I am thinking of dropping the k8s course saturday mnorning, I just cant keep up with it right now, must focus on aws theory and projects with aws)
 
 <br>
 #### [ [ 19/01/2024 ] ]
 
-#### Planning ---> ( 65 questions )  
+#### Planning ---> ( 65 questions )  - already finish all questions! Then I can spend half the day on projects and a half on aws (correction of the practice exam) 
 
 #### Execution ---> 
 
