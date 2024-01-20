@@ -718,12 +718,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> ( 65 questions )  - already finish all questions! Then I can spend half the day on projects and a half on aws (correction of the practice exam) 
 
-#### Execution ---> 
+#### Execution ---> Well I tried to work a project but I decided to actually do a very simple architecture with aws using terraform, it is just something I cant not avoid, the project might be simple but using IAC is necessary. I did some of the work and could study some aws as well.
 
 <br>
 #### [ [ 20/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> AWS, I might actually focus on skillbuilder for a bit (instead of working with maarek) 
 
 #### Execution ---> 
 
