@@ -725,12 +725,12 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> AWS, I might actually focus on skillbuilder for a bit (instead of working with maarek) 
 
-#### Execution ---> 
+#### Execution ---> I had to do the k8s course, that messed me up cause IM not really paying attention to it and at the same time couldnt do well the aws study, also it was not for a long time, but it was quality study although a bit too narrow (only IAM policies subject)
 
 <br>
 #### [ [ 21/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Finish the IAM deep dive and start on working at correcting and reviewing subjects from the last practice exame I've done.
 
 #### Execution ---> 
 
