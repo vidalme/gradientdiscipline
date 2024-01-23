@@ -729,7 +729,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 <br>
 #### [ [ 21/01/2024 ] ] <br>
-#### ANNOUNCMENT -> DAY FOR THE TEST IS DECIDED 20/02/24<br>
+#### ANNOUNCMENT -> DAY FOR THE TEST IS DECIDED 29/02/24<br>
 to be able to do it tho I must have scored at leasa 90 in the second round of maareks practice exams and passed on most of dojos exams
 also, new suggestions for a study strategy for these last 30 days, I should alocate some daily time for at very least go over at least 1h a day for maareks videos, this time could expand to 2 hour MAX, and then the time left in the day for study should be around the same subjects, just focus a single day on a small area.
 
@@ -740,14 +740,14 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 <br>
 #### [ [ 22/01/2024 ] ]
 
-#### Planning ---> Compltelly forgot todays task, godamn it
+#### Planning ---> Completelly forgot todays task, godamn it // I remember later, every monday I am supposed to take a mock test.
 
-#### Execution ---> 
+#### Execution ---> I did take the practice exam (got a 72%), also organized a lot of stuff and planned the path to certification.
 
 <br>
 #### [ [ 23/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Review questions from mondays test, then read a bit on the subjects i feel weaker.
 
 #### Execution ---> 
 
