@@ -728,7 +728,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> I had to do the k8s course, that messed me up cause IM not really paying attention to it and at the same time couldnt do well the aws study, also it was not for a long time, but it was quality study although a bit too narrow (only IAM policies subject)
 
 <br>
-#### [ [ 21/01/2024 ] ]
+#### [ [ 21/01/2024 ] ] <br>
 #### ANNOUNCMENT -> DAY FOR THE TEST IS DECIDED 20/02/24<br>
 to be able to do it tho I must have scored at leasa 90 in the second round of maareks practice exams and passed on most of dojos exams
 also, new suggestions for a study strategy for these last 30 days, I should alocate some daily time for at very least go over at least 1h a day for maareks videos, this time could expand to 2 hour MAX, and then the time left in the day for study should be around the same subjects, just focus a single day on a small area.
