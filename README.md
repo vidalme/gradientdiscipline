@@ -740,7 +740,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 <br>
 #### [ [ 22/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Compltelly forgot todays task, godamn it
 
 #### Execution ---> 
 
