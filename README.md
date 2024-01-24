@@ -749,12 +749,12 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Review questions from mondays test, then read a bit on the subjects i feel weaker.
 
-#### Execution ---> 
+#### Execution ---> Lot of struggling, I did get through most of the questions reviewing but not as much focus as I think I can put on, Im gettin a bit tired, but cannot lose it now, I am doing well, jsut keep it up!!!
 
 <br>
 #### [ [ 24/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Review of the incorrect answers, 15 minutes on each subject.
 
 #### Execution ---> 
 
