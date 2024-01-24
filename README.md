@@ -761,6 +761,62 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 <br>
 #### [ [ 25/01/2024 ] ]
 
+#### Planning ---> Exam Practice @ 14:00 (maareks exam 5)  
+
+#### Execution ---> 
+
+<br>
+#### [ [ 26/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 27/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 28/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 29/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 30/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 31/01/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 01/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+#### [ [ 02/02/2024 ] ]
+
 #### Planning --->
 
 #### Execution ---> 
