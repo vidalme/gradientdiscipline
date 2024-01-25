@@ -756,7 +756,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Review of the incorrect answers, 15 minutes on each subject.
 
-#### Execution ---> 
+#### Execution ---> I am so tired, also surfed a bit too much, i really need to limit the ammount of consecutive hours of surf cause it kills me for the rest of the day. Result is that I couldnt even finish what I was supposed to do today, very few hours of study and with very low quality. thats ok tho, its not linear, forgive myself and lets do better tomorrow. (do not try to make up for it, its a new day)
 
 <br>
 #### [ [ 25/01/2024 ] ]
