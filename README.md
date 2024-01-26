@@ -763,12 +763,12 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Exam Practice @ 14:00 (maareks exam 5)  
 
-#### Execution ---> 
+#### Execution ---> I did the test, did not pass but got somewhere acceptable 64%. I could study a bit early in the morning, it was a good day even though I failed the mock exam.
 
 <br>
 #### [ [ 26/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Review all questions 5 minutes on each subject (take notes on subjects thatt need further investigation).
 
 #### Execution ---> 
 
