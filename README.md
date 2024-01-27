@@ -782,7 +782,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 <br>
 #### [ [ 28/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Complete the AWS skillbuilder test 
 
 #### Execution ---> 
 
