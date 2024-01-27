@@ -770,12 +770,12 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Review all questions 5 minutes on each subject (take notes on subjects thatt need further investigation).
 
-#### Execution ---> 
+#### Execution ---> I could put some hours of full focus, got done half of the questions but just couldnt do them all, the day had few surprises that were enough for me... although it is my own fault really, lack of resilience to adversities.
 
 <br>
 #### [ [ 27/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Finish the questions reviews, there is not way I skip completing this task, this is an ultimatum.
 
 #### Execution ---> 
 
