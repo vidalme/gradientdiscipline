@@ -775,14 +775,14 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 <br>
 #### [ [ 27/01/2024 ] ]
 
-#### Planning ---> Finish the questions reviews, there is not way I skip completing this task, this is an ultimatum.
+#### Planning ---> Finish the questions reviews, there is NO way to skip completing this task, this is an ultimatum.
 
-#### Execution ---> 
+#### Execution ---> Done! Efficient and welldone! After that I went over some cyber security stuff but I notice fortinet course is too vendor-locked, so I went for ciscos but I thought it was too basic. So I just study javascript/logic from aluras/boticario course. Excellent teacher and the whole thing is in portuguesse, he is good and I should finish it tomorrow (its supposed to be a week long) I need to finish it quickly and sweetly, the focus will still be aws saa. 
 
 <br>
 #### [ [ 28/01/2024 ] ]
 
-#### Planning ---> Complete the AWS skillbuilder test 
+#### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials frmo cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week. 
 
 #### Execution ---> 
 
