@@ -700,6 +700,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 ####  Execution ---> I did it, congrats to me, 30 questions reviewed out of the 26  I should have, mission accomplished even better than thought it would. Many hours of study all based on the test questions, got actually quite a few questions ahead of schedule. I feel good.
 
 <br>
+
 #### [ [ 17/01/2024 ] ]
 
 #### Planning ---> ( 39 questions goal ) Keep it moving, do not lose focus now that we are ahead of schedule, goal for the day is 39 questions revised at the very least! I am enjoying reviewing questions a lot, it's a very good mix of subjects which it helps me avoiding boredom.
@@ -707,6 +708,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> Finished them all, i actually got to 49 questions. A bit tired but this is the game, get to it till I cant fuckin learn, this is a brain gym right there! Keep it up mfkr!! I can feel I understanding everything better, there is still a long way to go tho.
 
 <br>
+
 #### [ [ 18/01/2024 ] ]
 
 #### Planning ---> ( 52 questions goal ) The object is almost reached already, so I might actually work a bit on another test (not planned), or just work a secondary quest.
@@ -714,6 +716,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> Very good job, a bit rushy by the final 10 questions or so, but I did finish them all and already did another test... decent result, better grade than the last one, got it up to 61%, great news. So now I can move to some of secondary quests before going for reviewing question ( one thing tho, I am thinking of dropping the k8s course saturday mnorning, I just cant keep up with it right now, must focus on aws theory and projects with aws)
 
 <br>
+
 #### [ [ 19/01/2024 ] ]
 
 #### Planning ---> ( 65 questions )  - already finish all questions! Then I can spend half the day on projects and a half on aws (correction of the practice exam) 
@@ -721,6 +724,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> Well I tried to work a project but I decided to actually do a very simple architecture with aws using terraform, it is just something I cant not avoid, the project might be simple but using IAC is necessary. I did some of the work and could study some aws as well.
 
 <br>
+
 #### [ [ 20/01/2024 ] ]
 
 #### Planning ---> AWS, I might actually focus on skillbuilder for a bit (instead of working with maarek) 
@@ -728,6 +732,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> I had to do the k8s course, that messed me up cause IM not really paying attention to it and at the same time couldnt do well the aws study, also it was not for a long time, but it was quality study although a bit too narrow (only IAM policies subject)
 
 <br>
+
 #### [ [ 21/01/2024 ] ] <br>
 #### ANNOUNCMENT -> DAY FOR THE TEST IS DECIDED 29/02/24<br>
 to be able to do it tho I must have scored at leasa 90 in the second round of maareks practice exams and passed on most of dojos exams
@@ -738,6 +743,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 22/01/2024 ] ]
 
 #### Planning ---> Completelly forgot todays task, godamn it // I remember later, every monday I am supposed to take a mock test.
@@ -745,6 +751,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> I did take the practice exam (got a 72%), also organized a lot of stuff and planned the path to certification.
 
 <br>
+
 #### [ [ 23/01/2024 ] ]
 
 #### Planning ---> Review questions from mondays test, then read a bit on the subjects i feel weaker.
@@ -752,6 +759,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> Lot of struggling, I did get through most of the questions reviewing but not as much focus as I think I can put on, Im gettin a bit tired, but cannot lose it now, I am doing well, jsut keep it up!!!
 
 <br>
+
 #### [ [ 24/01/2024 ] ]
 
 #### Planning ---> Review of the incorrect answers, 15 minutes on each subject.
@@ -759,6 +767,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> I am so tired, also surfed a bit too much, i really need to limit the ammount of consecutive hours of surf cause it kills me for the rest of the day. Result is that I couldnt even finish what I was supposed to do today, very few hours of study and with very low quality. thats ok tho, its not linear, forgive myself and lets do better tomorrow. (do not try to make up for it, its a new day)
 
 <br>
+
 #### [ [ 25/01/2024 ] ]
 
 #### Planning ---> Exam Practice @ 14:00 (maareks exam 5)  
@@ -766,6 +775,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> I did the test, did not pass but got somewhere acceptable 64%. I could study a bit early in the morning, it was a good day even though I failed the mock exam.
 
 <br>
+
 #### [ [ 26/01/2024 ] ]
 
 #### Planning ---> Review all questions 5 minutes on each subject (take notes on subjects thatt need further investigation).
@@ -773,6 +783,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> I could put some hours of full focus, got done half of the questions but just couldnt do them all, the day had few surprises that were enough for me... although it is my own fault really, lack of resilience to adversities.
 
 <br>
+
 #### [ [ 27/01/2024 ] ]
 
 #### Planning ---> Finish the questions reviews, there is NO way to skip completing this task, this is an ultimatum.
@@ -780,6 +791,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> Done! Efficient and welldone! After that I went over some cyber security stuff but I notice fortinet course is too vendor-locked, so I went for ciscos but I thought it was too basic. So I just study javascript/logic from aluras/boticario course. Excellent teacher and the whole thing is in portuguesse, he is good and I should finish it tomorrow (its supposed to be a week long) I need to finish it quickly and sweetly, the focus will still be aws saa. 
 
 <br>
+
 #### [ [ 28/01/2024 ] ]
 
 #### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials frmo cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week. 
@@ -787,6 +799,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 29/01/2024 ] ]
 
 #### Planning --->
@@ -794,6 +807,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 30/01/2024 ] ]
 
 #### Planning --->
@@ -801,6 +815,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 31/01/2024 ] ]
 
 #### Planning --->
@@ -808,6 +823,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 01/02/2024 ] ]
 
 #### Planning --->
@@ -815,6 +831,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Execution ---> 
 
 <br>
+
 #### [ [ 02/02/2024 ] ]
 
 #### Planning --->
