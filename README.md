@@ -794,15 +794,15 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 28/01/2024 ] ]
 
-#### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials frmo cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week. 
+#### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials from cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week. 
 
-#### Execution ---> 
+#### Execution ---> Completed: one cantrill's tutorial, and aluras JS course // incomplete: AWS skillbuilder test, organize week. I coulda finished, but I went surfing like a moron...
 
 <br>
 
 #### [ [ 29/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Organize week, take a test, finish aluras JS course, attend the boticarios devops class. 
 
 #### Execution ---> 
 
