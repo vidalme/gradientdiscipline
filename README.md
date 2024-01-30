@@ -804,13 +804,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Organize week, take a test, finish aluras JS course, attend the boticarios devops class. 
 
-#### Execution ---> 
+#### Execution ---> Success! All tasks accomplished, this is the power of scheduling. I wish I did more of that... got a 69% on the test, kinda did it half baked, I am a bit tired of taking tests tho, maybe I should take a break from this heavy test taking routine
 
 <br>
 
 #### [ [ 30/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Go over the test, do one tutorial (cantrils mini projects), work a bit on devops trilha.
 
 #### Execution ---> 
 
