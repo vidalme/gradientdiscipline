@@ -812,7 +812,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Go over the test, do one tutorial (cantrils mini projects), work a bit on devops trilha.
 
-#### Execution ---> 
+#### Execution ---> I focused on extending research on the questions I got wrong and worked a bit on the devops alura course. It's actually a change of pace, I was reading over real fast the questions after I finished the test, I changed my mind on that, I dont think its a good strategy, I may be better off by taking fewer tests and going deeper into the correction by actually doing some deeper reading and rewatching some videos.
 
 <br>
 
