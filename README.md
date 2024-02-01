@@ -818,15 +818,15 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 31/01/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Do aws questions review and a some trilha devops GB 
 
-#### Execution ---> 
+#### Execution ---> Difficult day really, tired af and not very willing to put the work in, lots of things happened as well to make it even more difficult.
 
 <br>
 
 #### [ [ 01/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Do half the git course (devops alura), do a good aws mini project and go over at least 10 questions review
 
 #### Execution ---> 
 
