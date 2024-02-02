@@ -828,13 +828,12 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Do half the git course (devops alura), do a good aws mini project and go over at least 10 questions review
 
-#### Execution ---> 
-
+#### Execution ---> I bit unmotivated, kinda of sick of AWS and starting to question whhy I really want aws cert, I know it will draw some HR traffic but I wont be able to be useful right now, at the same time I have 2 new oportunities for devops paths that if I take either one of them I will for sure be employed till the end of the year, Im afraid the aws cert is more a badge of honor... maybe even a ego trip in all honesty, the better alternative is clear, need to work first then certs to improve my career...
 <br>
 
 #### [ [ 02/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> I will need to organize a new schedule, splitting my time more evenly, I want to keep on studyng aws but way less intense...
 
 #### Execution ---> 
 
