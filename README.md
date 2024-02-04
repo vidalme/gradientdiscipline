@@ -835,7 +835,73 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> I will need to organize a new schedule, splitting my time more evenly, I want to keep on studyng aws but way less intense...
 
+#### Execution ---> Got the new "schedule" in the back of my mind, nothing too documented for now, but I will be for sure splitting my time and taking aws certifying a tiny slower. After the ideas I just study a bit of Java in the morning and did nothing more the rest of the day, it was a real short day and I should make up for it tomorrow.
+
+<br>
+
+#### [ [ 03/02/2024 ] ]
+
+#### Planning ---> No plans were made, this is a late update.
+
+#### Execution ---> Even though there were no plans it was a great day, lots of knowledge and with plenty of variety, did very good progress with Java, then finished a git course and got good practice, then put some time into aws. great day.
+
+<br>
+
+#### [ [ 04/02/2024 ] ]
+
+#### Planning --->
+
 #### Execution ---> 
 
 <br>
+
+#### [ [ 05/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 06/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 07/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 08/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 09/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 10/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+
 
