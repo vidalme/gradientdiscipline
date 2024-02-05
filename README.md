@@ -849,15 +849,15 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 04/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> No plans were made, this is a late update.
 
-#### Execution ---> 
+#### Execution ---> Decent day, good work for a Sunday. A very nice aws/devops project with tutorial done. 
 
 <br>
 
 #### [ [ 05/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Evolving and improving the aws devops project (Imrans)
 
 #### Execution ---> 
 
