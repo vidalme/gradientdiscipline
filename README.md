@@ -859,7 +859,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Evolving and improving the aws devops project (Imrans)
 
-#### Execution ---> 
+#### Execution ---> Finished the refactoring of imrans project with aws, this time using mostly aws managed tools. Still trying to figure how to put that in my portfolio.
 
 <br>
 
