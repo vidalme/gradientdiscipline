@@ -865,17 +865,17 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 06/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> No plans were made, this is a late update.
 
-#### Execution ---> 
+#### Execution ---> I really got cock blocked by myself, I tried very hard to evolve but during the morning I was very stuck, I did some thinking and random reading but it just didnt feel like any progress was made, that way during the afternoon I just lost focus completelly, most of the time I watched pipeline WSL while I did some backend node js study during the breaks... late in the night i did some password cycling and spent a lot of time on that.
 
 <br>
 
 #### [ [ 07/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> I wrote a few objectives for the rest of the week, starting with finish IT_talents Java today.
 
-#### Execution ---> 
+#### Execution ---> The day started bad hehehe, the IT_talent plataform is real slow right now, so I just changed to alura python.
 
 <br>
 
