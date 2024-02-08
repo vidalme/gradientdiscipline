@@ -875,13 +875,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> I wrote a few objectives for the rest of the week, starting with finish IT_talents Java today.
 
-#### Execution ---> The day started bad hehehe, the IT_talent plataform is real slow right now, so I just changed to alura python.
+#### Execution ---> The day started bad hehehe, the IT_talent plataform is real slow right now, so I just changed to alura python. Completed the python very well, loved it. Then I struggle throughout the Java course, god this is just a nightmare, I could def enjoy learning Java but this platform is just horrible.
 
 <br>
 
 #### [ [ 08/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Do the documentation project aws, MANDATORY. The day might be a bit short tho, Ill have many obligations off pc.
 
 #### Execution ---> 
 
