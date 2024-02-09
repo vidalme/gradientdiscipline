@@ -881,13 +881,21 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 08/02/2024 ] ]
 
-#### Planning ---> Do the documentation project aws, MANDATORY. The day might be a bit short tho, Ill have many obligations off pc.
+#### Planning ---> Do the documentation project aws, MANDATORY. The day might be a bit short tho, Ill have many obligations off pc. 
+
+#### Execution ---> The day was not short, I am really focused right now, really on a streak, it seems like when I have a bit of structure my stuff just flows better, thats a challenge for getting projects done since I have no structure to do them for now... I will have to research for that. The rest of the day I spent a lot of time researching multiple different techs trying to make sense of the big picture. Some hours were also dedicated to Java.
+
+<br>
+
+#### [ [ 09/02/2024 ] ]
+
+#### Planning ---> Focus on project again, I think picking a more specific project like my cloud resume challenge may be the best way for me to get this going. Also I want to do some Java course.
 
 #### Execution ---> 
 
 <br>
 
-#### [ [ 09/02/2024 ] ]
+#### [ [ 10/02/2024 ] ]
 
 #### Planning --->
 
@@ -895,7 +903,87 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 <br>
 
-#### [ [ 10/02/2024 ] ]
+#### [ [ 11/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 12/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 13/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 14/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 15/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 16/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 17/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 18/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 19/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 20/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution ---> 
+
+<br>
+
+#### [ [ 21/02/2024 ] ]
 
 #### Planning --->
 
