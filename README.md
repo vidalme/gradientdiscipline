@@ -891,13 +891,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Focus on project again, I think picking a more specific project like my cloud resume challenge may be the best way for me to get this going. Also I want to do some Java course.
 
-#### Execution ---> 
+#### Execution ---> Talking about reality check.... I thought it was a simple project but it seems that it is a notoriously hard test... So it will take way longer than I expected, which is not bad. let´s gooooo
 
 <br>
 
 #### [ [ 10/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> cloud resume challenge.
 
 #### Execution ---> 
 
