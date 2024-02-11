@@ -899,13 +899,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> cloud resume challenge.
 
-#### Execution ---> fiz nada direito
+#### Execution ---> I just didnt do it, actualy I did nothing, took a day off. Not sure why, it was not planned, I just did not feel like doing anything, it is the first day of carnaval but I do not celebrate at all, so it was not the reason why I slacked off, I feel tired and I am ahead of the schedule tho.
 
 <br>
 
 #### [ [ 11/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> I dId not plan anything, this is a late planning.
 
 #### Execution ---> 
 
