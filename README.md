@@ -899,7 +899,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> cloud resume challenge.
 
-#### Execution ---> 
+#### Execution ---> fiz nada direito
 
 <br>
 
