@@ -905,7 +905,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 11/02/2024 ] ]
 
-#### Planning ---> I dId not plan anything, this is a late planning.
+#### Planning ---> I dId not plan anything, this is a late planning. Lets study cloudfront, I need it
 
 #### Execution ---> 
 
