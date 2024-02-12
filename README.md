@@ -544,7 +544,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Keep on doing the docker helsinkis course, best case scenario get to at least the last section of the second part (docker compose / network)
 
-#### Execution ---> Mission accomplished (kinda), I did get to the last exercises but I did zero progress in them, I also got very little studying time. I also went surfing with no swell, I should not, specially after a good swell over the weekend. 
+#### Execution ---> Mission accomplished (kinda), I did get to the last exercises but I did zero progress in them, I also got very little studying time. I also went surfing with no swell, I should not, specially after a good swell over the weekend.
 
 <br>
 
@@ -584,7 +584,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> Some complementary planning for the week schedule and hands on devops reviews with AWS reassembly.
 
-#### Execution ---> Almost the whole day spent on just docker really, I love docker and I think it's important to get good at it, its almost like one of those base techs that serves as building step for a lot more advanced stuff. Its clearly very powerfull by itself but being good at it for surte it will help me a lot undesratanding more complex tools and techs. 
+#### Execution ---> Almost the whole day spent on just docker really, I love docker and I think it's important to get good at it, its almost like one of those base techs that serves as building step for a lot more advanced stuff. Its clearly very powerfull by itself but being good at it for surte it will help me a lot undesratanding more complex tools and techs.
 
 <br>
 
@@ -630,18 +630,17 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 08/01/2024 ] ]
 
-#### Planning ---> Sections 12 to 15 (2h 40m). This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.  
+#### Planning ---> Sections 12 to 15 (2h 40m). This whole week will be a crazy netflix marreks videos week, focus on just watching the whole content, do not need to reaserch anything.
 
 #### Execution ---> Done, every single section done with only half the available time dedicated to it, I kind watched everything real quick, now the focus is to cover the whole content quickly so I can get to the test and then be able to review my weakest subjects and study particular questions taht I felt like I had to.
 
 <br>
 
-
 #### [ [ 09/01/2024 ] ]
 
 #### Planning ---> Sections 16 to 18 (3h 14m).
 
-#### Execution ---> Another objetcive completed. What makes the day special is that I actually got my secondary quest done as well, finished the security intro course from fortinet, its very basic but its a good introduction to cyber security and it offers a free certification (still need to finish 2 more courses to get the cert, I guess ill be doing a module a week as secoindary quests for the week. The main quest of course is AWS SSA certi) 
+#### Execution ---> Another objetcive completed. What makes the day special is that I actually got my secondary quest done as well, finished the security intro course from fortinet, its very basic but its a good introduction to cyber security and it offers a free certification (still need to finish 2 more courses to get the cert, I guess ill be doing a module a week as secoindary quests for the week. The main quest of course is AWS SSA certi)
 
 <br>
 
@@ -652,7 +651,6 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 #### Execution ---> Done, it was well enough, lot of concepts and lots of tools, mostly I had heard of it before but some new info about each of them, def will need a review on some, specially the data analysis areas wich are kind of a foreign concept to me, def my weakest aspect are related stuff to big data and data bases. Overall a good day Id say.
 
 <br>
-
 
 #### [ [ 11/01/2024 ] ]
 
@@ -673,7 +671,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> day off // no more day off, now I will try to get my side quest done (k8s study for class tomorrow morning) and a few more lecture from maareks ssa course, so that way there is time left sunday for a practice test (only with this result I can organize nexts week study schedule)
 
-#### Execution --->  super special day, dont even care that I didnt study hahahaha, i wont leave mention in this diary why today is special, but I didnt study at all (i watched the k8s class but very lightly )I spent the day with my family
+#### Execution ---> super special day, dont even care that I didnt study hahahaha, i wont leave mention in this diary why today is special, but I didnt study at all (i watched the k8s class but very lightly )I spent the day with my family
 
 <br>
 
@@ -697,7 +695,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### Planning ---> ( 26 questions goal ) Go hard on my questions review. thats it!
 
-####  Execution ---> I did it, congrats to me, 30 questions reviewed out of the 26  I should have, mission accomplished even better than thought it would. Many hours of study all based on the test questions, got actually quite a few questions ahead of schedule. I feel good.
+#### Execution ---> I did it, congrats to me, 30 questions reviewed out of the 26 I should have, mission accomplished even better than thought it would. Many hours of study all based on the test questions, got actually quite a few questions ahead of schedule. I feel good.
 
 <br>
 
@@ -719,7 +717,7 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 19/01/2024 ] ]
 
-#### Planning ---> ( 65 questions )  - already finish all questions! Then I can spend half the day on projects and a half on aws (correction of the practice exam) 
+#### Planning ---> ( 65 questions ) - already finish all questions! Then I can spend half the day on projects and a half on aws (correction of the practice exam)
 
 #### Execution ---> Well I tried to work a project but I decided to actually do a very simple architecture with aws using terraform, it is just something I cant not avoid, the project might be simple but using IAC is necessary. I did some of the work and could study some aws as well.
 
@@ -727,20 +725,22 @@ https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
 
 #### [ [ 20/01/2024 ] ]
 
-#### Planning ---> AWS, I might actually focus on skillbuilder for a bit (instead of working with maarek) 
+#### Planning ---> AWS, I might actually focus on skillbuilder for a bit (instead of working with maarek)
 
 #### Execution ---> I had to do the k8s course, that messed me up cause IM not really paying attention to it and at the same time couldnt do well the aws study, also it was not for a long time, but it was quality study although a bit too narrow (only IAM policies subject)
 
 <br>
 
 #### [ [ 21/01/2024 ] ] <br>
+
 #### ANNOUNCMENT -> DAY FOR THE TEST IS DECIDED 29/02/24<br>
+
 to be able to do it tho I must have scored at leasa 90 in the second round of maareks practice exams and passed on most of dojos exams
 also, new suggestions for a study strategy for these last 30 days, I should alocate some daily time for at very least go over at least 1h a day for maareks videos, this time could expand to 2 hour MAX, and then the time left in the day for study should be around the same subjects, just focus a single day on a small area.
 
 #### Planning ---> Finish the IAM deep dive and start on working at correcting and reviewing subjects from the last practice exame I've done.
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -770,7 +770,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 25/01/2024 ] ]
 
-#### Planning ---> Exam Practice @ 14:00 (maareks exam 5)  
+#### Planning ---> Exam Practice @ 14:00 (maareks exam 5)
 
 #### Execution ---> I did the test, did not pass but got somewhere acceptable 64%. I could study a bit early in the morning, it was a good day even though I failed the mock exam.
 
@@ -788,13 +788,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Finish the questions reviews, there is NO way to skip completing this task, this is an ultimatum.
 
-#### Execution ---> Done! Efficient and welldone! After that I went over some cyber security stuff but I notice fortinet course is too vendor-locked, so I went for ciscos but I thought it was too basic. So I just study javascript/logic from aluras/boticario course. Excellent teacher and the whole thing is in portuguesse, he is good and I should finish it tomorrow (its supposed to be a week long) I need to finish it quickly and sweetly, the focus will still be aws saa. 
+#### Execution ---> Done! Efficient and welldone! After that I went over some cyber security stuff but I notice fortinet course is too vendor-locked, so I went for ciscos but I thought it was too basic. So I just study javascript/logic from aluras/boticario course. Excellent teacher and the whole thing is in portuguesse, he is good and I should finish it tomorrow (its supposed to be a week long) I need to finish it quickly and sweetly, the focus will still be aws saa.
 
 <br>
 
 #### [ [ 28/01/2024 ] ]
 
-#### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials from cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week. 
+#### Planning ---> Complete the AWS skillbuilder test, do one or 2 tutorials from cantrill and finish the day with some logic/js from alura, make sure to allocate some time for organizing next week.
 
 #### Execution ---> Completed: one cantrill's tutorial, and aluras JS course // incomplete: AWS skillbuilder test, organize week. I coulda finished, but I went surfing like a moron...
 
@@ -802,7 +802,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 29/01/2024 ] ]
 
-#### Planning ---> Organize week, take a test, finish aluras JS course, attend the boticarios devops class. 
+#### Planning ---> Organize week, take a test, finish aluras JS course, attend the boticarios devops class.
 
 #### Execution ---> Success! All tasks accomplished, this is the power of scheduling. I wish I did more of that... got a 69% on the test, kinda did it half baked, I am a bit tired of taking tests tho, maybe I should take a break from this heavy test taking routine
 
@@ -818,7 +818,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 31/01/2024 ] ]
 
-#### Planning ---> Do aws questions review and a some trilha devops GB 
+#### Planning ---> Do aws questions review and a some trilha devops GB
 
 #### Execution ---> Difficult day really, tired af and not very willing to put the work in, lots of things happened as well to make it even more difficult.
 
@@ -829,6 +829,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 #### Planning ---> Do half the git course (devops alura), do a good aws mini project and go over at least 10 questions review
 
 #### Execution ---> I bit unmotivated, kinda of sick of AWS and starting to question whhy I really want aws cert, I know it will draw some HR traffic but I wont be able to be useful right now, at the same time I have 2 new oportunities for devops paths that if I take either one of them I will for sure be employed till the end of the year, Im afraid the aws cert is more a badge of honor... maybe even a ego trip in all honesty, the better alternative is clear, need to work first then certs to improve my career...
+
 <br>
 
 #### [ [ 02/02/2024 ] ]
@@ -851,7 +852,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> No plans were made, this is a late update.
 
-#### Execution ---> Decent day, good work for a Sunday. A very nice aws/devops project with tutorial done. 
+#### Execution ---> Decent day, good work for a Sunday. A very nice aws/devops project with tutorial done.
 
 <br>
 
@@ -881,7 +882,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 08/02/2024 ] ]
 
-#### Planning ---> Do the documentation project aws, MANDATORY. The day might be a bit short tho, Ill have many obligations off pc. 
+#### Planning ---> Do the documentation project aws, MANDATORY. The day might be a bit short tho, Ill have many obligations off pc.
 
 #### Execution ---> The day was not short, I am really focused right now, really on a streak, it seems like when I have a bit of structure my stuff just flows better, thats a challenge for getting projects done since I have no structure to do them for now... I will have to research for that. The rest of the day I spent a lot of time researching multiple different techs trying to make sense of the big picture. Some hours were also dedicated to Java.
 
@@ -907,23 +908,23 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> I dId not plan anything, this is a late planning. Lets study cloudfront, I need it
 
-#### Execution ---> 
+#### Execution ---> I did put a few hours in, actually the very few 5 last hours of the day, it was not very productive, but I did it, I had to fight a very big lack of motivation, and not to tap myself on the back but this might be a better sign than the actual knowledge aquired, the real benefit of the day it mightve been the fact I fought my inner bitch, I conquered it! On to the next week. (The fact that I had already finished my time goal for the week made that bithc sooooo strong, I just didnt feel like giving the extra blood to it. Fuckin did it man, lets gooooo!!! This is a breath of fresh air no doubt.)
 
 <br>
 
 #### [ [ 12/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> I have the week goals in the exalidraw file, so it depends, but most likely finish the JAVA course frmo IT talents.
 
-#### Execution ---> 
+#### Execution ---> Well, I did start the day welll, and went for the studies from early (evne before waking my kid up), I study for a bit and then a friend made me go surfing hehehe... Came back, had lunch, took a nap, woke up and then put good work in. Put the hours I had to. But I did finish the fourth Java module, then got excited and did the 5th too... while im wrinting this Im doing the last one, which it seems to be the coolest one by far (it is also the last one).
 
 <br>
 
 #### [ [ 13/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Finish IT talent (2 weeks in advance)
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -931,7 +932,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -939,7 +940,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -947,7 +948,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -955,7 +956,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -963,7 +964,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -971,7 +972,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -979,7 +980,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
 
@@ -987,9 +988,6 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning --->
 
-#### Execution ---> 
+#### Execution --->
 
 <br>
-
-
-
