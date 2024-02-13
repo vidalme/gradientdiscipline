@@ -922,7 +922,7 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 13/02/2024 ] ]
 
-#### Planning ---> Finish IT talent (2 weeks in advance)
+#### Planning ---> Finish IT talent, the last part Java play / SBT / API
 
 #### Execution --->
 
