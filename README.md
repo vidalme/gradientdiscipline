@@ -924,13 +924,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Finish IT talent, the last part Java play / SBT / API
 
-#### Execution --->
+#### Execution ---> Finished the Java course, at the very very end I weakened a bit but I have been actually finishing stronger and stronger my courses (finishing its always been a weak point in my trajectory), thinking back I actually came from not being able to finish most of my courses to be able to finish them barely to now almost finish at full strength, the goal is to be able to finish it as strongly as I started it. After that I got a lot of python in my, at this point it's on like donkey kong, I can not allow myself to not write python code everyday, this will be def the devops language (ill still learn/practice other ones, but python must be given special care).
 
 <br>
 
 #### [ [ 14/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on pythoning till the end of the module 4 Alura. Then maybe I should take a look a bit at some django, because I will need to understand how to write and API and connect to a database(RDS pref) for the resume challenge.
 
 #### Execution --->
 
