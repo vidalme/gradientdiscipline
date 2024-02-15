@@ -932,13 +932,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Keep on pythoning till the end of the module 4 Alura. Then maybe I should take a look a bit at some django, because I will need to understand how to write and API and connect to a database(RDS pref) for the resume challenge.
 
-#### Execution --->
+#### Execution ---> Finished the course, success on that.
 
 <br>
 
 #### [ [ 15/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Write me some python code, now it is time to maintain python on my toolbox. From now on I should keep it as a daily practice (at least 1 hour of it), let's get some initial projects.
 
 #### Execution --->
 
