@@ -940,13 +940,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Write me some python code, now it is time to maintain python on my toolbox. From now on I should keep it as a daily practice (at least 1 hour of it), let's get some initial projects.
 
-#### Execution --->
+#### Execution ---> Did some free ranging on python, to get to know the landscape a lil bit, after that I notice my total lack of knowledge of databases, so I study a bit of SQL pure, the completed half of a course on python+mysql.
 
 <br>
 
 #### [ [ 16/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on studying python with databases, maybe do an actual progress with a simple database. (secondary alternative is to watch a bit of alura couses, whcih would be linux focused for now)
 
 #### Execution --->
 
