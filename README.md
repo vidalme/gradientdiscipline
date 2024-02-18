@@ -946,23 +946,23 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### [ [ 16/02/2024 ] ]
 
-#### Planning ---> Keep on studying python with databases, maybe do an actual progress with a simple database. (secondary alternative is to watch a bit of alura couses, whcih would be linux focused for now)
+#### Planning ---> Keep on studying python with databases, maybe do an actual project with a simple database. (secondary alternative is to watch a bit of alura couses, whcih would be linux focused for now)
 
-#### Execution --->
+#### Execution ---> Yeah, studying python, trying to progress into the language, I tried checking automation stuff but I did some work also with databases and APIs. Decent work.
 
 <br>
 
 #### [ [ 17/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> This weekend at least I will focus on python specifically for devops, specially from the youtube channel from the authors of (( python for devops: learn ruthlessly effective automation )) starting with https://www.youtube.com/watch?v=dbCBe7hlLbk
 
-#### Execution --->
+#### Execution ---> I felt like I need a bit of practice on the language, even before moving into devops/automation, database or other frameworks(django, fastapi), so I will be spending a couple of days focused on getting to know the language better, so a small project would be great.
 
 <br>
 
 #### [ [ 18/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> I want to finish a quiz game, very simple game text based, but that way I can understand data structure a lil better.
 
 #### Execution --->
 
