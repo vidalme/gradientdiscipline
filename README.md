@@ -964,13 +964,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> I want to finish a quiz game, very simple game text based, but that way I can understand data structure a lil better.
 
-#### Execution --->
+#### Execution ---> Done! Good work, this makes me feel so much more confident. I am happy im sharpening my programmnig skills with python, I can see it as possibly being something to make me stand out in the edvops world, I am going into a sort of unrelated area (im kind studying pygame now), but that is making me soooo interested that I think it is worth being less devopsy focused. I finished aluras pythons modules and felt like now it would be a good time to pick it up and make it stick for real.
 
 <br>
 
 #### [ [ 19/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Just have fun with python, let it sink in for the whole week, just make sure to deepen my knowledge of python while also makins sure to understand some key areas (database integrations, automation of devopsy tasks, one or two framworks)
 
 #### Execution --->
 
