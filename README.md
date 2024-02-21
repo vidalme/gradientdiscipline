@@ -972,11 +972,27 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Just have fun with python, let it sink in for the whole week, just make sure to deepen my knowledge of python while also makins sure to understand some key areas (database integrations, automation of devopsy tasks, one or two framworks)
 
-#### Execution --->
+#### Execution ---> I went through half way a greate pygame tutorial then spent almost as much time doing codewars for python, even though the codewar is more for logic I could use it to make me go through docs so I can find better ways to write code, those 2 "unfocused" practice styles (pygame and codewars), have been very beneficial to keep me curious to explore the language. I am really enjoying working with python, for real.
 
 <br>
 
 #### [ [ 20/02/2024 ] ]
+
+#### Planning ---> Keep it working with python and pygame, finish the pygame basic tutorial and do at least a snake game with it.
+
+#### Execution ---> I did not finish it nor did the snake game, Ill give myself one more day for this then I must focus on server side stuff and specific devopsy python skills. Maybe one day for a brief intro into frameworks (flask or django)
+
+<br>
+
+#### [ [ 21/02/2024 ] ]
+
+#### Planning ---> My bday, normal day, focus! Last day of pygame and generic python studies, after this I have to get on the mandatory part of python for devops.
+
+#### Execution --->
+
+<br>
+
+#### [ [ 22/02/2024 ] ]
 
 #### Planning --->
 
@@ -984,7 +1000,63 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 <br>
 
-#### [ [ 21/02/2024 ] ]
+#### [ [ 23/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 24/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 25/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 26/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 27/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 28/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 29/02/2024 ] ]
+
+#### Planning --->
+
+#### Execution --->
+
+<br>
+
+#### [ [ 01/03/2024 ] ]
 
 #### Planning --->
 
