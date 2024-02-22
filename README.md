@@ -988,13 +988,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> My bday, normal day, focus! Last day of pygame and generic python studies, after this I have to get on the mandatory part of python for devops.
 
-#### Execution --->
+#### Execution ---> Got good sessions, I couldn't reach my goal for ammount of hours but I did get some focused work and finished the tutorial on pygame I was planning to. Thats a big win, happy bday me. Now that I got a decent grasp on the language, I should focus on devopsy stuff but first I will get my hands first on API and backend stuff with python, I will dedicate the whole day to that (2 days tops!! I will need at least the next 2 days of the week for devopsy stuff, this will be an on going activity for my career ). A good tutorial and then a tiny small practice project
 
 <br>
 
 #### [ [ 22/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Focus on python backend.
 
 #### Execution --->
 
