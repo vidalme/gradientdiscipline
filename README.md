@@ -996,13 +996,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Focus on python backend.
 
-#### Execution --->
+#### Execution ---> I studied pure python, core intermediary topics, like classes and a few more subjects. Well, reality checks are very common in a self taught student's life, we just dont really know how extensive a subjects really is till we are actually deep into it, and this is another case, the old russian doll, sometimes we try to understand a subject and we find inside a few more subjects necessary for that one to be understood, this is normal and must be seen not as a failure but as a test of resilience and wisdom, do not rush things, we have to respect the process, it aind easy.
 
 <br>
 
 #### [ [ 23/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Keep on going with python, lets try and finish one small project with automation (desktop cleaner)
 
 #### Execution --->
 
