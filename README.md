@@ -1004,13 +1004,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Keep on going with python, lets try and finish one small project with automation (desktop cleaner)
 
-#### Execution --->
+#### Execution ---> So muhc stuff to learn just to be good at python... It really is endless, I will def need to focus a bit more and extend my python practice to well over this week, its something I will just have to practice almost daily. Could not finish the small automation project but studied for many hours about classes and special modules for the project.
 
 <br>
 
 #### [ [ 24/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Finish the automation project, just the downloads organizer.
 
 #### Execution --->
 
