@@ -1012,13 +1012,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Finish the automation project, just the downloads organizer.
 
-#### Execution --->
+#### Execution ---> I did finish it, although I post it in my groups boticarios class and just one person liked it, I guess it wasn't that impressive ehhee. I loved it tho and it is done! So success!! The rest of the day I went for some other broad understanding to make the migration to understand django.
 
 <br>
 
 #### [ [ 25/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Focus on a brief intro to Django or anything to support my uderstand of it. (Tomorrow), try to follow a small app tuotorial with django
 
 #### Execution --->
 
