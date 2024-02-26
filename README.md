@@ -1020,13 +1020,13 @@ also, new suggestions for a study strategy for these last 30 days, I should aloc
 
 #### Planning ---> Focus on a brief intro to Django or anything to support my uderstand of it. (Tomorrow), try to follow a small app tuotorial with django
 
-#### Execution --->
+#### Execution ---> I did a quick intro to django but I noticed that it is enough, I evolved soooooooo mcuhh in python the past 2 weeks, it was really beneficial not only for my actual toolbox of skills but also for my confidence, I jsut feel much better having initiate a decent foundation to build upon with python, I feel like I will be using a lot of it and could be a very good strategy to make me pop up among the crowd (also I think I heard one of my mentors from the bootcmap mention they use a lot of python in their devops departament, so I guess that could make me more atrative to an eventual hire). Anyways, that was only an intro anbd frmo now on I really should practice daily or at least every other day. Another big win was that  I completed every single week of february with my ideal goal of 60hours of practice a week, that is awesome, I really did learn a lot in February, I feel like a godamn machine (cringe af)!! I did read a bunch about lambda and RDS/Dynamo, that is for the resume challenge that I should be picking back up and getting at least another step done in the next couple of weeks (which could be not very busy since my boot camp will be focused on linux the next couple of weeks (I am kinda ahead of the schedule in this subject, I still do need to take the courses from alura tho)). Ok enough, lets plan these next few weeks cause I really need to get more shit done quickly, I am about to complete 6 months of studying devops on the 27/02/24 (started at 27/08/23)!!!
 
 <br>
 
 #### [ [ 26/02/2024 ] ]
 
-#### Planning --->
+#### Planning ---> Plan the month a little bit and m,ore specifically the next couple of weeks. The actual plan for the day depend on it (i do have an idea already tho, so I might do it quickly)
 
 #### Execution --->
 
