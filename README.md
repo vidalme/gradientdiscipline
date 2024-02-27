@@ -39,24 +39,24 @@ cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o lequ
 <h2>ONE YEAR TO GET JOB READY ON THE CLOUD </h2>
 <h3>Beginning of the journal 13th of Octorber 2023</h3>
 <b>13/10/2023</b><br>
-Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.
+Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.<br><br>
 <b>15/10/2023</b><br>
-Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]
-<b>17/10/23</b> many bugs with vagrant (local virtualization), though Im starting to feel the very first signs of understanding Devops culture and automation, quite subtle though.
+Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]<br><br>
+<b>17/10/23</b> many bugs with vagrant (local virtualization), though Im starting to feel the very first signs of understanding Devops culture and automation, quite subtle though.<br><br>
 <b>21/10/23</b><br>
-finished the first part of the Devops course, it was about the basis of the workload, lots of traditional virtualization, linux, bash (missed on more networking but I already done a small youtube course on it, 20 or so hours on it).
+finished the first part of the Devops course, it was about the basis of the workload, lots of traditional virtualization, linux, bash (missed on more networking but I already done a small youtube course on it, 20 or so hours on it).<br><br>
 <b>22/10/23</b><br>
-Learning how to include AWS into the mix, replacing on-premise "servers" and even other services with cloud power. Great feeling to be reaching this point to finally make the connection between the cloud and devops practices. (Before this course I was studying only cloud without any real understanding of operations/linux/network)
+Learning how to include AWS into the mix, replacing on-premise "servers" and even other services with cloud power. Great feeling to be reaching this point to finally make the connection between the cloud and devops practices. (Before this course I was studying only cloud without any real understanding of operations/linux/network)<br><br>
 <b>23/10/23</b><br>
-Starting the Jenkins section of the course, it is the longes section of the whole course (6h), Imran does not fuck around, he is a straigh shooter and those 6 hours are of pure content and knowledge, this will be specially a wild ride since I was really looking forward to learn Jenkins cause there is something I like about automation and it looks like Jenkins would be the first actual taste of it.
+Starting the Jenkins section of the course, it is the longes section of the whole course (6h), Imran does not fuck around, he is a straigh shooter and those 6 hours are of pure content and knowledge, this will be specially a wild ride since I was really looking forward to learn Jenkins cause there is something I like about automation and it looks like Jenkins would be the first actual taste of it.<br><br>
 <b>24/10/23</b><br>
-2 days of intense CI/CD studies, it was actually my first formal contact with the concept(I had heard of it, but never actually had my hands on it), the tool Imran chooses is Jenkins ( I am aware there are many other options available ).
-I am still half way through the CI/CD section and I did face a bit of a learning curve in order to get the bigger picture, a few particular new concepts were quite challenging to fully comprehend, but the little I could grasp was very exciting and motivating.
+2 days of intense CI/CD studies, it was actually my first formal contact with the concept(I had heard of it, but never actually had my hands on it), the tool Imran chooses is Jenkins ( I am aware there are many other options available ).<br>
+I am still half way through the CI/CD section and I did face a bit of a learning curve in order to get the bigger picture, a few particular new concepts were quite challenging to fully comprehend, but the little I could grasp was very exciting and motivating.<br><br>
 <b>25/10/23</b><br>
-Done with first half of the studying section (Jenkins), and with taht finished
-<b>26/10/23</b><br>Due to some burnout from the Jenkins section, I ended up spending the day halfassing, I had the material out but ended up just trying to solve some bugs I had with jenkins+ECS (aws) and a generalized SSH issue. It was basically a day off. no focus and no discipline.
-<b>27/10/23</b><br>Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.
-Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estudado no dia seguinte!
+Done with first half of the studying section (Jenkins), and with taht finished<br><br>
+<b>26/10/23</b><br>Due to some burnout from the Jenkins section, I ended up spending the day halfassing, I had the material out but ended up just trying to solve some bugs I had with jenkins+ECS (aws) and a generalized SSH issue. It was basically a day off. no focus and no discipline.<br><br>
+<b>27/10/23</b><br>Infelizmente comecei o dia colocando umas horas mas logo me abati e procurei reorganizar meu schedule pois Manu esta querendo comecar um trabalho novo.<br>
+Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estudado no dia seguinte!<br><br>
 <hr>
 <h3>28/10/2023</h3>
 <h4><u>Plan</u></h4>
