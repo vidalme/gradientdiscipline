@@ -60,11 +60,13 @@ Horarios bem mais estritos e agora todo dia preciso definir o que vai ser estuda
 <hr>
 <h3>28/10/2023</h3>
 <h4><u>Plan</u></h4>
-1. Do a revision of the jenkins section<br>
-2. Fix bug that prevented the ECS/jenkins work<br>
-3. finish Jenkins section<br>
+<ol>
+<li>Do a revision of the jenkins section</li>
+<li>Fix bug that prevented the ECS/jenkins work</li>
+<li>Finish Jenkins section</li>
+</ol>
 <h4><u>Execution</u></h4>
-I could get a lot of study in, but a bit unfocused, it was guided at a high level by the Jenkins material but ended up going everywhere around the subject.
+I managed to study quite a bit, but it was somewhat unfocused. The Jenkins material provided a high-level guide, but I ended up exploring various aspects of the subject.
 
 <hr>
 <h3>29/10/2023</h3>
@@ -839,9 +841,26 @@ I did not follow the plan to plan, I went of rails fast. I started the day by ju
 <h4><u>Plan</u></h4>
 I got to do the planning and there is also a jobinterview today, good luck to me.
 <h4><u>Execution</u></h4>
+This marked my second real DevOps job interview. I can confidently say that the day of a job interview makes me very nervous. It's challenging to maintain the presence of mind required to stick to my study plan. After the interview, while I feel quite motivated, I also lack focus. This is definitely something I need to improve. I can't afford to waste an entire day due to a one-hour interview, especially because job interviews currently feel more like practice, rather than concrete job opportunities.<br><br>
+The rest of the day, I spent organizing this journal. It still needs some work, but it's already quite lengthy, making it very time-consuming to organize it entirely.<br><br>
+However, there was a silver lining. By the later hours of the day, I managed to figure out the route53 DNS for the resume challenge. I'm also nearly perfecting my sleep schedule. It's still a bit off, but I'm hopeful that in the next few days it should be on point.
 <hr>
 <h3>28/02/2024</h3>
-<h4><u>Plan</u></h4>
+<h4><u>Plan</u></h4> 
+<b>This is a small quick plan for the next couple of weeks.</b><br><br>
+This week, my priority is completing the Python+Dynamo backend for the resume challenge. While focusing on that, I will also devote time to Linux, as this week and next are dedicated to it. <br><br>
+
+My approach will be to: <br>
+
+<li>Practice relentlessly 
+<li>Concentrate on understanding networking 
+<li>Intentionally breaking things and attempting to fix them.
+<li>AI exercises.
+<li>Undertaking Under the Wire challenges.
+<li>Some automation scripting(refresh memory bash scripting). 
+<li>Revisit module 4 on disk partitioning from Alura's Linux course.<br><br>
+I plan to spend most of the day on the resume challenge. However, I'll also reserve at least a couple of hours for Linux activities.
+
 <h4><u>Execution</u></h4>
 <hr>
 <h3>29/02/2024</h3>
