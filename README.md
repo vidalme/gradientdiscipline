@@ -852,19 +852,25 @@ This week, my priority is completing the Python+Dynamo backend for the resume ch
 
 My approach will be to: <br>
 
+<ul>
 <li>Practice relentlessly 
 <li>Concentrate on understanding networking 
 <li>Intentionally breaking things and attempting to fix them.
 <li>AI exercises.
 <li>Undertaking Under the Wire challenges.
 <li>Some automation scripting(refresh memory bash scripting). 
-<li>Revisit module 4 on disk partitioning from Alura's Linux course.<br><br>
-I plan to spend most of the day on the resume challenge. However, I'll also reserve at least a couple of hours for Linux activities.
+<li>Revisit module 4 on disk partitioning from Alura's Linux course.
+</ul>
+<p>I plan to spend most of the day on the resume challenge. However, I'll also reserve at least a couple of hours for Linux activities.
 
 <h4><u>Execution</u></h4>
+<p>While the execution wasn't ideal, I recognize there's room for improvement. I found myself delving into the intricacies of web architecture and absorbing high-level videos on software architecture and legacy structure. My study also included a mix of reading and watching videos about Oracle WebLogic, which appeared to be significant for the role I interviewed for yesterday. Although the experience was decent, being a newcomer to the subject made it challenging to identify valuable resources.
+
+<p>Later, I attempted to complete Linux sysadmin exercises with ChatGPT. Although I chose the right method, I didn't dedicate sufficient time to it. I plan on rectifying this tomorrow.
+
 <hr>
 <h3>29/02/2024</h3>
-<h4><u>Plan</u></h4>
+<h4><u>Plan</u></h4> Total focus on linux. (network and admin)
 <h4><u>Execution</u></h4>
 <br>
 <br>
