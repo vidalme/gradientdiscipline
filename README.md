@@ -872,9 +872,58 @@ My approach will be to: <br>
 <h3>29/02/2024</h3>
 <h4><u>Plan</u></h4> Total focus on linux. (network and admin)
 <h4><u>Execution</u></h4>
-<br>
+<p>The late-night session was excellent, providing ample practice and reading on Linux. Although it wasn't very lengthy, it was productive. I went surfing afterwards and was quite tired, so I relaxed for the remainder of the morning before sleeping into the afternoon. 
+<p>I intended to make up for the lost time later, but a car issue that my wife encountered required my attention, causing me to miss the night session.
 <br>
 <h2>March 2024</h2>
 <h3>01/03/2024</h3>
+<h4><u>Plan</u></h4>
+<p>The rest of this week and next week are already set on Linux studies.
+<p>Lets do some projects but most of my attention should be on boticarios/alura boot camp, take what alura offers and double down with my own research and handson, dig deeper into every subject alura covers. 
+<p>Try and get some practice on each subject them as well, with chatgpt that gets super easy to do. 
+<h4><u>Execution</u></h4>
+<h3>02/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>03/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>04/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>05/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>06/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>07/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>08/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>09/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>10/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>11/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>12/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>13/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>14/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>15/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<h3>16/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
