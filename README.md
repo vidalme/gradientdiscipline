@@ -48,7 +48,8 @@ finished the first part of the Devops course, it was about the basis of the work
 <b>22/10/23</b><br>
 Learning how to include AWS into the mix, replacing on-premise "servers" and even other services with cloud power. Great feeling to be reaching this point to finally make the connection between the cloud and devops practices. (Before this course I was studying only cloud without any real understanding of operations/linux/network)<br><br>
 <b>23/10/23</b><br>
-Starting the Jenkins section of the course, it is the longes section of the whole course (6h), Imran does not fuck around, he is a straigh shooter and those 6 hours are of pure content and knowledge, this will be specially a wild ride since I was really looking forward to learn Jenkins cause there is something I like about automation and it looks like Jenkins would be the first actual taste of it.<br><br>
+<p>Starting the Jenkins section of the course, it is the longest section of the whole course (6h), Imran does not fuck around, he is a straigh shooter and those 6 hours are of pure content and knowledge. 
+<p>I expect this to be specially a wild ride since I was really looking forward to learn Jenkins cause there is something I like about automation and it looks like Jenkins would be the first actual taste of it.<br><br>
 <b>24/10/23</b><br>
 2 days of intense CI/CD studies, it was actually my first formal contact with the concept(I had heard of it, but never actually had my hands on it), the tool Imran chooses is Jenkins ( I am aware there are many other options available ).<br>
 I am still half way through the CI/CD section and I did face a bit of a learning curve in order to get the bigger picture, a few particular new concepts were quite challenging to fully comprehend, but the little I could grasp was very exciting and motivating.<br><br>
@@ -84,14 +85,14 @@ Finish Jenkins section.
 took me a while to go over Jenkins using master and slave concepts, but once I did understand it was very revealing, the power of jenkins is really impressive.
 Also there was one very good section on security with Jenkins, many good options but I liked role based permissions for overall utilization.
 
-This ends the Jenkins section, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me in a way, its ungly, clunky and complicated but so versatile and powerfull, the security of jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server few hardcoded stuff .
+This ends the Jenkins section, hell of a ride, now I do feel like I got a decent understand of the basics of what it's done in a CI enviroment, prob I will have to learn another tool like github actions, but Jenkins really spoke to me, its fugly, clunky and complicated but so versatile and powerfull, the lack of security in jenkins may be the only deal breaker at this point, it does concern me a bit how we have to leave on the server hardcoded stuff.
 
 <hr>
 <h3>31/10/2023</h3>
 <h4><u>Plan</u></h4>
 Research about Ansible, get my feet wet.
 <h4><u>Execution</u></h4>
-I did some the research but it was quick, and I ended up following the course pre-estabilished order and I will be doing the Python part (I was a bot reclunctant on spending the time on it at this point). Very simple language and alreayd went through half of it.
+I did some the research but it was quick, and I ended up following the course pre-estabilished order and I will be doing the Python part (I was a bit reclunctant on spending the time on it at this point). Very simple language and alreayd went through half of it.
 <br>
 <br>
 <br>
