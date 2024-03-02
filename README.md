@@ -1,4 +1,4 @@
-<h2>A new hope Era</h2>
+<h2>Tick-Tock</h2>
 <p>After almost 15 years away from IT, this is a new era with new enviroment, this is just a new beginning with many possibilities, although I take the front door and start with understanding the state of webdevelopment.</p>
 <h3>From January to May 2023</h3>
 <b>01/01/23</b><br>
