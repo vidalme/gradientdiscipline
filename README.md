@@ -883,8 +883,10 @@ My approach will be to: <br>
 <p>Lets do some projects but most of my attention should be on boticarios/alura boot camp, take what alura offers and double down with my own research and handson, dig deeper into every subject alura covers. 
 <p>Try and get some practice on each subject them as well, with chatgpt that gets super easy to do. 
 <h4><u>Execution</u></h4>
+<p>I spent the whole day on the book <font size="+1"><b>The Linux DevOps Handbook</b></font> (400 pg), got through the first quarter of the book, mostly content I already have decent understanding, so much of it I went through very quickkly but I could still learn a few good new tidbids and got some very good practice (specially on bash script), it was just the perfect review for linux on good timing as well (coincidently i might need it for a technical interview I may have)
 <h3>02/03/2024</h3>
 <h4><u>Plan</u></h4>
+Very similar day to yesterday, focus on the Linux Devops handbook, if I get tired of it I could switch to another linux related method, https://overthewire.org/wargames/ is a great and fun option.
 <h4><u>Execution</u></h4>
 <h3>03/03/2024</h3>
 <h4><u>Plan</u></h4>
