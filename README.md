@@ -921,8 +921,13 @@ My approach will be to: <br>
 </ul>
 <hr>
 <h4><u>Execution</u></h4>
+<p>That was a long day, first couple hours for organization of my repos (it is important for recruiters be able to find my stuff), then I went deep into processes, services and thread in linux, following the book, but then.... then it came linux networking, and that got me stuck.</p>
+<p>The book goes over the commands for network, and I know them, but i want to understand in depth, like what is an interface and/or what/how we create an actual network with vm machines. I had to go on youtube to look for that information, but then I rememeber that aluras next step on my trail is 4 big network courses, so I went ahead to start doing them.</p>
+<p>All in all, it was a very good day, long but profitable (in terms of knowledge). I was a bit reluctuntly cause I really want to still focus on linux for the next week, but I am starting to think it will have to be at the very least hibrid.</p>
+<p>I even played with docker a little bit, in the devops world, all of that is connected; serves, linux network, processes, services, vms, protocols, containers... I guess I will have to mix them up to better understand. </p> 
 <h3>03/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>I already reached my goal for the week, but I could use today for more "watching" content instead of going heavy on hands on. It's just a lot more relaxing.</p>
 <h4><u>Execution</u></h4>
 <hr>
 <h3>04/03/2024</h3>
