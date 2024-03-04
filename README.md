@@ -933,7 +933,7 @@ My approach will be to: <br>
 <br><hr>
 <h3>04/03/2024</h3>
 <h4><u>Plan</u></h4>
-<p>I want to focus on some <a href="https://overthewire.org/wargames/"> WarGames</a> challenges, the secondary goal would be work a little more on network with linux or the aluras network course.
+<p>I want to focus on some <a href="https://overthewire.org/wargames/"> WarGames</a> challenges (but I should not spend the whole day just doing that), the secondary goal would be work a little more on network with linux or the aluras network course.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>05/03/2024</h3>
