@@ -836,16 +836,17 @@ As I approach the six-month mark of studying DevOps (I started on 27/08/23), I n
 <h4><u>Planning</u></h4>
 Plan the month a little bit and more specifically the next couple of weeks. The actual plan for the day depend on it (i do have an idea already tho, so I might do it quickly)
 <h4><u>Execution</u></h4>
-I did not follow the plan to plan, I went of rails fast. I started the day by just watching a few minutes of boticarios alura linux module and ennded up doing all the 4 linux modules... (equivalent to 2 weeks of course), the second half of the 4th module was not very well absorbed, I might actually jump back into it and redo it. I really did go into a netflix mode here, but in all honesty I knew most of it so I could just glance over. But I still need to do the planning for the month.
-<hr>
+<p>I did not follow the plan to plan, I went of rails fast. I started the day by just watching a few minutes of boticarios alura linux module and ennded up doing all the 4 linux modules... (equivalent to 2 weeks of course), the second half of the 4th module was not very well absorbed, I might actually jump back into it and redo it.</p><p> I really did go into a netflix mode here, but in all honesty I knew most of it so I could just glance over. But I still need to do the planning for the month.</p>
+<br><hr>
 <h3>27/02/2024</h3>
 <h4><u>Plan</u></h4>
 I got to do the planning and there is also a jobinterview today, good luck to me.
 <h4><u>Execution</u></h4>
-This marked my second real DevOps job interview. I can confidently say that the day of a job interview makes me very nervous. It's challenging to maintain the presence of mind required to stick to my study plan. After the interview, while I feel quite motivated, I also lack focus. This is definitely something I need to improve. I can't afford to waste an entire day due to a one-hour interview, especially because job interviews currently feel more like practice, rather than concrete job opportunities.<br><br>
-The rest of the day, I spent organizing this journal. It still needs some work, but it's already quite lengthy, making it very time-consuming to organize it entirely.<br><br>
-However, there was a silver lining. By the later hours of the day, I managed to figure out the route53 DNS for the resume challenge. I'm also nearly perfecting my sleep schedule. It's still a bit off, but I'm hopeful that in the next few days it should be on point.
-<hr>
+<p>This marked my second real DevOps job interview. I can confidently say that the day of a job interview makes me very nervous. It's challenging to maintain the presence of mind required to stick to my study plan. After the interview, while I feel quite motivated, I also lack focus. This is definitely something I need to improve. I can't afford to waste an entire day due to a one-hour interview, especially because job interviews currently feel more like practice, rather than concrete job opportunities.
+</p><br>
+<p>The rest of the day, I spent organizing this journal. It still needs some work, but it's already quite lengthy, making it very time-consuming to organize it entirely</p>
+<p>However, there was a silver lining. By the later hours of the day, I managed to figure out the route53 DNS for the resume challenge. I'm also nearly perfecting my sleep schedule. It's still a bit off, but I'm hopeful that in the next few days it should be on point.</p>
+<br><hr>
 <h3>28/02/2024</h3>
 <h4><u>Plan</u></h4> 
 <b>This is a small quick plan for the next couple of weeks.</b><br><br>
@@ -865,17 +866,15 @@ My approach will be to: <br>
 <p>I plan to spend most of the day on the resume challenge. However, I'll also reserve at least a couple of hours for Linux activities.
 
 <h4><u>Execution</u></h4>
-<p>While the execution wasn't ideal, I recognize there's room for improvement. I found myself delving into the intricacies of web architecture and absorbing high-level videos on software architecture and legacy structure. My study also included a mix of reading and watching videos about Oracle WebLogic, which appeared to be significant for the role I interviewed for yesterday. Although the experience was decent, being a newcomer to the subject made it challenging to identify valuable resources.
-
-<p>Later, I attempted to complete Linux sysadmin exercises with ChatGPT. Although I chose the right method, I didn't dedicate sufficient time to it. I plan on rectifying this tomorrow.
-
-<hr>
+<p>While the execution wasn't ideal, I recognize there's room for improvement. I found myself delving into the intricacies of web architecture and absorbing high-level videos on software architecture and legacy structure. My study also included a mix of reading and watching videos about Oracle WebLogic, which appeared to be significant for the role I interviewed for yesterday. Although the experience was decent, being a newcomer to the subject made it challenging to identify valuable resources.</p>
+<p>Later, I attempted to complete Linux sysadmin exercises with ChatGPT. Although I chose the right method, I didn't dedicate sufficient time to it. I plan on rectifying this tomorrow.</p>
+<br><hr>
 <h3>29/02/2024</h3>
 <h4><u>Plan</u></h4> Total focus on linux. (network and admin)
 <h4><u>Execution</u></h4>
 <p>The late-night session was excellent, providing ample practice and reading on Linux. Although it wasn't very lengthy, it was productive. I went surfing afterwards and was quite tired, so I relaxed for the remainder of the morning before sleeping into the afternoon. 
-<p>I intended to make up for the lost time later, but a car issue that my wife encountered required my attention, causing me to miss the night session.
-<br>
+<p>I intended to make up for the lost time later, but a car issue that my wife encountered required my attention, causing me to miss the night session.</p>
+<br><hr><br>
 <h2>March 2024</h2>
 <h3>01/03/2024</h3>
 <h4><u>Plan</u></h4>
@@ -895,7 +894,7 @@ My approach will be to: <br>
     </ul>
     <li>Part 2: Your Day-to-Day DevOps Tools</li>
 </ul>
-<hr>
+<br><hr>
 <h3>02/03/2024</h3>
 <h4><u>Plan</u></h4>
 <p>Very similar day to yesterday, focus on the <font size="+1"><b>The Linux DevOps Handbook</b></font>, the goal is to do if I get tired of it I could switch to another linux related method, <a href="https://overthewire.org/wargames/"> WarGames</a> is a great and fun option.
@@ -925,60 +924,95 @@ My approach will be to: <br>
 <p>The book goes over the commands for network, and I know them, but i want to understand in depth, like what is an interface and/or what/how we create an actual network with vm machines. I had to go on youtube to look for that information, but then I rememeber that aluras next step on my trail is 4 big network courses, so I went ahead to start doing them.</p>
 <p>All in all, it was a very good day, long but profitable (in terms of knowledge). I was a bit reluctuntly cause I really want to still focus on linux for the next week, but I am starting to think it will have to be at the very least hibrid.</p>
 <p>I even played with docker a little bit, in the devops world, all of that is connected; serves, linux network, processes, services, vms, protocols, containers... I guess I will have to mix them up to better understand. </p> 
-<hr>
+<br><hr>
 <h3>03/03/2024</h3>
 <h4><u>Plan</u></h4>
 <p>I already reached my goal for the week, but I could use today for more "watching" content instead of going heavy on hands on. It's just a lot more relaxing.</p>
 <h4><u>Execution</u></h4>
-<hr>
+<p>The entire day was dedicated to re-writing my resume (it was so bad that I can barely call it a re-do, feels more like I am creating it for the first time). I got 2 interviews with only 10 really bad resumes sent, so I figured that I improve my chances with a brand new one explaining a little more about my story.</p>
+<br><hr>
 <h3>04/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>I want to focus on some <a href="https://overthewire.org/wargames/"> WarGames</a> challenges, the secondary goal would be work a little more on network with linux or the aluras network course.
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>05/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>06/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>07/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>08/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>09/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>10/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>11/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>12/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>13/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>14/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>15/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
-<hr>
+<br><hr>
 <h3>16/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
+<br><hr>
+<h3>17/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>18/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>19/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>20/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>21/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>21/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>22/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>23/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
