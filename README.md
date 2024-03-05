@@ -935,9 +935,13 @@ My approach will be to: <br>
 <h4><u>Plan</u></h4>
 <p>I want to focus on some <a href="https://overthewire.org/wargames/"> WarGames</a> challenges (but I should not spend the whole day just doing that), the secondary goal would be work a little more on network with linux or the aluras network course.
 <h4><u>Execution</u></h4>
+<p>I did a bunch of the wargame chalenges, I was doing very well, and it was all fun and games till I reached a HARD plateu, <b>Network</b>.</p>
+When I got to challenges with networking I got totally stuck, it is currently the largest gap in my knowledge, and a very important one. The next couple of weeks will be very important, I will dedicate them entirely to understand networks, I must have total conceptual understand of it, and some handson would help on better understanding. </p>
+<p>I believe to work with containers (the very ground for devops) I must understand completelly networks AND linux, those 2 techies are basically what makes a container possible and able to communicate between them and to anything else in the world. So no rush here, I really do need to learn well these concepts.</p>
 <br><hr>
 <h3>05/03/2024</h3>
 <h4><u>Plan</u></h4>
+More work on linux and a bit of network if I feel like it (and I do). I could start to think a bit about picking back up the resume challenge (next few days). 
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>06/03/2024</h3>
