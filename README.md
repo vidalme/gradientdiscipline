@@ -949,7 +949,19 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
 <br><hr>
 <h3>06/03/2024</h3>
 <h4><u>Plan</u></h4>
-I need to build a network in linux. A VERY basic one, just so I can get ahold of the basics.
+<p>I need to build a network in linux. A VERY basic one, just so I can get ahold of the basics.</p>
+<p>During the day I found a good goal for today, work on cisco network tutorials, the goals is to finish the first few chapters and finish do the Checkpoint exam, build a small network.</p>
+
+<a href='https://skillsforall.com/'>Network basics</a>
+<h3>Cisco Networking Basics</h3>
+<ul>
+    <li>Course Introduction</li>
+    <li>Module 1: Communication in a Connected World</li>
+    <li>Module 2: Network Components, Types, and Connections</li>
+    <li>Module 3: Wireless and Mobile Networks</li>
+    <li>Module 4: Build a Home Network</li>
+    <li>Checkpoint Exam: Build a Small Network</li>
+</ul>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>07/03/2024</h3>
