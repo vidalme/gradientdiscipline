@@ -943,9 +943,13 @@ When I got to challenges with networking I got totally stuck, it is currently th
 <h4><u>Plan</u></h4>
 More work on linux and a bit of network if I feel like it (and I do). I could start to think a bit about picking back up the resume challenge (next few days). 
 <h4><u>Execution</u></h4>
+<p>I put the time in, I wish I could say that was enough, but it ain't. After many hours of networking and less linux (against my planning), I came to a few realizations.</p>
+<p>I read it through the content and watched yt videos, but networking is still a mistery for me, I just cant find the right material. Whenever I think I understand an individual concept I just can't really put it in context of a bigger picture and  connect the dots so I can use it pratically. </p>
+<p>I guess I will really need a more structured and longer course on the subject, one with hadns on would be very helpfull, specially if i it was more related to what I have been doing, something teaching network from a linux and VMs from vmbox point of view, but I prob wont find it, my best shot is to look for a more traditional course with phisical tooling and structuring.</p> 
 <br><hr>
 <h3>06/03/2024</h3>
 <h4><u>Plan</u></h4>
+I need to build a network in linux. A VERY basic one, just so I can get ahold of the basics.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>07/03/2024</h3>
