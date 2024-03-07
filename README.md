@@ -963,9 +963,12 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
     <li>Checkpoint Exam: Build a Small Network</li>
 </ul>
 <h4><u>Execution</u></h4>
+<p>I am happy with my performance, I studied hard and focused very much, I messed up slightly and missed my mark for ammount of hours a day, but the ones I did get in were high quality ones, I feel like I did do some progress with networking.</p>
+<p>I also couldn't finish the last task, I mightve been able to if I knew the software required for the tas, <b>Cisco Packet Tracer</b>, so I had to learn it, I am taking ciscos course for it, so I had to interrupt the Network course to do the Packet Tracer.</p>
 <br><hr>
 <h3>07/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>I will finish the <b>Cisco Packet Tracer course</b> (not sure if I will need more than one, I know there are several ones) and then I will get back to work on the Cisco Network introduction.</p>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>08/03/2024</h3>
