@@ -970,9 +970,15 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
 <h4><u>Plan</u></h4>
 <p>I will finish the <b>Cisco Packet Tracer course</b> (not sure if I will need more than one, I know there are several ones) and then I will get back to work on the Cisco Network introduction.</p>
 <h4><u>Execution</u></h4>
+<p>Lots and lots of hours reading and watching videos, finished all my objectives for the day and went way past them, took a lot more classes from cisco, but then I changed thing up again.</p>
+<p>I decided that I will go back to aluras courses because they opened their platform for a month, so now I have ton of new courses available, so I'll try to take advantage of that.</p>
 <br><hr>
 <h3>08/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Total focus on network courses from Alura!</p>
+<p>Objectives for the day:</p>
+<p>Finish the course --> Redes: dos conceitos iniciais à criação de uma intranet</li>
+<p>Start the course -->  Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet (at least 50% of it)</p>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>09/03/2024</h3>
