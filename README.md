@@ -980,9 +980,23 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
 <p>Finish the course --> Redes: dos conceitos iniciais à criação de uma intranet</li>
 <p>Start the course -->  Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet (at least 50% of it)</p>
 <h4><u>Execution</u></h4>
+<p>I finished the Aluras Network I, and started working on redes II, then I swung back to ciscos network course so I can strengthen my basic knowledge and take a break from aluras redes II, which I did started but I felt a steep curve from I's.
+<p>It was a decent day but I felt like too redudant, so I def need to hurry the fuck up on Ciscos or go ahead and swallow the korean-hard-mode from aluras and man it up. 
 <br><hr>
 <h3>09/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>I'd like to finish ciscos network course over the weekend. It shouldn't take too long. it is def doable but still challenging but not "over 10 hours each day challenging".
+<ul>
+    <li>Module 12: Gateways to Other Networks</li>
+    <li>Module 13: The ARP Process</li>
+    <li>Module 14: Routing Between Networks</li>
+    <li>Checkpoint Exam: Communication Between Networks</li>
+    <li>Module 15: TCP and UDP</li>
+    <li>Module 16: Application Layer Services</li>
+    <li>Module 17: Network Testing Utilities</li>
+    <li>Checkpoint Exam: Protocols for Specific Tasks</li>
+    <li>Networking Basics Course Final Exam</li>
+</ul>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>10/03/2024</h3>
