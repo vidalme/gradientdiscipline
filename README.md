@@ -998,9 +998,14 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
     <li>Networking Basics Course Final Exam</li>
 </ul>
 <h4><u>Execution</u></h4>
+<p> I already put the minimum ammount(44h) but I am still a few hours short from the actual gold-goal of 60h a week.
+<p> Not much progress to be honest, I took a semi-break, I should make up for it tomorrow I prob wont, I should at least put a few more hours tho. The thing is that there are many nbrand new concepts that need time to sink in, I sure can understand them when wathcing someone explaining, but they get real fog real quick after a few hours, they need to be studied, exercised and remembered. Otherwise I am just being kidnappend by my curiosity</p>
+<p>The thing is, networking for me is really brand new, I have been learning it the past 6 months by bits and pieces from AWS services but they are all aws managed and that hid from me so most of what was going on underneath... So networking was always a thing I felt I would just not learn and let the cloud take care of it,in the back of my mind I knew one day I would have to take a step back and actually leaern networking from a more professional manner.
+<p>At least for aone more week I should dedicate most of my time to study it as deeply as I can, that is way I am taking the Cisco Basic Networkign course cuncurrently, it's the basics, and that is exactly what I need atm.
 <br><hr>
 <h3>10/03/2024</h3>
 <h4><u>Plan</u></h4>
+Focus on bascis, lets get some Ciscos Network basics progress.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>11/03/2024</h3>
