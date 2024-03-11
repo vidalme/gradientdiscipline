@@ -1005,11 +1005,17 @@ More work on linux and a bit of network if I feel like it (and I do). I could st
 <br><hr>
 <h3>10/03/2024</h3>
 <h4><u>Plan</u></h4>
-Focus on bascis, lets get some Ciscos Network basics progress.
+Focus on basics, lets get some Ciscos Network basics progress.
 <h4><u>Execution</u></h4>
+<p>Not much progress... I did take a lazy weekend, another big reason in all honesty is that there is a swell and I am surfing too much, it makes me so exhausted that I have no stamina left to sit down and study.</p>
+<p>Let's cut down on the surfing next week, main goal is to finish Ciscos course and then Redes II from alura.
+<p>
 <br><hr>
 <h3>11/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>I am typing this plan at 15:00 on monday, so I already messed up the first part of the day, now it's time to get motherfucking serious godamnit!!!!</p>
+<p>Do not play boy, get real!</p>
+<p>Finish Cisco course and Alura's Redes II, also do a little bit of the security cisco's courses</p>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>12/03/2024</h3>
