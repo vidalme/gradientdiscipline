@@ -1017,11 +1017,44 @@ Focus on basics, lets get some Ciscos Network basics progress.
 <p>Finish Cisco course and Alura's Redes II, also do a little bit of the security cisco's courses</p>
 <h4><u>Execution</u></h4>
 <p>Finished cisco's course, it was very very educational, I really feel a completelly different understanding of networking, I may take a quick break of networking tho, I need the time to let the knowledge sink in.</p>
-<p>I also attended the first class for the <span style='color:ForestGreen;font-size:1.4rem;'><b>IT Talent devops course</b></span>. I liked it very much, it seems much more job oriented than boticario's bootcamp, also the team felt much more commited, they are clearly way more professional than anything boticario is trying to do. There will be live classes once a week and lots of projects, I think this should be my focus from now on, not confirmed yet, need more confirmation info. 
+<p>I also attended the first class for the <span style='color:ForestGreen;font-size:1.6rem;'><b>IT Talent devops course</b></span>. I liked it very much, it seems much more job oriented than boticario's bootcamp, also the team felt much more commited, they are clearly way more professional than anything boticario is trying to do. There will be live classes once a week and lots of projects, I think this should be my focus from now on, not confirmed yet, need more confirmation info. 
 <br><hr>
 <h3>12/03/2024</h3>
 <h4><u>Plan</u></h4>
-Early in the morning, not sure yet what I should focus on today, there are plenty of things.
+<p>It took me a while to decide on the path from now on, I was willing to take a break from networking and maybe work on the project due on the end of the next week.</p>
+<p>I decided on doing a bit of a python review and expanding, following some of the content from the book <span style='color:AliceBlue;font-size:1.2rem;font-weight:bold'>Python for DevOps</span>. I should hurry up with this and finish one or two small projects till the end of the wekend.</p>
+<p>A quick plan for the week should look a bit like (I will be updating this schedule as the days go by):</p>
+<ul>
+    <li>
+        Chapter 1. Python Essentials for DevOps (2 days: wed and thu)
+    </li>
+    <ul>
+        <li>Quick review on python commands</li>
+        <li>Using Regular Expressions</li>
+        <li>Do the exercises</li>
+    </ul>
+    <li>
+        Chapter 2. Automating Files and the Filesystem (2 days: wed and thu)
+    </li>
+    <ul>
+        <li>Read through the whole chapter</li>
+        <li>Come up witha couple of exercises</li>
+    </ul>
+    <li>
+        Chapter 3. Working with the Command Line (2 days: wed and thu)
+    </li>
+    <ul>
+        <li>Read through the whole chapter</li>
+        <li>do exercises</li>
+    </ul>    
+    <li>
+        Chapter 4. Useful Linux Utilities (2 days: wed and thu)
+    </li>
+    <ul>
+        <li>Read through the whole chapter</li>
+        <li>do exercises</li>
+    </ul>
+</ul>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>13/03/2024</h3>
