@@ -1,6 +1,6 @@
-<h2 style="font-size:2.2rem;color:linen">Tick-Tock</h2>
-<p style="font-size:1.1rem">After almost 15 years away from IT, this is a new era with a new enviroment, this is just a new beginning with numerous possibilities, although I'll take the front door and start exploring and understand the current state of webdevelopment.</p>
-<h3 style="font-size:1.4rem;color:linen">From January to May 2023</h3>
+<h2>Tick-Tock</h2>
+<p>After almost 15 years away from IT, this is a new era with new enviroment, this is just a new beginning with many possibilities, although I take the front door and start with understanding the state of webdevelopment.</p>
+<h3>From January to May 2023</h3>
 <b>01/01/23</b><br>
 pesquisa sobre programação<br><br>
 <b>07/01/23</b><br>
@@ -15,12 +15,13 @@ React and other frontend stuff (tailwind, git, js libs)<br><br>
 Started migrating my focus to Typescript<br><br>
 <b>05/05/23</b><br>
 Giving a break, little burnout...last commit of a frontend.<br><br>
-<h2 style="font-size:1.6rem;color:linen">Nemesis Divina Era</h2>
-<p> Apos quase 4 meses afastado do retorno, aqui vem o re-retorno, em nova modalidade, ouvi falar
+<h2>Nemesis Divina Era</h2>
+Apos quase 4 meses afastado do retorno, aqui vem o re-retorno, em nova modalidade, ouvi falar
 dessa tal de cloud e devops.
 FIquei curioso e vou começar a pesquisar do que se trata pois nem sei realmente o que faz direito.
-Passar uns dias tentando entender esse novo universo.</p>
+Passar uns dias tentando entender esse novo universo.
 <br>
+<hr>
 <b>23/08/23</b><br>
 pesquisa sobre devops, cloud, certificados... (yt)<br><br>
 <b>26/08/23</b><br>
@@ -35,12 +36,12 @@ brief intro devops (automation, docker, kubernetes) (yt)<br><br>
 foco no certificado SAA aws (deadline 13/12/23) (skillbuilder, aws whitepapers, yt and a bit of udemy)<br><br>
 <b>12/10/23</b><br>
 cantrill no reddit me deu o toque de ir mais devagar com aws e abrir mais o leque por enquanto.<br><br>
-<h2 style="font-size:2.8rem;color:YellowGreen">365 days to get a devops/cloud job</h2>
-<h3 style="font-size:1.3rem;color:Gold ">Beggins on the 13th of Octorber 2023</h3>
+<h2>ONE YEAR TO GET JOB READY ON THE CLOUD </h2>
+<h3>Beginning of the journal 13th of Octorber 2023</h3>
 <b>13/10/2023</b><br>
 Started studying DevOps directly, the goal now is to get a broad idea of the enviroment and how I will aproach this first basic contact.<br><br>
 <b>15/10/2023</b><br>
-Started a new course, more focused on <b style="font-size:1.1rem;color:GhostWhite ">DevOps (53h Imran Teli)</b>, the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics <b style="font-size:1.1rem;color:GhostWhite "> I MUST FINISH THIS ONE!!</b><br><br>
+Started a new course, more focused on DevOps (53h Imran Teli), the biggest reason to change direction was the necessity of acquiring better understanding of the devops basics [I MUST FINISH THIS ONE!!]<br><br>
 <b>17/10/23</b> many bugs with vagrant (local virtualization), though Im starting to feel the very first signs of understanding Devops culture and automation, quite subtle though.<br><br>
 <b>21/10/23</b><br>
 finished the first part of the Devops course, it was about the basis of the workload, lots of traditional virtualization, linux, bash (missed on more networking but I already done a small youtube course on it, 20 or so hours on it).<br><br>
@@ -95,7 +96,7 @@ I did some the research but it was quick, and I ended up following the course pr
 <br>
 <br>
 <br>
-<h2 style="font-size:2.2rem;color:linen">November 2024</h2>
+<h2>November 2024</h2>
 
 <h3>01/11/2023</h3>
 <h4><u>Plan</u></h4>
@@ -293,7 +294,7 @@ Finished both sections and even started on section 6. Today was a great day, cou
 <br>
 <br>
 <br>
-<h2 style="font-size:2.2rem;color:linen">December 2024</h2>
+<h2>December 2024</h2>
 
 <h3>01/12/2023</h3>
 <h4><u>Plan</u></h4>
@@ -484,7 +485,7 @@ I was able to get some lil bit of study, but not very efficient to be honest, th
 <br>
 <br>
 <br>
-<h2 style="font-size:2.2rem;color:linen">January 2024</h2>
+<h2>January 2024</h2>
 
 <h3>01/01/2024</h3>
 <h4><u>Plan</u></h4>
@@ -676,7 +677,7 @@ Difficult day really, tired af and not very willing to put the work in, lots of 
 <br>
 <br>
 <br>
-<h2 style="font-size:2.2rem;color:linen">February 2024</h2>
+<h2>February 2024</h2>
 <h3>01/02/2024</h3>
 <h4><u>Plan</u></h4>
 Do half the git course (devops alura), do a good aws mini project and go over at least 10 questions review
@@ -874,7 +875,7 @@ My approach will be to: <br>
 <p>The late-night session was excellent, providing ample practice and reading on Linux. Although it wasn't very lengthy, it was productive. I went surfing afterwards and was quite tired, so I relaxed for the remainder of the morning before sleeping into the afternoon. 
 <p>I intended to make up for the lost time later, but a car issue that my wife encountered required my attention, causing me to miss the night session.</p>
 <br><hr><br>
-<h2 style="font-size:2.2rem;color:linen">March 2024</h2>
+<h2>March 2024</h2>
 <h3>01/03/2024</h3>
 <h4><u>Plan</u></h4>
 <p>The rest of this week and next week are already set on Linux studies.
