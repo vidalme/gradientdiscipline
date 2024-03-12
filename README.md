@@ -1017,9 +1017,12 @@ Focus on basics, lets get some Ciscos Network basics progress.
 <p>Do not play boy, get real!</p>
 <p>Finish Cisco course and Alura's Redes II, also do a little bit of the security cisco's courses</p>
 <h4><u>Execution</u></h4>
+<p>Finished cisco's course, it was very very educational, I really feel a completelly different understanding of networking, I may take a quick break of networking tho, I need the time to let the knowledge sink in.</p>
+<p>I also attended the first class for the <font size=+1><b>IT Talent devops course</b></font>. I liked it very much, it seems much more job oriented than boticario's bootcamp, also the team felt much more commited, they are clearly way more professional than anything boticario is trying to do. There will be live classes once a week and lots of projects, I think this should be my focus from now on, not confirmed yet, need more confirmation info. 
 <br><hr>
 <h3>12/03/2024</h3>
 <h4><u>Plan</u></h4>
+Early in the morning, not sure yet what I should focus on today, there are plenty of things.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>13/03/2024</h3>
