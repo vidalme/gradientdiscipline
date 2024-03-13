@@ -1056,10 +1056,23 @@ Focus on basics, lets get some Ciscos Network basics progress.
     </ul>
 </ul>
 <h4><u>Execution</u></h4>
+<p>I really did not have a plan for today, so the day started with random tasks and no particular direction, till I stopped out of frustration and decided to sit and think to come up with some structure for the next few days. 
+<p>I traced a good plan (read the plan above) and spent a lot of time putting it on paper, so I better put it to use with 100% focus. I had to do that to remediate wasting half the day time trying to do the resume challenge, it was very frustrating because I do not know enough to do the task.
+<p>I was supposed to start the plan tomorrow, but I extended my daily activities a lil bit and did a quick review on the book, nothing much but enough to get more confident for the next few days of pure python+automation. 
 <br><hr>
 <h3>13/03/2024</h3>
 <h4><u>Plan</u></h4>
+    <li>
+        Chapter 1. Python Essentials for DevOps (2 days: wed and thu)
+    </li>
+    <ul>
+        <li>Quick review on python commands</li>
+        <li>Using Regular Expressions</li>
+        <li>Do the exercises</li>
+    </ul>
+Follow the plan from the 
 <h4><u>Execution</u></h4>
+Started trying some mongoDB course
 <br><hr>
 <h3>14/03/2024</h3>
 <h4><u>Plan</u></h4>
