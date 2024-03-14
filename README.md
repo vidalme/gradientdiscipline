@@ -1072,10 +1072,13 @@ Focus on basics, lets get some Ciscos Network basics progress.
     </ul>
 Follow the plan from the 
 <h4><u>Execution</u></h4>
-Started trying some mongoDB course
+<p>Started trying some mongoDB course, this needs to stop, I just like something and run chasing it and forget the oficial plan (the one that was actually carefully thought out).
+<p>After wasting some time I came back and went in hard on regex but I've been thinking of learning how to use jupyter; both cause it is what the book "python for devops" uses but also cause it just seems very handy for documenting stuff (even for my future self).
+<p>After that I read a bit and did a youtube tutorial on .csv and how to use it in python. Only after that I really dedidcated time to regex with python, only late at night unfortunatelly. So I did not finish the tasks for the day, but I feel like I will got through them very quickly tomorrow.
 <br><hr>
 <h3>14/03/2024</h3>
 <h4><u>Plan</u></h4>
+Finish what was unfinished from yesterday, then put some work on the actual tasks for today (see day 12/03 for schedule)
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>15/03/2024</h3>
