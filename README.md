@@ -1088,9 +1088,13 @@ Finish what was unfinished from yesterday, then put some work on the actual task
 <h4><u>Plan</u></h4>
 Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Execution</u></h4>
+<p>Good work bruh, I could focus well and actually do some reading and practice, I def felt good progression on the book.
+<p>There were plenty of mindblown moments, connecting dots that have always been obscure. This is a must read book, not for just the actual technical knowledge, but for the context that it puts me in, specially cause I do not have real experience in the field.
+<p>I finished a day late the first chapter, and still very late on the second chapter, so I better hurry up tomorrow.
 <br><hr>
 <h3>16/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Follow the plan, read this book, it's just very valueable knowledge about the actual work and not just theory, get at least the automation part done so we can start working on alura <span style='font-size:1.5rem;color:DarkCyan;font-weight:bold'>project due to  22/03/24</span>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>17/03/2024</h3>
