@@ -1034,21 +1034,21 @@ Focus on basics, lets get some Ciscos Network basics progress.
         <li>Do the exercises</li>
     </ul>
     <li>
-        Chapter 2. Automating Files and the Filesystem (2 days: wed and thu)
+        Chapter 2. Automating Files and the Filesystem (2 days: fri and sat)
     </li>
     <ul>
         <li>Read through the whole chapter</li>
         <li>Come up witha couple of exercises</li>
     </ul>
     <li>
-        Chapter 3. Working with the Command Line (2 days: wed and thu)
+        Chapter 3. Working with the Command Line (2 days: sun and mon)
     </li>
     <ul>
         <li>Read through the whole chapter</li>
         <li>do exercises</li>
     </ul>    
     <li>
-        Chapter 4. Useful Linux Utilities (2 days: wed and thu)
+        Chapter 4. Useful Linux Utilities (2 days: tue and wed)
     </li>
     <ul>
         <li>Read through the whole chapter</li>
@@ -1096,9 +1096,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p>Follow the plan, read this book, it's just very valueable knowledge about the actual work and not just theory, get at least the automation part done so we can start working on alura <span style='font-size:1.5rem;color:DarkCyan;font-weight:bold'>project due to  22/03/24</span>
 <h4><u>Execution</u></h4>
+<p>Well, not much progress but a lot of work, I am having problems integrating jupyter with pytthon virtual enviroments. It's normal subtle things get you real late in your projects, sometimes we just need to change things up and restart onn the problem later, witha a fresh mind.
+<p>Even though I am late, there is no excuse to give up, need to hurry up and do whatever I can, maybe I will shorten the book reading so I can get to work on the python automation projects. I really look forward to that.
 <br><hr>
 <h3>17/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p> No Lazy sunday today, got to work on the book, at least the files and filestytem section must be finished!! So during the week I can work more or less on automation with python projects (for the aluras projects).
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>18/03/2024</h3>
