@@ -1107,9 +1107,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <br><hr>
 <h3>18/03/2024</h3>
 <h4><u>Plan</u></h4>
-<p>This week I should focus on the project for aluras bootcamp, 100% focus on it, I must stand out somehow frm this project. 
+<p style='font-size:1.5rem;color:DarkCyan;font-weight:bold'>9 days left for deploy
+<p>Countdown for delivery of aluras bootcamp first project.
+<p> At the most by Tuesday I should finish the <b>Python for devops book</b> (only the first 4 chapters). 
+<p>The rest of the week I should focus on the project for aluras bootcamp, 100% focus on it, I must stand out somehow from this project. 
 <p style='font-size:1.2rem'><b>The plan is to make 2 projects!</b>
-<p>I should be doing 2 projects, a classic one, traditionally done by most devopsters in a normal setting. <p>The other porject should be a risky, innovative one, do something unique to stand out. 
+<p>A classic one, traditionally done by most devopsters in a normal setting. <p>The other project should be a risky, innovative one, do something unique to stand out. 
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>19/03/2024</h3>
