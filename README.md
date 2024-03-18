@@ -1103,9 +1103,13 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p> No Lazy sunday today, got to work on the book, at least the files and filestytem section must be finished!! So during the week I can work more or less on automation with python projects (for the aluras projects).
 <h4><u>Execution</u></h4>
+<p>I was quick and effective, I really focused and for some miracle I am now on schedule and may even be a bit ahead. Only studied in the the morning till lunch and I was already done, good stuff too, working with filesystems in linux within python, good automation skills and handy for this weeks <b>project for aluras devops course</b>.
 <br><hr>
 <h3>18/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>This week I should focus on the project for aluras bootcamp, 100% focus on it, I must stand out somehow frm this project. 
+<p style='font-size:1.2rem'><b>The plan is to make 2 projects!</b>
+<p>I should be doing 2 projects, a classic one, traditionally done by most devopsters in a normal setting. <p>The other porject should be a risky, innovative one, do something unique to stand out. 
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>19/03/2024</h3>
