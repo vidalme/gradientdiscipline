@@ -1114,9 +1114,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <p style='font-size:1.2rem'><b>The plan is to make 2 projects!</b>
 <p>A classic one, traditionally done by most devopsters in a normal setting. <p>The other project should be a risky, innovative one, do something unique to stand out. 
 <h4><u>Execution</u></h4>
+<p>I am done with the book temporary, only using it for research, topically.
+<p>I already started working on the actual projects, got a simple one done along with the cron configuration. Time to step up and do something more challeging before getting to do the one for the project.
 <br><hr>
 <h3>19/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Focus on coding, lets get more python automation practice!
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>20/03/2024</h3>
