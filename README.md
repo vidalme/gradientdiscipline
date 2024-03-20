@@ -1121,9 +1121,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p>Focus on coding, lets get more python automation practice!
 <h4><u>Execution</u></h4>
+<p>I am spending a lot of time on python but I feel like I am actually learning somethiong so important, specific modules to automation like paramiko and sftp are brand new, but I am also exercising more and more the basic ones like os, sys, subprocess.
+<p>Unfortunatelly I am not being very efficient, I am puting the time in, but I get unfocused too easily, focus on being focused!  
 <br><hr>
 <h3>20/03/2024</h3>
 <h4><u>Plan</u></h4>
+More python automation, please.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>21/03/2024</h3>
