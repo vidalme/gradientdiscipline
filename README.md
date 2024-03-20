@@ -1126,7 +1126,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <br><hr>
 <h3>20/03/2024</h3>
 <h4><u>Plan</u></h4>
-More python automation, please.
+<p>More python automation, please.
+<p><i>End of the day addition:</i> I organized a schedule and planed out all 3(instead of the 2 previously planned) of the projects I will deliver on the 26. So I will organized them by available working time for each.
+<p> 
+<li>21/22 march -> backup de logs
+<li>23/24 march -> monitoramento de sistema
+<li>25/26 march -> gerenciamento de usuarios
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>21/03/2024</h3>
