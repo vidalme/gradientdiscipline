@@ -1128,14 +1128,20 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p>More python automation, please.
 <p><i>End of the day addition:</i> I organized a schedule and planed out all 3(instead of the 2 previously planned) of the projects I will deliver on the 26. So I will organized them by available working time for each.
-<p> 
-<li>21/22 march -> backup de logs
-<li>23/24 march -> monitoramento de sistema
-<li>25/26 march -> gerenciamento de usuarios
+<p>
 <h4><u>Execution</u></h4>
+<p>Finished the second warmup automation python script, after I was done I had a few hours to spear, so I outlined the 3 projects I will be working for the aluras project. I also defined a timeline for each one. I will be adding them on the planning for tomorrow. 
+<p>All in all it was a good day, with good ammount of hours with focused work. Concrete stuff got done!
+<p> 
 <br><hr>
 <h3>21/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Next 6 days should be 100% dedicated to these projects, they are good for my portfolio and specially for the chance of running for one of the boticarios spots. All the details are in the aluras bootcamps repos.
+<ul>
+<li>21/22 march -> backup de logs
+<li>23/24 march -> monitoramento de sistema
+<li>25/26 march -> gerenciamento de usuarios e permissões
+</ul>
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>21/03/2024</h3>
