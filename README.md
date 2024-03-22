@@ -1143,9 +1143,13 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <li>25/26 march -> gerenciamento de usuarios e permissões
 </ul>
 <h4><u>Execution</u></h4>
+<p>Good day, some decent progress on the backup logs project, although it could def be better for the huge ammount of time I dedicated to it...unrealistic to keep up this rithym, gotta be more efficient.
+<p>Thursday is IT Talent class day, great time and conversation, it is so refreshing to finally be able to talk to people about all of that Ive been studying, I look forward to the hackathons, first actual experience of a team working enviroment.
 <br><hr>
 <h3>21/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Focus on the project, finish it today, even if I have to cut it shorter a lil bit. 
+<p>Next project I should try and finish a bit earlier if possible, so I can do something else beside python (maybe work a bit on the Redes II alura)
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>22/03/2024</h3>
@@ -1153,6 +1157,38 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>23/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>24/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>25/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>26/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>27/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>28/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>29/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>30/03/2024</h3>
+<h4><u>Plan</u></h4>
+<h4><u>Execution</u></h4>
+<br><hr>
+<h3>31/03/2024</h3>
 <h4><u>Plan</u></h4>
 <h4><u>Execution</u></h4>
 <br><hr>
