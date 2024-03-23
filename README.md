@@ -1151,9 +1151,11 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <p>Focus on the project, finish it today, even if I have to cut it shorter a lil bit. 
 <p>Next project I should try and finish a bit earlier if possible, so I can do something else beside python (maybe work a bit on the Redes II alura)
 <h4><u>Execution</u></h4>
+<p>I did the work, but got stuck on small things, lots of thinking but not very much action. I will keep working on this one project, change of plans ta daaaa...
 <br><hr>
 <h3>23/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p> I will keep working on the backup logs project, lets try to keep it simpler so this thing gets done.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>24/03/2024</h3>
