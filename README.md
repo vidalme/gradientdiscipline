@@ -1157,9 +1157,12 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p> I will keep working on the backup logs project, lets try to keep it simpler so this thing gets done.
 <h4><u>Execution</u></h4>
+<p>I finished the project after midnight, but I will count it as today. It was a great project but I really need to be more swift, taking way too long on small peanuts.
+<p> It was good work and I hope I can keep it up.
 <br><hr>
 <h3>24/03/2024</h3>
 <h4><u>Plan</u></h4>
+<p>Move to the next challenge, and try be more agile. Not sure which one yet but I will soon and update this repo.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>25/03/2024</h3>
