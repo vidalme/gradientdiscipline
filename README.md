@@ -1164,11 +1164,13 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <h4><u>Plan</u></h4>
 <p>Move to the next challenge, and try be more agile. Not sure which one yet but I will soon and update this repo.
 <h4><u>Execution</u></h4>
-<p>Well I spent most fo the day drawing the scope of this challenge, nad it will be gigantic, im shooting really high here, if I land it it will be glorious, otherwise I already have a few smaller projects and a medium one ready for it.
+<p>Well I spent most fo the day drawing the scope of this challenge, it will be gigantic, im shooting really high here, if I land it it will be glorious, otherwise I already have a few smaller projects and a medium one ready for it.
 <br><hr>
 <h3>25/03/2024</h3>
 <h4><u>Plan</u></h4>
 <p>Keep on working on the project, its a second project. It will be about a manager of users and permissions.
+I spent a ton of time planning this one, I really need this one to stand me out off the crowd.
+<p>It is called "Trem" and it is well scoped in the README.md files.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>26/03/2024</h3>
