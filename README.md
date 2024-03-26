@@ -1172,9 +1172,15 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 I spent a ton of time planning this one, I really need this one to stand me out off the crowd.
 <p>It is called "Trem" and it is well scoped in the README.md files.
 <h4><u>Execution</u></h4>
+<p>Many of the tools from the planning turned out to be impossible, I just dont know yet all capabilities and limitations these scripts have, still, it's shaping out well, lots of cool stuff implemented in the system.
+<p>It was good practice, although I again got stuck on minutiae, which was the sending warning to the admins, which it seems linux can't send gmail emails so easily, some very deep certs need to be aquired and configd.
+<p>The rest was seemingly smooth. Greate python practice.
 <br><hr>
 <h3>26/03/2024</h3>
 <h4><u>Plan</u></h4>
+<h3>Deadline for the pratical project, today is the day.</h3>
+<p>Finish the script, I need to deliver these 2 complete projects, with README and documentation, with the code commented.
+<p>After deliverying the scritps I will have to do the second course of redes from aluras boticario.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>27/03/2024</h3>
