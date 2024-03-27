@@ -1094,7 +1094,7 @@ Alrite, today is a day to focus and hurry the flan out with the book.
 <br><hr>
 <h3>16/03/2024</h3>
 <h4><u>Plan</u></h4>
-<p>Follow the plan, read this book, it's just very valueable knowledge about the actual work and not just theory, get at least the automation part done so we can start working on alura <span style='font-size:1.5rem;color:DarkCyan;font-weight:bold'>project due to  22/03/24</span>
+<p>Follow the plan, read this book, it's just very valueable knowledge about the actual work and not just theory, get at least the automation part done so we can start working on alura <span style='font-size:1.5rem;color:DarkCyan;font-weight:bold'>project due to  26/03/24</span>
 <h4><u>Execution</u></h4>
 <p>Well, not much progress but a lot of work, I am having problems integrating jupyter with pytthon virtual enviroments. It's normal subtle things get you real late in your projects, sometimes we just need to change things up and restart onn the problem later, witha a fresh mind.
 <p>Even though I am late, there is no excuse to give up, need to hurry up and do whatever I can, maybe I will shorten the book reading so I can get to work on the python automation projects. I really look forward to that.
@@ -1182,9 +1182,21 @@ I spent a ton of time planning this one, I really need this one to stand me out 
 <p>Finish the script, I need to deliver these 2 complete projects, with README and documentation, with the code commented.
 <p>After deliverying the scritps I will have to do the second course of redes from aluras boticario.
 <h4><u>Execution</u></h4>
+Ok right to the point, I did it, I finished both projects (not 100% all functions but good enough), the problem is, it is due on the 26th of the <b>NEXT</b> month!
+<p>I guess I just need to be more mindfull of what I am currently doing, be more present! Also just for the records, my mmother in-law was supposed to come today and spend a few weeks with us, so Ive been telling my wife that I would have to work most of the day when she arrived, not sure this is relevant.
+<p>After so many hours of dedication I might sometimes get through the motions and forget the real goal, which is to learn! Get actually good at it and not just be a trophy chaser(aka certifications chaser). Another thing I messed up was that I got so very tunnelvisioned into these projects that I miscalculated how much behind I got in the course. I confess that I am a bit sick of learning by watching, I really want to practice hands on and get some projects in, but I just need to learn WAY more, so just put my head down and go fast! 
+<p>There is a saying in portuguese, "Go fast but don't hurry", in other words be in the moment but always keep an eye on the big picture.
+<p>The good thing is that I was early 1 month, not late 1 month hehe, that would be so much worse.<br>
+I guess I am ok, but I still want to "punish" myself, even though I already finish it, I should be able to improve on the organization and the actual code, I made 5 scripts, 2 big ones and 3 smaller ones, I should revisit it a few times during this extram month and update it. 
+<p>Remember, revisiting is not just good for the actual delivered product but also for my actual skills and the portfolio as well. Do it! Be the best version of yourself!
 <br><hr>
 <h3>27/03/2024</h3>
 <h4><u>Plan</u></h4>
+The plan is to get up to date with aluras videos, I am behind quite a bit and this next 6 days will be my catching up plan, 2 days for each 8 hour course (there might be a small delay due to a guarantee break on thursday night (IT Talent) and most likely another task from IT talent on top of that.)
+
+<li>( 27 and 28 march) Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet
+<li>( 29 and 30 march) Redes: implementando roteamento, DNS e IPv6
+<li>( 31 of march ) Redes Wi-Fi: criando uma rede sem fio de modo seguro
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>28/03/2024</h3>
