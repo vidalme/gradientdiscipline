@@ -1198,9 +1198,12 @@ The plan is to get up to date with aluras videos, I am behind quite a bit and th
 <li>( 29 and 30 march) Redes: implementando roteamento, DNS e IPv6
 <li>( 31 of march ) Redes Wi-Fi: criando uma rede sem fio de modo seguro
 <h4><u>Execution</u></h4>
+<p>Well, I actually could go through these course way quicker than I initially thought, the main reason for that was that all the content I had just studied from another course, Ciscos networking. I finished the Redess II and III, just missing the last one about wi-fi. Also networking content does not need to be learned to the point of building myself some complete network with ISPs and BGPs, I need to understand all the concepts tho... so I do not need to fully finish every single lab, which is the slowest part.
+<p>
 <br><hr>
 <h3>28/03/2024</h3>
 <h4><u>Plan</u></h4>
+Finish the last Redes course from aluras and then go ahead and do modulo 3 from ITs talent. Try and make time for some python. Do not  forget there is class today, at 19 frmo IT Talent.
 <h4><u>Execution</u></h4>
 <br><hr>
 <h3>29/03/2024</h3>
